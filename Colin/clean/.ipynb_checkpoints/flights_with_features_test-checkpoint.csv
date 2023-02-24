@@ -1,0 +1,1030 @@
+fl_date,day_of_the_week,month,mkt_unique_carrier,origin,dest,crs_dep_time,dep_delay,taxi_out,taxi_in,crs_arr_time,air_time,arr_delay,distance,origin_city,origin_state,dest_city,dest_state,origin_weather_condn,origin_tempc,origin_windspeedmiles,origin_winddir16point,origin_windgustmiles,origin_windchillc,origin_precipinches,origin_humidity,origin_visibilitymiles,origin_pressureinches,origin_dewpointc,origin_cloudcover,origin_uvindex,dest_weather_condn,dest_tempc,dest_windspeedmiles,dest_winddir16point,dest_windgustmiles,dest_windchillc,dest_precipinches,dest_humidity,dest_visibilitymiles,dest_pressureinches,dest_dewpointc,dest_cloudcover,dest_uvindex
+2/1/2018,Thursday,February,AA,STL,ORD,1145,-1,10,11,1305,58,-2,258,St. Louis, MO,Chicago, IL,Sunny,15,11,N,24,15,0,39,6,30,1,0,5,Sunny,-8,15,NW,17,-16,0,42,6,30,-18,0,2
+10/1/2018,Monday,October,AA,DFW,GRI,2120,-5,19,4,2303,77,-8,561,Dallas/Fort Worth, TX,Grand Island, NE,Patchy rain possible,26,2,SE,4,26,0,74,5,30,21,17,1,Clear,14,6,ENE,9,14,0,65,6,30,8,8,1
+6/1/2018,Friday,June,AA,LIT,DFW,852,-9,10,9,1025,49,-34,304,Little Rock, AR,Dallas/Fort Worth, TX,Moderate or heavy rain shower,23,4,W,8,23,0.1,94,4,30,22,41,5,Cloudy,23,10,S,15,23,0,92,6,30,22,70,5
+1/1/2018,Monday,January,AA,DCA,MEM,1621,154,12,3,1749,122,143,762,Washington, DC,Memphis, TN,Overcast,-6,9,NW,10,-11,0,42,6,30,-17,91,1,Sunny,-7,10,NNE,11,-14,0,34,6,31,-20,0,2
+5/1/2018,Tuesday,May,AA,SYR,ORD,1811,-3,8,12,1924,94,-22,607,Syracuse, NY,Chicago, IL,Clear,14,4,WSW,8,14,0,73,6,30,9,17,1,Clear,21,15,SSW,32,21,0,51,6,30,10,8,1
+10/1/2018,Monday,October,AA,BTR,DFW,1110,26,10,10,1242,61,15,383,Baton Rouge, LA,Dallas/Fort Worth, TX,Fog,23,4,NE,7,23,0,97,0,30,22,100,5,Partly cloudy,28,7,SSW,8,28,0,64,6,30,21,57,7
+1/1/2018,Monday,January,AA,CLT,SDF,1950,-3,22,5,2118,61,-3,335,Charlotte, NC,Louisville, KY,Clear,-4,4,NNW,6,-8,0,31,6,31,-19,0,1,Clear,-13,6,NNW,10,-20,0,45,6,31,-23,0,1
+11/1/2018,Thursday,November,AA,IAH,MIA,735,-3,29,8,1110,146,25,964,Houston, TX,Miami, FL,Partly cloudy,15,11,NW,16,13,0,84,6,30,12,47,4,Sunny,25,9,SE,13,25,0,71,6,30,20,0,7
+2/1/2018,Thursday,February,AA,ORD,RST,820,-2,56,4,931,47,34,268,Chicago, IL,Rochester, MN,Partly cloudy,-1,14,WNW,21,-8,0,66,6,30,-6,28,2,Partly cloudy,-19,16,NW,22,-30,0,79,6,30,-21,56,2
+1/1/2018,Monday,January,AA,MEM,DCA,1819,157,1,10,2119,90,138,762,Memphis, TN,Washington, DC,Clear,-8,10,N,14,-15,0,23,6,31,-25,2,1,Cloudy,-8,7,WNW,12,-13,0,51,6,30,-16,79,1
+4/1/2018,Sunday,April,AA,TYR,DFW,1813,7,16,13,1915,27,1,102,Tyler, TX,Dallas/Fort Worth, TX,Partly cloudy,21,5,SSW,10,21,0,87,6,30,19,48,1,Overcast,11,13,N,17,9,0,70,6,30,6,100,1
+2/1/2018,Thursday,February,AA,ORD,STL,1000,-6,18,3,1115,53,-7,258,Chicago, IL,St. Louis, MO,Partly cloudy,-1,14,WNW,21,-8,0,66,6,30,-6,28,2,Sunny,15,11,N,24,15,0,39,6,30,1,0,5
+7/1/2018,Sunday,July,AA,DTW,PHL,702,-4,16,17,844,70,-3,453,Detroit, MI,Philadelphia, PA,Sunny,27,5,S,6,27,0,79,6,30,23,0,7,Sunny,28,3,WNW,4,28,0,56,6,30,19,18,7
+8/1/2018,Wednesday,August,AA,CLT,IAD,1329,3,13,6,1452,58,-3,322,Charlotte, NC,Washington, DC,Moderate or heavy rain shower,28,6,SSW,7,28,0.1,71,4,30,22,41,6,Overcast,32,11,SSW,12,32,0,51,6,30,20,88,7
+5/1/2018,Tuesday,May,AA,DFW,OKC,1845,45,12,5,1950,36,33,175,Dallas/Fort Worth, TX,Oklahoma City, OK,Light rain shower,23,12,SSE,18,23,0,85,6,30,20,100,1,Light rain shower,22,18,SSE,27,22,0,82,6,30,19,100,1
+10/1/2018,Monday,October,AA,CLT,MKE,2215,-4,20,5,2322,103,-3,651,Charlotte, NC,Milwaukee, WI,Clear,23,2,SE,5,23,0,70,6,30,17,9,1,Mist,15,1,SSW,2,15,0,96,1,30,15,95,1
+7/1/2018,Sunday,July,AA,PHL,SDF,1514,-1,31,24,1724,87,11,576,Philadelphia, PA,Louisville, KY,Partly cloudy,39,3,SSW,4,39,0,24,6,30,15,33,9,Moderate or heavy rain shower,32,7,SSW,8,32,0.1,59,4,30,23,7,7
+11/1/2018,Thursday,November,AA,LAX,ORD,1815,6,15,6,17,218,3,1744,Los Angeles, CA,Chicago, IL,Clear,27,4,WSW,5,27,0,33,6,30,10,0,1,Cloudy,10,7,NNW,12,9,0,64,6,30,4,87,1
+6/1/2018,Friday,June,AA,DFW,LIT,2020,-3,24,7,2134,61,15,304,Dallas/Fort Worth, TX,Little Rock, AR,Clear,34,8,SSE,12,34,0,49,6,30,22,0,1,Moderate or heavy rain shower,31,6,SE,10,31,0.1,70,4,30,25,31,1
+12/1/2018,Saturday,December,AA,DAY,PHL,554,-9,11,9,735,64,-26,477,Dayton, OH,Philadelphia, PA,Overcast,3,6,E,9,0,0,94,6,30,3,100,1,Partly cloudy,3,3,N,5,1,0,80,6,30,-1,32,2
+11/1/2018,Thursday,November,AA,LAS,ORD,654,1,28,16,1240,192,11,1514,Las Vegas, NV,Chicago, IL,Sunny,13,4,NNW,8,13,0,25,6,30,-6,5,4,Overcast,9,12,NE,16,6,0,71,6,30,4,95,2
+8/1/2018,Wednesday,August,AA,DAY,CLT,902,25,13,10,1041,70,19,370,Dayton, OH,Charlotte, NC,Mist,18,3,W,4,18,0,97,1,30,18,89,4,Partly cloudy,23,4,SSW,5,23,0,93,6,30,22,62,6
+4/1/2018,Sunday,April,AA,DFW,XNA,2220,-3,21,5,2326,41,-2,280,Dallas/Fort Worth, TX,Fayetteville, AR,Overcast,11,13,N,17,9,0,70,6,30,6,100,1,Overcast,1,11,NNE,14,-3,0,93,6,30,0,100,1
+8/1/2018,Wednesday,August,AA,ORF,CLT,927,55,11,32,1059,55,61,290,Norfolk, VA,Charlotte, NC,Sunny,25,11,SW,16,25,0,87,6,30,23,11,7,Partly cloudy,23,4,SSW,5,23,0,93,6,30,22,62,6
+8/1/2018,Wednesday,August,AA,CLT,ORF,745,0,38,3,857,50,19,290,Charlotte, NC,Norfolk, VA,Partly cloudy,23,4,SSW,5,23,0,93,6,30,22,62,6,Sunny,25,11,SW,16,25,0,87,6,30,23,11,7
+8/1/2018,Wednesday,August,AA,TYS,DCA,1829,131,11,5,2000,79,135,437,Knoxville, TN,Washington, DC,Light drizzle,21,2,ESE,2,21,0,94,1,30,20,78,1,Clear,29,7,S,11,29,0,67,6,30,22,21,1
+5/1/2018,Tuesday,May,AA,OKC,DFW,2026,22,11,13,2130,37,19,175,Oklahoma City, OK,Dallas/Fort Worth, TX,Light rain shower,22,18,SSE,27,22,0,82,6,30,19,100,1,Light rain shower,23,12,SSE,18,23,0,85,6,30,20,100,1
+10/1/2018,Monday,October,AA,DTW,PHL,801,-13,15,3,940,67,-27,453,Detroit, MI,Philadelphia, PA,Overcast,12,9,ENE,12,10,0,86,6,30,10,100,3,Sunny,19,6,SSW,7,19,0,84,6,30,17,13,5
+11/1/2018,Thursday,November,AA,MEM,DFW,737,-5,19,15,930,80,-4,431,Memphis, TN,Dallas/Fort Worth, TX,Light rain,17,7,NNW,10,17,0.1,91,5,30,16,100,4,Sunny,9,12,WNW,20,6,0,80,6,30,6,15,3
+4/1/2018,Sunday,April,AA,DSM,ORD,934,-10,26,12,1053,57,6,299,Des Moines, IA,Chicago, IL,Overcast,-5,8,N,10,-10,0,36,6,30,-18,100,1,Partly cloudy,-3,11,NNW,13,-8,0,58,6,30,-10,31,2
+2/1/2018,Thursday,February,AA,BUF,ORD,1149,-8,22,16,1245,88,2,474,Buffalo, NY,Chicago, IL,Partly cloudy,1,10,SW,18,-4,0,85,6,30,-2,29,2,Sunny,-8,15,NW,17,-16,0,42,6,30,-18,0,2
+1/1/2018,Monday,January,AA,DCA,MHT,2215,4,14,2,2340,66,1,406,Washington, DC,Manchester, NH,Cloudy,-8,7,WNW,12,-13,0,51,6,30,-16,79,1,Clear,-17,7,WNW,12,-25,0,74,6,30,-20,5,1
+1/1/2018,Monday,January,AA,CLT,TOL,1135,20,41,3,1322,87,44,466,Charlotte, NC,Toledo, OH,Sunny,-7,8,NE,11,-12,0,37,6,30,-19,7,2,Overcast,-12,11,WNW,15,-20,0,79,6,31,-15,93,1
+5/1/2018,Tuesday,May,AA,PVD,ORD,1625,-4,15,14,1809,120,-19,849,Providence, RI,Chicago, IL,Partly cloudy,17,5,W,6,17,0,50,6,30,7,36,5,Clear,21,15,SSW,32,21,0,51,6,30,10,8,1
+5/1/2018,Tuesday,May,AA,ORD,SYR,1500,-1,22,3,1739,82,7,607,Chicago, IL,Syracuse, NY,Sunny,21,13,SSW,28,21,0,49,6,30,10,4,6,Partly cloudy,21,7,W,9,21,0,48,6,30,10,47,6
+11/1/2018,Thursday,November,AA,LBB,DFW,808,36,26,14,934,51,41,282,Lubbock, TX,Dallas/Fort Worth, TX,Sunny,5,6,WNW,12,2,0,80,6,30,1,11,2,Sunny,9,12,WNW,20,6,0,80,6,30,6,15,3
+2/1/2018,Thursday,February,AA,ORD,BUF,845,-1,22,2,1117,61,-8,474,Chicago, IL,Buffalo, NY,Partly cloudy,-1,14,WNW,21,-8,0,66,6,30,-6,28,2,Partly cloudy,1,10,SW,18,-4,0,85,6,30,-2,29,2
+10/1/2018,Monday,October,AA,DFW,JLN,2042,-5,28,5,2159,55,6,327,Dallas/Fort Worth, TX,Joplin, MO,Patchy rain possible,26,2,SE,4,26,0,74,5,30,21,17,1,Clear,23,8,S,16,23,0,86,6,30,20,11,1
+6/1/2018,Friday,June,AA,RDU,LGA,740,86,35,12,929,72,96,431,Raleigh/Durham, NC,New York, NY,Sunny,23,4,WNW,5,23,0,87,6,30,21,6,6,Moderate or heavy rain shower,19,3,E,5,19,0.2,92,4,30,18,98,4
+6/1/2018,Friday,June,AA,DFW,LIT,655,-6,14,5,812,54,-10,304,Dallas/Fort Worth, TX,Little Rock, AR,Cloudy,23,10,S,15,23,0,92,6,30,22,70,5,Moderate or heavy rain shower,23,4,W,8,23,0.1,94,4,30,22,41,5
+4/29/2019,Monday,April,AA,ORD,MIA,1643,-6,12,6,2050,144,-31,1197,Chicago, IL,Miami, FL,Heavy rain,6,7,ESE,12,3,0.8,92,3,30,5,100,2,Clear,27,14,E,17,27,0,68,6,30,20,15,1
+10/1/2019,Tuesday,October,AA,CAE,DCA,921,-5,10,7,1050,76,-1,408,Columbia, SC,Washington, DC,Partly cloudy,24,6,ENE,10,24,0,89,6,30,22,59,6,Partly cloudy,20,4,SSE,5,20,0,78,6,30,16,45,5
+2/1/2019,Friday,February,AA,CLT,JFK,740,-2,14,9,939,76,-22,541,Charlotte, NC,New York, NY,Partly cloudy,-3,5,SSW,8,-4,0,75,6,30,-5,5,2,Partly cloudy,-12,9,WNW,11,-18,0,52,6,30,-20,33,2
+6/1/2019,Saturday,June,AA,SDF,DFW,1033,-4,13,14,1150,112,-2,733,Louisville, KY,Dallas/Fort Worth, TX,Sunny,19,4,WSW,7,19,0,85,6,30,16,5,5,Sunny,22,5,SE,9,22,0,94,6,30,20,18,6
+11/1/2019,Friday,November,AA,DFW,MAF,840,30,19,3,951,55,36,309,Dallas/Fort Worth, TX,Midland/Odessa, TX,Sunny,2,9,S,19,-3,0,58,6,30,-6,0,2,Sunny,4,14,S,28,0,0,35,6,30,-10,0,2
+11/1/2019,Friday,November,AA,DFW,HOU,656,-4,21,2,812,43,-14,247,Dallas/Fort Worth, TX,Houston, TX,Sunny,2,9,S,19,-3,0,58,6,30,-6,0,2,Sunny,7,6,ENE,7,5,0,56,6,30,-1,0,3
+6/1/2019,Saturday,June,AA,DFW,SDF,655,-2,14,6,1003,93,-17,733,Dallas/Fort Worth, TX,Louisville, KY,Sunny,22,5,SE,9,22,0,94,6,30,20,18,6,Sunny,19,4,WSW,7,19,0,85,6,30,16,5,5
+11/1/2019,Friday,November,AA,BHM,DFW,1455,-11,11,11,1700,100,-14,597,Birmingham, AL,Dallas/Fort Worth, TX,Sunny,12,6,WSW,7,11,0,43,6,30,0,0,4,Sunny,12,14,S,16,9,0,38,6,30,-2,0,4
+1/1/2019,Tuesday,January,AA,CLT,MLB,1140,-1,30,3,1328,76,0,490,Charlotte, NC,Melbourne, FL,Overcast,17,7,SW,20,17,0,95,6,30,17,95,4,Partly cloudy,25,8,S,5,25,0,66,6,30,19,42,7
+8/1/2019,Thursday,August,AA,PHX,ONT,1440,79,14,6,1551,50,78,325,Phoenix, AZ,Ontario, CA,Sunny,36,2,NNW,2,36,0,38,6,30,19,21,9,Sunny,36,7,WSW,8,36,0,19,6,30,8,0,9
+2/1/2019,Friday,February,AA,MCO,LAX,1600,-2,20,5,1835,291,-21,2218,Orlando, FL,Los Angeles, CA,Light rain shower,20,9,E,13,21,0,72,6,30,15,65,4,Patchy rain possible,15,5,SE,5,16,0,71,6,30,10,75,1
+6/1/2019,Saturday,June,AA,TUL,DFW,1433,-5,28,17,1549,44,8,237,Tulsa, OK,Dallas/Fort Worth, TX,Sunny,30,10,SSW,12,30,0,57,6,30,20,7,7,Patchy light rain with thunder,32,8,S,11,32,0.1,51,6,30,20,11,7
+8/1/2019,Thursday,August,AA,LAX,DFW,1307,73,13,8,1823,155,53,1235,Los Angeles, CA,Dallas/Fort Worth, TX,Sunny,30,7,SW,8,30,0,39,6,30,14,0,7,Clear,35,13,SE,15,35,0,38,6,30,18,8,1
+5/1/2019,Wednesday,May,AA,DCA,PIT,2000,-7,17,6,2107,37,-14,204,Washington, DC,Pittsburgh, PA,Clear,22,6,E,8,22,0,77,6,30,17,13,1,Partly cloudy,24,10,WSW,13,24,0,61,6,30,16,25,1
+1/1/2019,Tuesday,January,AA,MYR,CLT,2157,1,10,20,2311,40,-3,157,Myrtle Beach, SC,Charlotte, NC,Light rain shower,19,1,W,11,19,0,95,6,30,18,67,1,Clear,16,6,WSW,6,16,0,82,6,30,13,21,1
+9/1/2019,Sunday,September,AA,JFK,LAX,1229,-2,16,4,1526,315,-24,2475,New York, NY,Los Angeles, CA,Partly cloudy,23,12,ESE,13,23,0,61,6,30,16,45,6,Sunny,31,6,SW,7,31,0,44,6,30,18,22,8
+9/1/2019,Sunday,September,AA,OGG,DFW,1755,207,15,8,610,397,192,3711,Kahului, HI,Dallas/Fort Worth, TX,Sunny,26,12,E,14,26,0,78,6,30,22,19,7,Sunny,23,3,SE,4,23,0,86,6,30,21,10,6
+10/1/2019,Tuesday,October,AA,ROC,CLT,1137,-7,10,15,1343,86,-22,573,Rochester, NY,Charlotte, NC,Light rain shower,19,11,SSW,19,19,0.1,94,6,30,18,39,4,Light rain shower,28,4,ENE,5,28,0.1,73,6,30,23,69,6
+2/1/2019,Friday,February,AA,CLT,MIA,1325,17,26,5,1535,94,12,650,Charlotte, NC,Miami, FL,Partly cloudy,9,6,SW,7,9,0,41,6,30,-3,10,3,Patchy rain possible,21,13,ESE,13,22,0,63,6,30,15,61,5
+11/1/2019,Friday,November,AA,DFW,FSD,1854,5,20,5,2100,99,3,737,Dallas/Fort Worth, TX,Sioux Falls, SD,Clear,9,11,SSE,18,7,0,55,6,30,0,3,1,Moderate or heavy snow showers,2,12,NW,17,-2,0,81,4,30,-1,70,1
+6/1/2019,Saturday,June,AA,PHX,BOS,1237,-4,28,10,2037,274,8,2300,Phoenix, AZ,Boston, MA,Sunny,32,8,SSE,9,32,0,16,6,30,3,0,8,Clear,17,9,S,12,17,0,79,6,30,14,10,1
+10/1/2019,Tuesday,October,AA,CAE,CLT,641,-4,12,6,746,24,-27,88,Columbia, SC,Charlotte, NC,Partly cloudy,24,6,ENE,10,24,0,89,6,30,22,59,6,Light rain shower,22,5,E,6,22,0,96,6,30,22,78,5
+4/29/2019,Monday,April,AA,JFK,LAX,1200,-6,18,7,1522,337,-26,2475,New York, NY,Los Angeles, CA,Sunny,14,9,SE,10,13,0,37,6,30,0,8,4,Cloudy,20,8,S,10,20,0,52,6,30,10,86,4
+4/29/2019,Monday,April,AA,LAX,JFK,1100,96,13,9,1934,288,72,2475,Los Angeles, CA,New York, NY,Partly cloudy,16,5,S,6,16,0,67,6,30,10,35,5,Partly cloudy,11,10,SE,12,9,0,58,6,30,3,47,1
+9/1/2019,Sunday,September,AA,DFW,LAX,712,-2,12,8,836,159,-27,1235,Dallas/Fort Worth, TX,Los Angeles, CA,Sunny,23,3,SE,4,23,0,86,6,30,21,10,6,Sunny,25,3,SW,4,25,0,70,6,30,19,10,6
+5/1/2019,Wednesday,May,AA,MCI,PHL,1058,-4,10,7,1439,132,-16,1038,Kansas City, MO,Philadelphia, PA,Cloudy,12,4,WNW,6,12,0,93,6,30,11,85,3,Overcast,17,9,ESE,11,17,0,65,6,30,10,96,4
+4/29/2019,Monday,April,AA,JFK,LAX,800,-6,16,17,1127,349,-11,2475,New York, NY,Los Angeles, CA,Sunny,9,6,NNE,7,7,0,52,6,30,-1,7,3,Partly cloudy,16,5,S,6,16,0,67,6,30,10,35,5
+2/1/2019,Friday,February,AA,LAX,SAT,1905,-5,19,5,2357,140,-13,1211,Los Angeles, CA,San Antonio, TX,Patchy rain possible,15,5,SE,5,16,0,71,6,30,10,75,1,Patchy rain possible,14,4,E,14,15,0,74,6,30,13,88,1
+7/1/2019,Monday,July,AA,TUL,LAX,1843,-1,16,8,2011,164,-21,1283,Tulsa, OK,Los Angeles, CA,Patchy rain possible,28,7,SSE,9,28,0.1,74,5,30,23,10,1,Clear,26,9,SW,10,26,0,46,6,30,13,0,1
+6/1/2019,Saturday,June,AA,DFW,TUL,1240,-3,17,3,1347,45,-5,237,Dallas/Fort Worth, TX,Tulsa, OK,Patchy light rain with thunder,32,8,S,11,32,0.1,51,6,30,20,11,7,Sunny,30,10,SSW,12,30,0,57,6,30,20,7,7
+2/1/2019,Friday,February,AA,BOS,ORD,1253,43,20,8,1454,133,23,867,Boston, MA,Chicago, IL,Partly cloudy,-11,11,W,10,-18,0,37,6,30,-22,15,2,Light snow,-10,4,SSE,7,-12,0,72,6,30,-13,92,1
+11/1/2019,Friday,November,AA,MAF,DFW,1021,31,17,16,1140,51,36,309,Midland/Odessa, TX,Dallas/Fort Worth, TX,Sunny,4,14,S,28,0,0,35,6,30,-10,0,2,Sunny,2,9,S,19,-3,0,58,6,30,-6,0,2
+7/1/2019,Monday,July,AA,SAN,LAX,1500,-3,15,6,1557,26,-13,109,San Diego, CA,Los Angeles, CA,Sunny,25,8,W,10,25,0,53,6,30,15,3,7,Sunny,29,7,SSW,8,29,0,36,6,30,12,4,7
+1/1/2019,Tuesday,January,AA,MLB,CLT,1353,0,7,3,1541,74,-24,490,Melbourne, FL,Charlotte, NC,Partly cloudy,25,8,S,5,25,0,66,6,30,19,42,7,Partly cloudy,21,6,WSW,14,21,0,70,6,30,15,29,6
+9/1/2019,Sunday,September,AA,DFW,HNL,1120,26,17,4,1435,447,-1,3784,Dallas/Fort Worth, TX,Honolulu, HI,Sunny,23,3,SE,4,23,0,86,6,30,21,10,6,Partly cloudy,28,12,ENE,14,28,0,64,6,30,21,29,7
+8/1/2019,Thursday,August,AA,PHX,OMA,854,-2,16,4,1337,127,-18,1037,Phoenix, AZ,Omaha, NE,Patchy rain possible,32,4,WNW,5,32,0.1,48,5,30,20,20,7,Partly cloudy,26,11,ESE,13,26,0,73,6,30,21,28,7
+8/1/2019,Thursday,August,AA,LGA,DFW,629,-2,47,17,917,178,12,1389,New York, NY,Dallas/Fort Worth, TX,Patchy rain possible,25,8,N,10,25,0,66,5,30,18,7,5,Sunny,25,7,SSE,13,25,0,83,6,30,22,4,6
+5/1/2019,Wednesday,May,AA,IND,CLT,1357,-6,15,9,1537,72,-10,427,Indianapolis, IN,Charlotte, NC,Overcast,20,19,SW,28,20,0,82,6,30,17,91,4,Light rain shower,26,7,SSW,8,26,0,65,6,30,18,60,6
+5/1/2019,Wednesday,May,AA,CLT,IND,1140,-2,22,5,1327,70,-12,427,Charlotte, NC,Indianapolis, IN,Sunny,19,6,SSW,9,19,0,87,6,30,17,24,5,Overcast,20,19,SW,28,20,0,82,6,30,17,91,4
+10/1/2019,Tuesday,October,AA,DCA,CAE,724,-14,8,4,856,63,-31,408,Washington, DC,Columbia, SC,Partly cloudy,20,4,SSE,5,20,0,78,6,30,16,45,5,Partly cloudy,24,6,ENE,10,24,0,89,6,30,22,59,6
+5/1/2019,Wednesday,May,AA,EYW,MIA,704,-2,10,6,749,29,-2,126,Key West, FL,Miami, FL,Partly cloudy,25,22,ENE,31,25,0,77,6,30,21,27,7,Light rain shower,25,19,ENE,25,25,0,69,6,30,19,55,6
+9/1/2019,Sunday,September,AA,HNL,DFW,1720,-3,15,7,546,404,-23,3784,Honolulu, HI,Dallas/Fort Worth, TX,Partly cloudy,28,12,ENE,14,28,0,64,6,30,21,29,7,Clear,24,5,SE,9,24,0,80,6,30,20,9,1
+7/1/2018,Sunday,July,AS,SEA,YKM,1400,29,17,4,1444,25,31,103,Seattle, WA,Yakima, WA,Light rain shower,18,3,S,3,18,0,66,6,30,12,58,4,Sunny,26,7,WNW,8,26,0,23,6,30,3,5,7
+10/1/2018,Monday,October,AS,SEA,JFK,2140,-5,30,36,604,268,5,2422,Seattle, WA,New York, NY,Patchy light drizzle,14,5,SSE,8,13,0,95,3,30,13,53,1,Partly cloudy,19,7,SW,8,19,0,78,6,30,15,26,5
+10/1/2018,Monday,October,AS,ANC,DUT,1515,-14,14,3,1730,133,1,792,Anchorage, AK,Unalaska, AK,Sunny,10,4,NNW,6,10,0,74,6,30,6,0,4,Light rain,9,30,WNW,43,5,0.1,87,5,29,7,85,2
+9/1/2018,Saturday,September,AS,DUT,ANC,1630,0,8,7,1900,127,-8,792,Unalaska, AK,Anchorage, AK,Cloudy,10,4,NW,8,9,0,89,6,30,8,86,3,Clear,14,3,WSW,5,15,0,71,6,30,9,3,1
+2/1/2018,Thursday,February,AS,SJC,TUS,1722,0,11,4,2034,97,-20,722,San Jose, CA,Tucson, AZ,Sunny,23,5,N,6,23,0,30,6,30,5,7,6,Clear,24,7,NW,11,24,0,10,6,30,-10,0,1
+5/1/2018,Tuesday,May,AS,DAL,DCA,1328,-3,17,9,1716,148,3,1184,Dallas, TX,Washington, DC,Light drizzle,22,12,SSE,17,22,0,80,1,30,19,100,5,Sunny,26,6,W,7,26,0,19,6,30,1,5,7
+12/1/2018,Saturday,December,AS,BOS,SEA,1850,-4,16,15,2223,314,-52,2496,Boston, MA,Seattle, WA,Partly cloudy,3,3,SE,5,3,0,74,6,30,-1,26,1,Mist,3,1,WSW,2,3,0,96,1,30,3,78,1
+8/1/2018,Wednesday,August,AS,DCA,SEA,803,-6,12,11,1058,313,-25,2329,Washington, DC,Seattle, WA,Light rain shower,24,6,SSW,7,24,0,90,6,30,22,47,5,Partly cloudy,16,4,S,5,16,0,88,6,30,14,62,5
+6/1/2018,Friday,June,AS,SEA,ALW,1725,-7,12,3,1819,40,-6,213,Seattle, WA,Walla Walla, WA,Sunny,18,6,SSW,7,18,0,43,6,30,5,19,5,Clear,17,1,W,3,17,0,49,6,30,6,12,1
+4/1/2018,Sunday,April,AS,PDX,BOI,1840,-6,20,4,2050,47,-5,344,Portland, OR,Boise, ID,Moderate rain at times,6,8,NW,12,3,0.1,76,4,30,2,16,1,Partly cloudy,23,5,W,7,23,0,70,6,30,18,38,1
+9/1/2018,Saturday,September,AS,YKM,SEA,500,-13,8,3,540,27,-15,103,Yakima, WA,Seattle, WA,Clear,12,9,WNW,19,10,0,65,6,30,6,5,1,Partly cloudy,13,1,E,2,13,0,91,6,30,12,39,1
+11/1/2018,Thursday,November,AS,SEA,DCA,800,-7,38,3,1615,271,-10,2329,Seattle, WA,Washington, DC,Moderate rain,14,8,S,13,13,0.1,96,4,30,13,100,3,Sunny,25,12,SSW,14,25,0,48,6,30,13,2,6
+8/1/2018,Wednesday,August,AS,DCA,SEA,1855,-9,26,18,2153,326,3,2329,Washington, DC,Seattle, WA,Clear,29,7,S,11,29,0,67,6,30,22,21,1,Clear,23,1,WSW,1,23,0,67,6,30,16,0,1
+1/1/2018,Monday,January,AS,FLL,SEA,1831,-6,25,6,2224,356,-32,2717,Fort Lauderdale, FL,Seattle, WA,Partly cloudy,22,8,NNW,11,22,0,68,6,30,16,27,1,Clear,3,3,NNE,6,2,0,86,6,30,1,10,1
+7/1/2018,Sunday,July,AS,PDX,RDM,2120,-8,9,2,2200,26,-11,116,Portland, OR,Bend/Redmond, OR,Clear,18,8,NNW,10,18,0,53,6,30,9,5,1,Clear,19,14,NNW,19,19,0,39,6,30,4,3,1
+2/1/2018,Thursday,February,AS,AUS,SJC,1445,-2,12,4,1640,207,-14,1476,Austin, TX,San Jose, CA,Partly cloudy,22,8,NW,9,22,0,55,6,30,12,32,6,Sunny,23,5,N,6,23,0,30,6,30,5,7,6
+6/1/2018,Friday,June,AS,PDX,BZN,1654,-4,6,5,1940,85,-14,554,Portland, OR,Bozeman, MT,Partly cloudy,20,2,SW,2,20,0,40,6,30,6,38,6,Patchy light rain with thunder,11,12,W,13,9,0.1,65,6,30,5,33,1
+1/1/2018,Monday,January,AS,SEA,FLL,830,-7,21,5,1726,305,-32,2717,Seattle, WA,Fort Lauderdale, FL,Partly cloudy,1,2,NE,5,0,0,77,6,30,-3,29,2,Sunny,24,5,WSW,6,24,0,50,6,30,13,12,6
+5/1/2018,Tuesday,May,AS,BUR,SJC,1326,-17,11,7,1440,48,-25,296,Burbank, CA,San Jose, CA,Cloudy,15,11,SSW,13,14,0,58,6,30,7,75,4,Sunny,21,7,WNW,8,21,0,41,6,30,7,4,6
+6/1/2018,Friday,June,AS,YKM,SEA,500,-1,6,5,539,30,1,103,Yakima, WA,Seattle, WA,Clear,8,8,W,15,5,0,67,6,30,2,9,1,Clear,8,5,SSE,7,7,0,92,6,30,7,15,1
+1/1/2018,Monday,January,AS,MSP,SEA,1622,10,21,7,1828,188,-20,1399,Minneapolis, MN,Seattle, WA,Partly cloudy,-20,4,WNW,5,-28,0,89,6,31,-22,37,2,Clear,3,3,NNE,6,2,0,86,6,30,1,10,1
+10/1/2018,Monday,October,AS,DUT,ANC,1810,-1,2,3,2040,133,-13,792,Unalaska, AK,Anchorage, AK,Patchy light drizzle,9,28,WNW,42,5,0,78,3,30,6,39,1,Clear,8,2,NNE,3,10,0,78,6,30,7,2,1
+7/1/2018,Sunday,July,AS,YKM,SEA,1523,23,4,9,1607,30,22,103,Yakima, WA,Seattle, WA,Sunny,26,7,WNW,8,26,0,23,6,30,3,5,7,Light rain shower,18,3,S,3,18,0,66,6,30,12,58,4
+5/1/2018,Tuesday,May,AS,DAL,DCA,630,-12,14,3,1018,150,-13,1184,Dallas, TX,Washington, DC,Light drizzle,20,11,SSE,16,20,0,84,1,30,17,93,5,Sunny,15,4,WSW,5,15,0,48,6,30,4,0,4
+6/1/2018,Friday,June,AS,SEA,LWS,940,-6,7,6,1046,44,-15,261,Seattle, WA,Lewiston, ID,Sunny,11,6,S,7,10,0,79,6,30,8,15,4,Partly cloudy,12,6,SW,8,11,0,64,6,30,6,28,4
+2/1/2018,Thursday,February,AS,TUS,SJC,749,-14,24,7,919,111,-22,722,Tucson, AZ,San Jose, CA,Sunny,11,3,ESE,6,11,0,21,6,30,-10,0,4,Sunny,14,3,NE,7,14,0,32,6,30,-3,4,4
+11/1/2018,Thursday,November,AS,SEA,DCA,1340,-2,18,4,2151,264,-27,2329,Seattle, WA,Washington, DC,Moderate rain,14,11,SSW,17,13,0.1,90,4,30,13,100,3,Partly cloudy,20,10,S,17,20,0,77,6,30,15,54,1
+9/1/2018,Saturday,September,AS,ANC,DUT,1335,-1,2,3,1550,126,-5,792,Anchorage, AK,Unalaska, AK,Sunny,13,4,NW,6,12,0,69,6,30,7,15,4,Cloudy,10,4,NW,8,9,0,89,6,30,8,86,3
+8/1/2018,Wednesday,August,AS,SEA,DCA,1347,11,15,2,2158,303,20,2329,Seattle, WA,Washington, DC,Overcast,24,4,SW,5,24,0,54,6,30,14,99,5,Clear,29,7,S,11,29,0,67,6,30,22,21,1
+1/1/2018,Monday,January,AS,SEA,MSP,1000,-9,45,4,1521,173,12,1399,Seattle, WA,Minneapolis, MN,Partly cloudy,1,2,NE,5,0,0,77,6,30,-3,29,2,Partly cloudy,-21,4,WNW,5,-28,0,90,6,31,-22,34,2
+8/1/2018,Wednesday,August,AS,FLL,SEA,1904,107,14,8,2235,350,88,2717,Fort Lauderdale, FL,Seattle, WA,Partly cloudy,30,7,SE,9,30,0,70,6,30,24,28,1,Clear,23,1,WSW,1,23,0,67,6,30,16,0,1
+1/1/2018,Monday,January,AS,JNU,ANC,1344,10,28,4,1527,88,27,571,Juneau, AK,Anchorage, AK,Moderate rain,2,6,ESE,8,-1,0.1,92,4,30,1,100,1,Partly cloudy,-3,9,NNE,17,-8,0,78,6,30,-6,47,2
+10/1/2018,Monday,October,AS,SEA,ORD,45,2,11,16,655,191,-30,1721,Seattle, WA,Chicago, IL,Light rain shower,13,7,SE,14,12,0.1,85,6,30,11,100,1,Light rain,14,6,ENE,8,12,0,89,5,30,12,100,3
+5/1/2018,Tuesday,May,AS,DAL,SJC,1410,-7,15,7,1625,228,-12,1450,Dallas, TX,San Jose, CA,Light drizzle,22,12,SSE,17,22,0,80,1,30,19,100,5,Sunny,21,7,WNW,8,21,0,41,6,30,7,4,6
+6/1/2018,Friday,June,AS,ALW,SEA,1859,-4,12,5,2001,53,4,213,Walla Walla, WA,Seattle, WA,Clear,17,1,W,3,17,0,49,6,30,6,12,1,Partly cloudy,15,2,S,4,15,0,60,6,30,8,47,1
+7/1/2018,Sunday,July,AS,SEA,YKM,2314,-2,9,2,2356,26,-7,103,Seattle, WA,Yakima, WA,Light rain shower,16,3,NNW,5,16,0,76,6,30,12,69,1,Clear,17,12,NW,16,17,0,43,6,30,5,4,1
+11/1/2018,Thursday,November,AS,SEA,MCO,2120,7,12,8,544,287,-10,2554,Seattle, WA,Orlando, FL,Patchy light drizzle,13,13,SSW,21,11,0,85,3,30,11,65,1,Clear,22,4,SSE,6,22,0,72,6,30,16,13,1
+7/1/2018,Sunday,July,AS,YKM,SEA,500,-9,6,5,539,29,-8,103,Yakima, WA,Seattle, WA,Clear,12,8,WNW,15,10,0,72,6,30,7,2,1,Mist,13,4,SSE,7,13,0,96,1,30,12,97,1
+5/1/2018,Tuesday,May,AS,SJC,LAX,1034,-11,21,18,1208,54,-12,308,San Jose, CA,Los Angeles, CA,Patchy rain possible,12,2,S,3,12,0,76,5,30,7,41,3,Overcast,16,10,S,11,16,0,54,6,30,6,97,4
+12/1/2018,Saturday,December,AS,PHL,SEA,1645,12,20,6,1956,302,-31,2378,Philadelphia, PA,Seattle, WA,Overcast,9,2,ESE,3,8,0,59,6,30,1,100,2,Mist,3,1,WSW,2,3,0,96,1,30,3,78,1
+12/1/2018,Saturday,December,AS,SEA,MCO,810,-9,24,28,1648,311,16,2554,Seattle, WA,Orlando, FL,Partly cloudy,3,1,SE,2,3,0,91,6,30,2,62,2,Overcast,26,11,SSE,14,26,0,62,6,30,18,90,6
+11/1/2018,Thursday,November,AS,DCA,SEA,800,-3,23,6,1100,339,5,2329,Washington, DC,Seattle, WA,Partly cloudy,14,4,SSW,7,14,0,90,6,30,13,26,4,Moderate rain,14,8,S,13,13,0.1,96,4,30,13,100,3
+3/1/2018,Thursday,March,AS,SEA,PDX,1854,-4,11,5,1949,33,-10,129,Seattle, WA,Portland, OR,Clear,5,3,NE,5,4,0,81,6,30,2,10,1,Light rain,6,4,S,6,5,0.1,77,5,29,2,75,1
+12/1/2018,Saturday,December,AS,SCC,BRW,1725,48,13,4,1816,41,55,204,Deadhorse, AK,Barrow, AK,Light snow,-12,16,E,28,-21,0,91,6,30,-13,91,1,Blizzard,-13,21,E,30,-24,0,93,0,30,-14,100,1
+2/1/2018,Thursday,February,AS,PDX,ONT,850,-6,13,5,1112,111,-19,838,Portland, OR,Ontario, CA,Light drizzle,6,1,E,1,6,0,81,1,30,3,98,2,Sunny,19,4,NNE,8,19,0,24,6,30,-2,3,5
+11/1/2018,Thursday,November,AS,DCA,SEA,1855,-18,17,5,2151,338,-14,2329,Washington, DC,Seattle, WA,Partly cloudy,20,10,S,17,20,0,77,6,30,15,54,1,Patchy light drizzle,13,13,SSW,21,11,0,85,3,30,11,65,1
+12/1/2018,Saturday,December,AS,SEA,JFK,2150,6,23,11,604,312,38,2422,Seattle, WA,New York, NY,Mist,3,1,WSW,2,3,0,96,1,30,3,78,1,Sunny,4,3,N,3,3,0,78,6,30,1,10,2
+2/1/2018,Thursday,February,AS,SJC,AUS,840,-13,18,4,1400,198,7,1476,San Jose, CA,Austin, TX,Sunny,14,3,NE,7,14,0,32,6,30,-3,4,4,Partly cloudy,22,8,NW,9,22,0,55,6,30,12,32,6
+12/1/2019,Sunday,December,AS,ALW,SEA,500,17,6,6,607,42,4,213,Walla Walla, WA,Seattle, WA,Partly cloudy,-5,3,E,7,-6,0,74,6,30,-9,46,1,Overcast,2,3,NE,5,1,0,63,6,30,-4,88,1
+1/1/2019,Tuesday,January,AS,SJC,AUS,1805,0,24,5,2337,192,9,1476,San Jose, CA,Austin, TX,Clear,10,5,NNE,5,10,0,31,6,30,-6,2,1,Overcast,7,11,NNE,15,4,0,76,6,30,3,100,1
+5/1/2019,Wednesday,May,AS,SEA,DCA,810,-6,20,4,1625,282,-15,2329,Seattle, WA,Washington, DC,Sunny,9,4,SSE,7,8,0,58,6,30,2,3,3,Sunny,27,5,ESE,6,27,0,50,6,30,16,10,7
+2/1/2019,Friday,February,AS,DUT,ANC,1810,-1,3,4,2040,123,-21,792,Unalaska, AK,Anchorage, AK,Patchy rain possible,0,18,S,31,-2,0,91,6,30,2,67,1,Cloudy,-9,3,SE,6,-11,0,69,6,30,-14,37,1
+11/1/2019,Friday,November,AS,SLC,PDX,1940,-7,10,5,2045,94,-23,630,Salt Lake City, UT,Portland, OR,Clear,5,4,NW,6,3,0,42,6,30,-7,0,1,Clear,9,8,NE,13,8,0,45,6,30,-3,10,1
+2/1/2019,Friday,February,AS,DCA,SEA,800,-6,28,8,1105,335,0,2329,Washington, DC,Seattle, WA,Overcast,-10,5,NE,7,-10,0,37,6,30,-21,88,1,Light rain,7,7,SSE,12,6,0,92,6,30,6,86,2
+4/1/2019,Monday,April,AS,SEA,ICT,1140,-1,44,4,1710,161,-2,1430,Seattle, WA,Wichita, KS,Sunny,9,4,NNE,6,9,0,73,6,30,5,18,3,Cloudy,11,13,SSW,15,8,0,45,6,30,-1,72,3
+9/1/2019,Sunday,September,AS,PDX,BUR,1505,-10,10,4,1725,124,-12,817,Portland, OR,Burbank, CA,Sunny,28,3,SSW,3,28,0,38,6,30,12,10,7,Sunny,33,6,SSW,7,33,0,38,6,30,17,14,8
+4/1/2019,Monday,April,AS,YKM,SEA,500,-5,7,3,545,24,-16,103,Yakima, WA,Seattle, WA,Clear,9,4,NW,8,8,0,63,6,30,2,15,1,Clear,9,3,NNE,6,9,0,79,6,30,6,8,1
+9/1/2019,Sunday,September,AS,PDX,SMF,1625,-7,13,4,1800,72,-13,479,Portland, OR,Sacramento, CA,Sunny,28,3,SSW,3,28,0,38,6,30,12,10,7,Clear,28,7,SW,11,28,0,30,6,30,9,9,1
+2/1/2019,Friday,February,AS,ANC,DUT,1515,-5,4,3,1730,142,9,792,Anchorage, AK,Unalaska, AK,Partly cloudy,-10,1,SW,2,-10,0,62,6,30,-16,44,2,Partly cloudy,1,12,S,25,-5,0,89,6,30,-1,72,2
+5/1/2019,Wednesday,May,AS,SEA,EWR,740,-5,22,12,1610,288,-13,2402,Seattle, WA,Newark, NJ,Sunny,9,4,SSE,7,8,0,58,6,30,2,3,3,Overcast,13,10,ESE,12,11,0,65,6,30,7,98,3
+3/1/2019,Friday,March,AS,SEA,MSP,1025,-2,17,15,1545,168,-2,1399,Seattle, WA,Minneapolis, MN,Sunny,0,3,ENE,4,-2,0,86,6,30,-3,15,2,Heavy snow,-8,3,SE,4,-12,0.1,96,1,30,-9,100,1
+8/1/2019,Thursday,August,AS,SJC,AUS,955,9,13,4,1540,201,2,1476,San Jose, CA,Austin, TX,Sunny,19,3,S,4,19,0,70,6,30,14,7,5,Partly cloudy,37,5,SE,5,37,0,35,6,30,19,26,9
+7/1/2019,Monday,July,AS,SLC,SEA,545,-5,14,7,700,99,-20,689,Salt Lake City, UT,Seattle, WA,Clear,16,11,SSE,21,16,0,60,6,30,8,1,1,Sunny,19,1,SE,2,19,0,69,6,30,13,9,5
+3/1/2019,Friday,March,AS,SEA,FLL,820,31,23,3,1705,297,9,2717,Seattle, WA,Fort Lauderdale, FL,Sunny,0,3,ENE,4,-2,0,86,6,30,-3,15,2,Sunny,26,9,E,9,26,0,61,6,30,18,4,7
+6/1/2019,Saturday,June,AS,PDX,ANC,1135,-6,15,2,1415,197,-12,1542,Portland, OR,Anchorage, AK,Sunny,16,3,NNW,4,16,0,66,6,30,9,6,5,Partly cloudy,10,4,W,8,10,0,72,6,30,5,41,3
+3/1/2019,Friday,March,AS,MSP,SEA,1645,9,89,7,1845,207,72,1399,Minneapolis, MN,Seattle, WA,Heavy snow,-8,3,SE,4,-12,0.1,96,1,30,-9,100,1,Clear,3,5,WSW,7,2,0,74,6,30,-1,12,1
+12/1/2019,Sunday,December,AS,YKM,SEA,500,0,30,8,546,25,17,103,Yakima, WA,Seattle, WA,Partly cloudy,-4,5,NNW,10,-6,0,68,6,30,-9,45,1,Partly cloudy,0,4,NE,9,-1,0,62,6,30,-6,45,1
+11/1/2019,Friday,November,AS,SJC,TUS,1730,-3,9,4,1935,96,-19,722,San Jose, CA,Tucson, AZ,Sunny,26,2,NNW,3,26,0,14,6,30,-4,0,7,Clear,24,5,NNW,6,24,0,21,6,30,0,0,1
+6/1/2019,Saturday,June,AS,ANC,PDX,655,-8,10,6,1130,191,-16,1542,Anchorage, AK,Portland, OR,Cloudy,7,4,SSW,8,6,0,84,6,30,4,81,2,Sunny,16,3,NNW,4,16,0,66,6,30,9,6,5
+1/1/2019,Tuesday,January,AS,SEA,BOI,1935,-3,17,3,2159,55,-12,399,Seattle, WA,Boise, ID,Clear,2,2,SSW,3,2,0,72,6,30,-2,18,1,Clear,21,6,WSW,5,21,0,70,6,30,15,6,1
+6/1/2019,Saturday,June,AS,FAI,SEA,30,-6,7,4,505,188,-22,1533,Fairbanks, AK,Seattle, WA,Light rain,8,5,WSW,8,8,0.1,98,5,30,8,100,1,Clear,16,3,S,5,16,0,85,6,30,13,2,1
+1/1/2019,Tuesday,January,AS,DAL,SJC,1510,14,25,5,1725,225,14,1450,Dallas, TX,San Jose, CA,Overcast,3,13,N,13,-1,0,70,6,30,-2,94,1,Sunny,13,6,NNE,4,12,0,23,6,30,-8,4,4
+8/1/2019,Thursday,August,AS,ANC,DUT,1515,202,5,3,1739,132,198,792,Anchorage, AK,Unalaska, AK,Sunny,15,4,W,6,15,0,70,6,30,10,18,5,Sunny,12,2,WNW,2,12,0,90,6,30,10,21,4
+10/1/2019,Tuesday,October,AS,SAN,STS,1650,-5,17,12,1845,79,-12,508,San Diego, CA,Santa Rosa, CA,Sunny,22,9,SSW,10,22,0,53,6,30,12,0,6,Clear,11,6,WSW,8,10,0,55,6,30,3,0,1
+10/1/2019,Tuesday,October,AS,PDX,DAL,1140,4,14,8,1735,216,7,1626,Portland, OR,Dallas, TX,Sunny,8,3,NNE,3,7,0,69,6,30,2,0,3,Partly cloudy,31,13,S,15,31,0,55,6,30,21,53,8
+3/1/2019,Friday,March,AS,JNU,KTN,740,-16,15,4,840,37,-20,234,Juneau, AK,Ketchikan, AK,Sunny,-2,4,NE,7,-4,0,83,6,30,-5,8,2,Sunny,3,4,NE,6,1,0,75,6,30,-1,5,2
+6/1/2019,Saturday,June,AS,SFO,JFK,2310,1,18,22,755,301,-3,2586,San Francisco, CA,New York, NY,Clear,17,9,WSW,11,17,0,85,6,30,14,9,1,Sunny,20,3,WSW,4,20,0,66,6,30,14,9,6
+12/1/2019,Sunday,December,AS,SEA,YKM,830,-8,27,4,922,33,4,103,Seattle, WA,Yakima, WA,Overcast,2,3,NE,5,1,0,63,6,30,-4,88,1,Heavy snow,-3,4,ESE,7,-5,0,95,1,30,-4,100,1
+2/1/2019,Friday,February,AS,DUT,ANC,1240,18,5,2,1510,118,-7,792,Unalaska, AK,Anchorage, AK,Partly cloudy,1,12,S,25,-5,0,89,6,30,-1,72,2,Partly cloudy,-10,1,SW,2,-10,0,62,6,30,-16,44,2
+11/1/2019,Friday,November,AS,TUS,SJC,650,-9,13,5,910,103,-28,722,Tucson, AZ,San Jose, CA,Sunny,10,7,E,15,8,0,25,6,30,-9,0,3,Sunny,14,1,SE,2,15,0,23,6,30,-7,0,4
+11/1/2019,Friday,November,AS,PDX,SLC,1600,-5,12,7,1840,86,0,630,Portland, OR,Salt Lake City, UT,Sunny,14,6,NNE,8,13,0,30,6,30,-4,6,4,Clear,5,4,NW,6,3,0,42,6,30,-7,0,1
+7/1/2019,Monday,July,AS,AUS,SJC,740,-8,17,7,925,207,-2,1476,Austin, TX,San Jose, CA,Light rain shower,22,9,SSW,13,22,0,92,6,30,20,56,5,Sunny,19,2,W,3,19,0,67,6,30,13,0,5
+11/1/2019,Friday,November,AS,PDX,SMF,1625,-3,17,4,1800,68,-9,479,Portland, OR,Sacramento, CA,Sunny,14,6,NNE,8,13,0,30,6,30,-4,6,4,Clear,18,3,ESE,4,18,0,24,6,30,-3,0,1
+7/1/2019,Monday,July,AS,OAK,PDX,1445,-10,11,4,1625,74,-21,543,Oakland, CA,Portland, OR,Partly cloudy,21,9,WSW,10,21,0,54,6,30,11,33,6,Partly cloudy,28,2,ENE,2,28,0,35,6,30,11,55,7
+10/1/2019,Tuesday,October,AS,DAL,PDX,1815,0,19,7,2035,211,-23,1626,Dallas, TX,Portland, OR,Partly cloudy,30,11,S,15,30,0,51,6,30,19,29,1,Clear,12,4,ESE,5,12,0,48,6,30,2,4,1
+7/1/2019,Monday,July,AS,TUS,SJC,705,-5,8,16,910,101,-5,722,Tucson, AZ,San Jose, CA,Sunny,24,0,S,1,24,0,35,6,30,8,0,6,Sunny,19,2,W,3,19,0,67,6,30,13,0,5
+4/1/2019,Monday,April,AS,PDX,EUG,2215,-7,6,3,2255,25,-13,106,Portland, OR,Eugene, OR,Light drizzle,13,2,W,3,13,0,76,1,30,9,86,1,Moderate rain,9,2,ENE,4,9,0.2,98,4,30,9,100,1
+1/1/2019,Tuesday,January,AS,SAN,AUS,810,-8,17,3,1302,149,-11,1164,San Diego, CA,Austin, TX,Sunny,10,8,ENE,6,7,0,34,6,30,-6,0,3,Sunny,8,9,NNE,15,5,0,72,6,30,3,19,3
+12/1/2019,Sunday,December,AS,BOI,SEA,1655,-3,22,6,1738,84,6,399,Boise, ID,Seattle, WA,Sunny,29,3,NNE,4,29,0,62,6,30,21,10,7,Overcast,5,1,SE,2,4,0,70,6,30,0,100,1
+8/1/2019,Thursday,August,AS,DUT,ANC,1820,214,3,4,2035,122,208,792,Unalaska, AK,Anchorage, AK,Clear,14,3,ESE,5,13,0,86,6,30,12,23,1,Clear,16,3,W,4,16,0,73,6,30,11,24,1
+10/1/2019,Tuesday,October,AS,STS,LAX,1140,-8,15,13,1320,58,-22,400,Santa Rosa, CA,Los Angeles, CA,Sunny,9,2,NNW,5,9,0,75,6,30,5,0,3,Sunny,23,4,SSW,5,23,0,42,6,30,9,0,6
+6/1/2019,Saturday,June,AS,JFK,LAX,2015,0,33,7,2335,333,-7,2475,New York, NY,Los Angeles, CA,Patchy rain possible,21,7,SW,9,21,0,68,5,30,15,28,1,Clear,19,8,SSW,9,19,0,66,6,30,13,8,1
+9/1/2019,Sunday,September,AS,TUS,SJC,650,-13,9,6,910,97,-41,722,Tucson, AZ,San Jose, CA,Sunny,25,2,SE,3,25,0,60,6,30,17,4,7,Sunny,24,1,NNW,2,24,0,54,6,30,14,0,6
+1/1/2019,Tuesday,January,AS,SJC,DAL,1635,-3,10,6,2203,186,-9,1450,San Jose, CA,Dallas, TX,Sunny,13,6,NNE,4,12,0,23,6,30,-8,4,4,Cloudy,3,11,NNE,11,-2,0,66,6,30,-3,87,1
+5/1/2019,Wednesday,May,AS,JFK,SEA,700,-7,16,27,1020,318,-26,2422,New York, NY,Seattle, WA,Overcast,11,9,E,12,9,0,80,6,30,7,100,3,Sunny,9,4,SSE,7,8,0,58,6,30,2,3,3
+9/1/2019,Sunday,September,AS,SJC,TUS,1730,0,16,5,1935,106,2,722,San Jose, CA,Tucson, AZ,Sunny,34,6,NW,7,34,0,27,6,30,13,0,8,Clear,36,9,ESE,11,36,0,28,6,30,14,5,1
+4/1/2019,Monday,April,AS,GEG,PDX,620,-6,10,11,740,55,-10,279,Spokane, WA,Portland, OR,Sunny,4,4,ENE,8,1,0,81,6,30,1,9,2,Cloudy,11,1,WNW,2,11,0,68,6,30,6,82,3
+5/1/2019,Wednesday,May,AS,DCA,SEA,800,-4,35,8,1100,313,-8,2329,Washington, DC,Seattle, WA,Overcast,15,7,E,14,15,0,82,6,30,12,93,4,Sunny,9,4,SSE,7,8,0,58,6,30,2,3,3
+9/1/2019,Sunday,September,AS,PDX,SLC,1600,-10,11,10,1840,88,-1,630,Portland, OR,Salt Lake City, UT,Sunny,28,3,SSW,3,28,0,38,6,30,12,10,7,Clear,33,8,NNW,9,33,0,16,6,30,4,0,1
+7/1/2019,Monday,July,AS,SJC,AUS,955,-7,21,5,1540,196,-10,1476,San Jose, CA,Austin, TX,Sunny,19,2,W,3,19,0,67,6,30,13,0,5,Patchy rain possible,32,8,SSW,10,32,0.1,48,5,30,19,19,7
+3/1/2019,Friday,March,AS,FLL,SEA,1810,-7,16,9,2205,388,-9,2717,Fort Lauderdale, FL,Seattle, WA,Clear,25,6,E,12,25,0,68,6,30,18,8,1,Clear,3,5,WSW,7,2,0,74,6,30,-1,12,1
+2/1/2019,Friday,February,AS,ANC,DUT,945,-4,16,2,1200,142,21,792,Anchorage, AK,Unalaska, AK,Sunny,-12,2,ENE,5,-13,0,63,6,30,-17,5,2,Partly cloudy,1,12,S,25,-5,0,89,6,30,-1,72,2
+4/1/2019,Monday,April,AS,DAL,SEA,1410,-5,17,4,1650,253,-11,1670,Dallas, TX,Seattle, WA,Partly cloudy,15,2,SSW,2,15,0,31,6,30,-2,31,4,Sunny,20,7,NNW,8,20,0,40,6,30,6,20,6
+10/1/2019,Tuesday,October,AS,SAN,DAL,1445,-10,29,3,1955,160,-8,1182,San Diego, CA,Dallas, TX,Sunny,22,9,SSW,10,22,0,53,6,30,12,0,6,Partly cloudy,30,11,S,15,30,0,51,6,30,19,29,1
+5/1/2018,Tuesday,May,B6,SFO,JFK,700,-8,19,6,1538,301,-20,2586,San Francisco, CA,New York, NY,Partly cloudy,11,5,WNW,5,11,0,82,6,30,8,28,4,Sunny,21,6,W,10,21,0,33,6,30,4,3,6
+8/1/2018,Wednesday,August,B6,SJU,EWR,208,20,13,6,608,207,6,1608,San Juan, PR,Newark, NJ,Clear,26,9,E,14,26,0,81,6,30,23,23,1,Light rain shower,25,7,SE,9,25,0.1,85,6,30,23,65,6
+1/1/2018,Monday,January,B6,SJU,JFK,1700,25,23,14,2008,223,37,1598,San Juan, PR,New York, NY,Partly cloudy,27,15,E,19,27,0,72,6,30,22,43,7,Partly cloudy,-7,11,W,15,-14,0,53,6,30,-15,54,1
+5/1/2018,Tuesday,May,B6,LAS,FLL,2356,-8,10,6,734,254,-16,2173,Las Vegas, NV,Fort Lauderdale, FL,Light rain shower,16,6,SSW,8,16,0,47,6,30,5,70,1,Patchy rain possible,25,13,E,17,25,0,69,5,30,19,40,5
+4/1/2018,Sunday,April,B6,FLL,LAS,2031,-15,16,6,2306,298,-30,2173,Fort Lauderdale, FL,Las Vegas, NV,Clear,24,8,E,11,24,0,70,6,30,18,5,1,Clear,25,12,S,18,25,0,14,6,30,-4,0,1
+6/1/2018,Friday,June,B6,MCO,JFK,1951,79,13,11,2236,134,72,944,Orlando, FL,New York, NY,Moderate or heavy rain shower,29,4,NW,5,29,0.1,71,4,30,23,20,1,Partly cloudy,25,7,SSE,11,25,0,74,6,30,20,31,1
+10/1/2018,Monday,October,B6,LGB,RNO,1138,12,13,4,1300,60,7,402,Long Beach, CA,Reno, NV,Sunny,24,3,NW,4,24,0,63,6,30,17,19,6,Sunny,23,10,SSW,11,23,0,24,6,30,1,19,6
+9/1/2018,Saturday,September,B6,LAS,FLL,2150,19,14,7,548,259,1,2173,Las Vegas, NV,Fort Lauderdale, FL,Clear,35,7,SE,9,35,0,12,6,30,2,0,1,Patchy rain possible,29,7,ESE,10,29,0,71,5,30,23,17,1
+9/1/2018,Saturday,September,B6,PBI,JFK,715,4,19,6,958,136,2,1028,West Palm Beach/Palm Beach, FL,New York, NY,Sunny,28,19,E,26,28,0,75,6,30,24,12,7,Light rain shower,22,9,E,10,22,0,74,6,30,17,57,5
+1/1/2018,Monday,January,B6,JFK,FLL,1055,32,43,8,1405,181,74,1069,New York, NY,Fort Lauderdale, FL,Sunny,-11,14,NW,17,-20,0,66,6,30,-16,11,2,Sunny,24,5,WSW,6,24,0,50,6,30,13,12,6
+7/1/2018,Sunday,July,B6,PHX,JFK,2243,-5,11,5,629,257,-18,2153,Phoenix, AZ,New York, NY,Clear,42,5,W,6,42,0,5,6,30,-5,0,1,Cloudy,27,4,NW,7,27,0,65,6,30,20,71,6
+10/1/2018,Monday,October,B6,RNO,LGB,1341,13,8,3,1505,67,7,402,Reno, NV,Long Beach, CA,Sunny,23,10,SSW,11,23,0,24,6,30,1,19,6,Sunny,27,10,W,14,27,0,54,6,30,17,12,7
+6/1/2018,Friday,June,B6,RDU,JFK,2027,104,24,9,2211,71,104,427,Raleigh/Durham, NC,New York, NY,Clear,28,4,SSW,9,28,0,69,6,30,22,21,1,Partly cloudy,25,7,SSE,11,25,0,74,6,30,20,31,1
+12/1/2018,Saturday,December,B6,LGB,SFO,1355,-9,10,15,1524,66,-7,354,Long Beach, CA,San Francisco, CA,Sunny,18,10,W,11,18,0,48,6,30,7,2,5,Sunny,14,18,WNW,22,11,0,64,6,30,7,6,4
+9/1/2018,Saturday,September,B6,FLL,LAS,1850,16,19,7,2100,280,12,2173,Fort Lauderdale, FL,Las Vegas, NV,Moderate or heavy rain shower,29,13,ENE,18,29,0.2,70,4,30,23,17,1,Clear,35,7,SE,9,35,0,12,6,30,2,0,1
+4/1/2018,Sunday,April,B6,JFK,ORD,1632,41,26,15,1826,134,42,740,New York, NY,Chicago, IL,Cloudy,12,9,WNW,15,10,0,60,6,30,4,77,3,Overcast,0,4,WSW,5,-2,0,35,6,30,-13,100,1
+2/1/2018,Thursday,February,B6,PBI,BOS,2053,-1,16,9,2349,151,-1,1197,West Palm Beach/Palm Beach, FL,Boston, MA,Partly cloudy,26,24,ENE,34,26,0,74,6,30,22,44,1,Cloudy,2,6,S,10,-1,0,80,6,30,-1,83,1
+1/1/2018,Monday,January,B6,JFK,BTV,1255,9,35,10,1408,48,29,266,New York, NY,Burlington, VT,Sunny,-8,15,NW,17,-16,0,51,6,30,-16,3,2,Cloudy,-17,5,NW,6,-23,0,74,6,30,-21,74,1
+11/1/2018,Thursday,November,B6,EWR,BOS,510,-10,14,3,611,41,-13,200,Newark, NJ,Boston, MA,Partly cloudy,15,6,SW,10,14,0,80,6,30,11,46,1,Cloudy,12,2,S,3,12,0,89,6,30,10,76,3
+2/1/2018,Thursday,February,B6,JFK,FLL,1000,4,19,4,1315,155,-13,1069,New York, NY,Fort Lauderdale, FL,Cloudy,2,8,SW,12,-3,0,62,6,30,-5,87,1,Patchy rain possible,22,9,E,11,22,0,66,5,30,15,25,5
+9/1/2018,Saturday,September,B6,JFK,FLL,1058,16,20,5,1407,137,-11,1069,New York, NY,Fort Lauderdale, FL,Light rain shower,22,9,E,10,22,0,74,6,30,17,57,5,Moderate or heavy rain shower,31,11,E,14,31,0.1,63,4,30,23,9,7
+12/1/2018,Saturday,December,B6,DCA,JAX,1358,-14,11,6,1600,104,-15,634,Washington, DC,Jacksonville, FL,Light rain,6,3,ENE,3,4,0.1,81,5,30,3,100,2,Moderate rain,20,7,S,12,20,0.2,91,4,30,19,100,5
+6/1/2018,Friday,June,B6,JFK,RDU,1752,7,19,4,1952,82,-8,427,New York, NY,Raleigh/Durham, NC,Patchy rain possible,26,3,ESE,3,26,0.1,69,5,30,20,14,6,Clear,28,4,SSW,9,28,0,69,6,30,22,21,1
+4/1/2018,Sunday,April,B6,EWR,FLL,800,399,19,7,1058,148,395,1065,Newark, NJ,Fort Lauderdale, FL,Overcast,8,9,SW,15,6,0,58,6,30,1,96,2,Sunny,24,8,E,11,24,0,74,6,30,19,22,6
+7/1/2018,Sunday,July,B6,CHS,DCA,545,-3,10,4,709,65,-8,444,Charleston, SC,Washington, DC,Patchy rain possible,27,5,S,7,27,0.1,81,5,30,23,15,1,Sunny,30,1,WSW,1,30,0,68,6,30,23,1,7
+2/1/2018,Thursday,February,B6,SAN,BOS,2130,-14,12,17,546,275,-26,2588,San Diego, CA,Boston, MA,Clear,18,2,SSW,3,18,0,59,6,30,10,3,1,Overcast,-1,10,SW,17,-6,0,70,6,30,-6,91,1
+8/1/2018,Wednesday,August,B6,SAN,BOS,1134,-3,23,18,2011,305,6,2588,San Diego, CA,Boston, MA,Partly cloudy,24,5,NW,6,24,0,74,6,30,19,25,6,Cloudy,26,9,SSW,13,26,0,79,6,30,23,83,1
+7/1/2018,Sunday,July,B6,BOS,PBI,2159,22,20,3,110,151,5,1197,Boston, MA,West Palm Beach/Palm Beach, FL,Clear,27,7,SE,10,27,0,64,6,30,20,22,1,Partly cloudy,26,21,E,29,26,0,81,6,30,23,48,1
+12/1/2018,Saturday,December,B6,RDU,FLL,1650,-1,14,4,1850,99,-4,680,Raleigh/Durham, NC,Fort Lauderdale, FL,Overcast,16,3,ESE,4,16,0,62,6,30,9,100,4,Partly cloudy,26,10,S,15,26,0,76,6,30,21,33,1
+2/1/2018,Thursday,February,B6,BOS,SAN,1635,-2,19,2,2010,359,-17,2588,Boston, MA,San Diego, CA,Partly cloudy,5,7,SW,10,2,0,63,6,30,-1,27,3,Clear,18,2,SSW,3,18,0,59,6,30,10,3,1
+4/1/2018,Sunday,April,B6,FLL,EWR,1853,14,22,9,2155,142,5,1065,Fort Lauderdale, FL,Newark, NJ,Clear,24,8,E,11,24,0,70,6,30,18,5,1,Clear,9,8,N,12,8,0,51,6,30,0,14,1
+12/1/2018,Saturday,December,B6,BOS,BWI,1019,75,18,4,1149,66,73,369,Boston, MA,Baltimore, MD,Sunny,0,7,NW,9,-3,0,78,6,30,-3,6,2,Sunny,2,3,NE,5,1,0,85,6,30,0,10,2
+11/1/2018,Thursday,November,B6,JAX,BOS,1205,-12,13,5,1435,119,-25,1010,Jacksonville, FL,Boston, MA,Cloudy,29,10,SSW,11,29,0,46,6,30,16,77,6,Light drizzle,16,4,N,5,16,0,80,1,30,12,82,4
+5/1/2018,Tuesday,May,B6,LGB,JFK,2057,-4,10,5,513,286,-19,2465,Long Beach, CA,New York, NY,Partly cloudy,15,6,S,6,14,0,68,6,30,9,25,1,Partly cloudy,10,8,WSW,12,8,0,71,6,30,5,60,1
+6/1/2018,Friday,June,B6,JFK,MCO,1540,17,34,10,1851,130,0,944,New York, NY,Orlando, FL,Patchy rain possible,26,3,ESE,3,26,0.1,69,5,30,20,14,6,Moderate or heavy rain shower,29,4,NW,5,29,0.1,71,4,30,23,20,1
+7/1/2018,Sunday,July,B6,JFK,PHX,2023,-3,50,3,2303,282,-8,2153,New York, NY,Phoenix, AZ,Clear,33,5,SSW,8,33,0,51,6,30,21,6,1,Clear,42,5,W,6,42,0,5,6,30,-5,0,1
+12/1/2018,Saturday,December,B6,JAX,DCA,1044,-9,14,3,1228,80,-16,634,Jacksonville, FL,Washington, DC,Light rain,19,3,SE,6,19,0.1,88,5,30,17,100,4,Light rain,6,3,ENE,3,4,0.1,81,5,30,3,100,2
+11/1/2018,Thursday,November,B6,LGB,SLC,1536,-11,10,2,1818,92,-9,588,Long Beach, CA,Salt Lake City, UT,Sunny,27,7,WSW,8,27,0,34,6,30,10,0,7,Partly cloudy,6,3,ESE,5,6,0,74,6,30,2,32,1
+2/1/2018,Thursday,February,B6,BOS,PBI,1133,-9,16,3,1500,180,-17,1197,Boston, MA,West Palm Beach/Palm Beach, FL,Overcast,-1,5,SW,9,-5,0,73,6,30,-6,98,1,Patchy rain possible,28,20,ENE,25,28,0,67,5,30,22,32,6
+1/1/2018,Monday,January,B6,EWR,FLL,725,-5,11,10,1030,171,2,1065,Newark, NJ,Fort Lauderdale, FL,Sunny,-12,12,NW,13,-20,0,65,6,30,-17,10,2,Partly cloudy,20,3,W,5,20,0,76,6,30,15,30,5
+8/1/2018,Wednesday,August,B6,JFK,LAS,1229,18,17,7,1504,290,-3,2248,New York, NY,Las Vegas, NV,Light rain shower,28,13,SSW,18,28,0.1,71,6,30,22,60,6,Sunny,40,5,SSW,6,40,0,17,6,30,11,3,10
+9/1/2018,Saturday,September,B6,LGB,JFK,2046,43,16,7,505,300,47,2465,Long Beach, CA,New York, NY,Clear,26,5,S,6,26,0,73,6,30,21,0,1,Cloudy,22,12,E,16,22,0,75,6,30,17,85,1
+5/1/2018,Tuesday,May,B6,JFK,FLL,1011,1,20,8,1319,142,-17,1069,New York, NY,Fort Lauderdale, FL,Sunny,11,6,WNW,7,10,0,59,6,30,4,0,4,Patchy rain possible,26,16,ENE,18,26,0,66,5,30,19,30,6
+6/1/2018,Friday,June,B6,BOS,DCA,1800,15,29,10,1944,67,17,399,Boston, MA,Washington, DC,Partly cloudy,24,3,SSW,5,24,0,85,6,30,21,52,1,Clear,30,2,S,3,30,0,60,6,30,21,17,1
+11/1/2018,Thursday,November,B6,SLC,LGB,1900,-9,13,3,1950,76,-27,588,Salt Lake City, UT,Long Beach, CA,Partly cloudy,6,3,ESE,5,6,0,74,6,30,2,32,1,Clear,25,7,WNW,8,25,0,53,6,30,15,0,1
+8/1/2018,Wednesday,August,B6,SMF,BOS,2157,-2,10,4,620,299,-12,2636,Sacramento, CA,Boston, MA,Clear,28,9,SSW,13,28,0,34,6,30,11,0,1,Partly cloudy,23,4,S,4,23,0,73,6,30,18,33,6
+10/1/2018,Monday,October,B6,JFK,BUF,1850,-1,29,3,2027,56,-10,301,New York, NY,Buffalo, NY,Partly cloudy,24,6,SSW,8,24,0,74,6,30,19,42,1,Light rain,13,13,E,18,11,0,89,5,30,11,100,1
+8/1/2018,Wednesday,August,B6,EWR,SJU,2100,155,34,9,58,212,172,1608,Newark, NJ,San Juan, PR,Light rain shower,29,11,SSW,17,29,0,68,6,30,22,58,1,Clear,26,9,E,14,26,0,81,6,30,23,23,1
+1/1/2018,Monday,January,B6,JFK,SJU,1110,28,28,4,1558,200,32,1598,New York, NY,San Juan, PR,Sunny,-11,14,NW,17,-20,0,66,6,30,-16,11,2,Partly cloudy,27,15,E,19,27,0,72,6,30,22,43,7
+4/1/2018,Sunday,April,B6,JFK,FLL,1011,-3,15,4,1319,150,-22,1069,New York, NY,Fort Lauderdale, FL,Overcast,8,10,SW,17,6,0,60,6,30,1,97,2,Sunny,26,10,E,12,26,0,65,6,30,19,24,7
+11/1/2018,Thursday,November,B6,SAN,FLL,2035,2,20,6,420,258,1,2269,San Diego, CA,Fort Lauderdale, FL,Clear,23,5,NW,8,23,0,48,6,30,12,0,1,Partly cloudy,25,12,ESE,18,25,0,68,6,30,19,31,1
+5/1/2018,Tuesday,May,B6,JFK,SFO,710,-6,23,7,1049,348,-27,2586,New York, NY,San Francisco, CA,Sunny,11,6,WNW,7,10,0,59,6,30,4,0,4,Partly cloudy,11,5,WNW,5,11,0,82,6,30,8,28,4
+4/1/2019,Monday,April,B6,MCO,ALB,1056,58,12,3,1346,129,32,1073,Orlando, FL,Albany, NY,Overcast,18,8,NE,11,18,0,83,6,30,15,100,4,Sunny,4,16,WNW,19,-1,0,32,6,30,-11,22,2
+6/1/2019,Saturday,June,B6,BWI,BOS,1105,-10,16,4,1228,59,-14,369,Baltimore, MD,Boston, MA,Sunny,22,4,NNW,5,22,0,70,6,30,16,8,6,Sunny,26,3,SSE,4,26,0,37,6,30,10,13,7
+4/1/2019,Monday,April,B6,BOS,SJU,2122,-1,17,5,119,212,-4,1674,Boston, MA,San Juan, PR,Clear,4,12,NW,14,1,0,34,6,30,-10,3,1,Clear,25,4,E,6,25,0,76,6,30,20,19,1
+1/1/2019,Tuesday,January,B6,BTV,JFK,1340,46,9,5,1506,52,26,266,Burlington, VT,New York, NY,Heavy snow,0,11,NW,19,-6,0,77,1,30,-4,100,1,Sunny,11,10,WNW,31,8,0,55,6,30,3,0,4
+6/1/2019,Saturday,June,B6,LAX,JFK,1450,-6,12,10,2322,300,-16,2475,Los Angeles, CA,New York, NY,Sunny,23,9,SSW,10,23,0,51,6,30,12,1,6,Patchy rain possible,21,7,SW,9,21,0,68,5,30,15,28,1
+11/1/2019,Friday,November,B6,JFK,SJU,1529,44,13,4,1922,193,21,1598,New York, NY,San Juan, PR,Sunny,12,19,W,22,9,0,49,6,30,1,0,4,Patchy rain possible,26,11,ENE,15,26,0.1,78,5,30,22,14,1
+11/1/2019,Friday,November,B6,JFK,FLL,800,4,25,9,1107,162,13,1069,New York, NY,Fort Lauderdale, FL,Sunny,9,26,W,32,5,0.1,57,6,30,1,0,3,Sunny,27,2,SSE,3,27,0,77,6,30,23,11,7
+5/1/2019,Wednesday,May,B6,FLL,EWR,1054,-6,11,5,1358,146,-28,1065,Fort Lauderdale, FL,Newark, NJ,Partly cloudy,25,20,ENE,27,25,0,71,6,30,20,54,7,Overcast,13,10,ESE,12,11,0,65,6,30,7,98,3
+5/1/2019,Wednesday,May,B6,BOS,RSW,950,4,26,8,1318,180,10,1249,Boston, MA,Fort Myers, FL,Partly cloudy,9,3,WSW,4,9,0,57,6,30,1,53,3,Partly cloudy,29,17,E,20,29,0,54,6,30,19,61,7
+12/1/2019,Sunday,December,B6,ALB,MCO,1438,134,40,6,1748,168,158,1073,Albany, NY,Orlando, FL,Patchy heavy snow,-4,9,SE,12,-7,0,59,3,30,-10,71,1,Cloudy,26,11,SSW,13,26,0,62,6,30,18,78,6
+2/1/2019,Friday,February,B6,FLL,EWR,1439,28,42,9,1744,150,44,1065,Fort Lauderdale, FL,Newark, NJ,Light rain shower,22,13,ESE,16,22,0,70,5,30,17,81,5,Overcast,-9,9,W,5,-14,0,37,6,30,-20,97,1
+8/1/2019,Thursday,August,B6,RNO,JFK,2343,-3,10,12,801,279,-20,2411,Reno, NV,New York, NY,Clear,23,13,WSW,16,23,0,25,6,30,2,0,1,Patchy rain possible,25,8,N,10,25,0,66,5,30,18,7,5
+8/1/2019,Thursday,August,B6,JFK,RNO,1853,-7,51,4,2221,315,-25,2411,New York, NY,Reno, NV,Partly cloudy,27,9,SSE,12,27,0,56,6,30,18,27,1,Clear,23,13,WSW,16,23,0,25,6,30,2,0,1
+2/1/2019,Friday,February,B6,JFK,SJU,1530,-1,22,6,2027,193,-17,1598,New York, NY,San Juan, PR,Overcast,-8,8,W,6,-12,0,44,6,30,-17,97,1,Partly cloudy,25,12,E,15,26,0,71,6,30,20,28,1
+10/1/2019,Tuesday,October,B6,BOS,ORD,908,33,14,13,1103,135,20,867,Boston, MA,Chicago, IL,Overcast,14,6,SSW,8,13,0,79,6,30,10,100,3,Patchy rain possible,22,9,SSW,16,22,0.1,77,5,30,18,12,5
+11/1/2019,Friday,November,B6,SJU,JFK,2022,25,9,12,16,204,16,1598,San Juan, PR,New York, NY,Patchy rain possible,26,11,ENE,15,26,0.1,78,5,30,22,14,1,Overcast,14,28,S,48,10,0,71,6,30,8,90,1
+5/1/2019,Wednesday,May,B6,RSW,BOS,545,0,17,5,851,161,-3,1249,Fort Myers, FL,Boston, MA,Clear,23,11,ENE,18,23,0,81,6,30,19,3,1,Partly cloudy,9,3,WSW,4,9,0,57,6,30,1,53,3
+2/1/2019,Friday,February,B6,DEN,JFK,2359,-10,12,5,540,195,-19,1626,Denver, CO,New York, NY,Clear,5,4,S,6,4,0,42,6,30,-6,0,1,Partly cloudy,-8,10,W,16,-14,0,47,6,30,-17,14,1
+6/1/2019,Saturday,June,B6,SAN,BOS,1449,12,18,5,2324,296,-4,2588,San Diego, CA,Boston, MA,Sunny,18,8,WSW,9,18,0,66,6,30,12,13,5,Clear,17,9,S,12,17,0,79,6,30,14,10,1
+7/1/2019,Monday,July,B6,PBI,LGA,946,-2,14,7,1230,140,-5,1035,West Palm Beach/Palm Beach, FL,New York, NY,Sunny,27,21,E,32,27,0,80,6,30,23,24,7,Sunny,28,5,NW,6,28,0,45,6,30,15,9,7
+2/1/2019,Friday,February,B6,JFK,DEN,2002,26,13,7,2249,218,-23,1626,New York, NY,Denver, CO,Partly cloudy,-9,9,W,7,-12,0,44,6,30,-16,72,1,Clear,5,4,S,6,4,0,42,6,30,-6,0,1
+1/1/2019,Tuesday,January,B6,MSY,BOS,1437,-3,8,3,1837,151,-21,1368,New Orleans, LA,Boston, MA,Overcast,20,6,NNE,9,20,0,85,6,30,17,96,5,Clear,2,11,NW,20,-2,0,66,6,30,-3,0,1
+10/1/2019,Tuesday,October,B6,BOS,JFK,1545,18,19,7,1715,44,-2,187,Boston, MA,New York, NY,Cloudy,23,10,SSW,13,23,0,61,6,30,15,81,5,Patchy rain possible,24,11,SSW,13,24,0,68,5,30,18,15,5
+5/1/2019,Wednesday,May,B6,JFK,SLC,1100,126,13,4,1426,286,103,1990,New York, NY,Salt Lake City, UT,Overcast,11,9,E,12,9,0,80,6,30,7,100,3,Sunny,5,6,WNW,7,3,0,37,6,30,-9,4,2
+10/1/2019,Tuesday,October,B6,JAX,BOS,600,-9,13,8,833,151,10,1010,Jacksonville, FL,Boston, MA,Partly cloudy,25,8,ENE,12,25,0,86,6,30,22,37,6,Overcast,14,6,SSW,8,13,0,79,6,30,10,100,3
+2/1/2019,Friday,February,B6,SJU,JFK,2126,-8,11,6,21,225,-1,1598,San Juan, PR,New York, NY,Partly cloudy,25,12,E,15,26,0,71,6,30,20,28,1,Partly cloudy,-8,10,W,16,-14,0,47,6,30,-17,14,1
+8/1/2019,Thursday,August,B6,ATL,JFK,1012,10,16,5,1231,102,-6,760,Atlanta, GA,New York, NY,Sunny,24,3,ESE,4,24,0,77,6,30,20,12,6,Sunny,29,5,ENE,6,29,0,51,6,30,18,21,7
+1/1/2019,Tuesday,January,B6,MCO,LGA,1222,-8,15,6,1457,153,11,950,Orlando, FL,New York, NY,Partly cloudy,27,9,SSW,6,27,0,56,6,30,17,52,7,Sunny,11,10,WNW,31,8,0,55,6,30,3,0,4
+11/1/2019,Friday,November,B6,FLL,JFK,1800,11,17,7,2052,134,-3,1069,Fort Lauderdale, FL,New York, NY,Moderate or heavy rain shower,28,9,E,11,28,0.1,75,4,30,23,11,1,Clear,10,15,WNW,19,8,0,52,6,30,1,0,1
+5/1/2019,Wednesday,May,B6,SLC,JFK,1516,110,11,10,2149,225,83,1990,Salt Lake City, UT,New York, NY,Sunny,5,6,WNW,7,3,0,37,6,30,-9,4,2,Overcast,12,12,ESE,16,11,0,80,6,30,9,96,1
+8/1/2019,Thursday,August,B6,FLL,JFK,1755,92,26,8,2109,149,81,1069,Fort Lauderdale, FL,New York, NY,Partly cloudy,30,11,E,13,30,0,66,6,30,23,48,7,Partly cloudy,27,9,SSE,12,27,0,56,6,30,18,27,1
+6/1/2019,Saturday,June,B6,JFK,LAX,1445,-6,14,6,1800,343,-18,2475,New York, NY,Los Angeles, CA,Sunny,25,4,SSW,4,25,0,51,6,30,14,8,6,Clear,19,8,SSW,9,19,0,66,6,30,13,8,1
+10/1/2019,Tuesday,October,B6,FLL,JAX,2209,-15,16,4,2321,51,-16,319,Fort Lauderdale, FL,Jacksonville, FL,Light rain shower,27,19,ENE,23,27,0.1,78,6,30,23,73,1,Patchy rain possible,26,10,ENE,13,26,0,80,5,30,22,17,1
+1/1/2019,Tuesday,January,B6,FLL,JFK,1831,112,19,6,2124,142,106,1069,Fort Lauderdale, FL,New York, NY,Patchy rain possible,25,8,ESE,13,25,0,76,5,30,20,42,1,Clear,7,10,NW,23,3,0,58,6,30,-1,0,1
+4/1/2019,Monday,April,B6,PBI,LGA,945,98,22,4,1232,134,91,1035,West Palm Beach/Palm Beach, FL,New York, NY,Cloudy,26,23,E,33,26,0,80,6,30,23,70,6,Sunny,7,15,NW,17,3,0,35,6,30,-8,10,3
+8/1/2019,Thursday,August,B6,BOS,BNA,723,14,18,7,910,127,-1,942,Boston, MA,Nashville, TN,Sunny,23,5,NW,7,23,0,71,6,30,18,6,6,Sunny,21,2,NNE,3,21,0,90,6,30,20,17,6
+4/1/2019,Monday,April,B6,JFK,SEA,822,34,32,7,1152,359,42,2422,New York, NY,Seattle, WA,Sunny,1,17,NW,23,-5,0,51,6,30,-8,3,2,Sunny,9,4,NNE,6,9,0,73,6,30,5,18,3
+1/1/2019,Tuesday,January,B6,JFK,SJU,1459,-2,19,8,1957,185,-28,1598,New York, NY,San Juan, PR,Sunny,11,10,WNW,31,8,0,55,6,30,3,0,4,Clear,25,11,ENE,17,25,0,74,6,30,20,12,1
+4/1/2019,Monday,April,B6,JFK,ABQ,1945,11,22,11,2304,253,-22,1826,New York, NY,Albuquerque, NM,Clear,10,11,NW,13,8,0,37,6,30,-4,0,1,Clear,14,4,SSE,4,14,0,28,6,30,-4,6,1
+6/1/2019,Saturday,June,B6,MCO,BQN,2316,70,13,4,157,127,53,1129,Orlando, FL,Aguadilla, PR,Patchy rain possible,31,11,WSW,15,31,0,58,5,30,21,26,1,Clear,24,6,E,11,24,0,82,6,30,21,7,1
+7/1/2019,Monday,July,B6,FLL,JFK,1755,211,31,11,2109,143,202,1069,Fort Lauderdale, FL,New York, NY,Sunny,31,3,W,3,31,0,64,6,30,23,15,8,Clear,27,4,SW,5,27,0,52,6,30,16,15,1
+10/1/2019,Tuesday,October,B6,ORD,BOS,1138,34,12,6,1506,106,10,867,Chicago, IL,Boston, MA,Patchy rain possible,22,9,SSW,16,22,0.1,77,5,30,18,12,5,Cloudy,23,10,SSW,13,23,0,61,6,30,15,81,5
+12/1/2018,Saturday,December,DL,LGA,CHS,915,3,17,5,1152,99,-33,641,New York, NY,Charleston, SC,Sunny,4,3,N,3,3,0,78,6,30,1,10,2,Cloudy,18,4,SSE,7,18,0,82,6,30,15,76,4
+2/1/2018,Thursday,February,DL,GNV,ATL,720,-9,18,8,844,54,-13,300,Gainesville, FL,Atlanta, GA,Sunny,9,2,E,3,9,0,93,6,30,8,14,3,Overcast,6,6,SSW,11,4,0,71,6,30,1,89,2
+9/1/2018,Saturday,September,DL,MIA,JFK,1528,2,15,21,1835,144,-5,1089,Miami, FL,New York, NY,Moderate or heavy rain shower,32,11,E,13,32,0.2,59,4,30,23,10,7,Partly cloudy,24,7,SE,9,24,0,70,6,30,18,30,1
+4/1/2018,Sunday,April,DL,DTW,ROC,2212,-5,16,6,2328,46,-13,296,Detroit, MI,Rochester, NY,Partly cloudy,2,6,W,8,0,0,41,6,30,-9,49,1,Partly cloudy,0,10,WSW,16,-5,0,56,6,30,-8,32,1
+11/1/2018,Thursday,November,DL,DSM,MSP,1727,-4,11,12,1849,48,-15,232,Des Moines, IA,Minneapolis, MN,Sunny,14,4,ENE,4,14,0,40,6,30,1,9,4,Cloudy,7,6,NNE,9,5,0,55,6,30,-2,85,1
+10/1/2018,Monday,October,DL,TYS,MSP,745,-1,12,8,918,127,-7,792,Knoxville, TN,Minneapolis, MN,Sunny,18,2,E,3,18,0,90,6,30,16,24,5,Partly cloudy,7,6,ENE,10,5,0,76,6,30,3,30,3
+10/1/2018,Monday,October,DL,BOS,CHS,1050,0,17,4,1324,112,-21,818,Boston, MA,Charleston, SC,Partly cloudy,16,4,SW,5,16,0,82,6,30,13,33,5,Patchy rain possible,28,13,ENE,15,28,0,64,5,30,21,13,6
+9/1/2018,Saturday,September,DL,DEN,MSP,1356,-5,8,3,1651,85,-24,680,Denver, CO,Minneapolis, MN,Sunny,27,3,NNE,3,27,0,19,6,30,1,10,7,Sunny,31,4,W,5,31,0,53,6,30,20,1,8
+11/1/2018,Thursday,November,DL,ATL,CSG,1030,-3,16,1,1120,22,-14,83,Atlanta, GA,Columbus, GA,Overcast,17,7,SSE,11,17,0,87,6,30,14,96,4,Overcast,18,9,SSE,15,18,0,88,6,30,16,93,4
+1/1/2018,Monday,January,DL,ATL,GSO,1500,-4,20,2,1618,48,-12,306,Atlanta, GA,Greensboro/High Point, NC,Cloudy,0,7,NNW,8,-4,0,35,6,31,-14,77,1,Sunny,-3,7,N,8,-8,0,24,6,31,-20,3,2
+5/1/2018,Tuesday,May,DL,LEX,ATL,1005,-4,12,5,1129,63,-8,304,Lexington, KY,Atlanta, GA,Sunny,10,5,SSW,10,9,0,72,6,30,5,0,4,Sunny,15,3,SSE,3,15,0,64,6,30,8,9,4
+5/1/2018,Tuesday,May,DL,SLC,LGB,835,0,19,3,938,109,8,588,Salt Lake City, UT,Long Beach, CA,Sunny,4,2,NE,4,4,0,67,6,30,-1,20,2,Partly cloudy,14,9,S,11,13,0,71,6,30,9,57,4
+1/1/2018,Monday,January,DL,TVC,DTW,615,-4,26,9,738,35,-17,207,Traverse City, MI,Detroit, MI,Light snow,-11,14,NW,19,-21,0,86,6,31,-13,100,1,Partly cloudy,-15,6,WNW,10,-23,0,91,6,31,-16,26,2
+9/1/2018,Saturday,September,DL,LAX,JFK,915,-5,32,9,1756,297,-8,2475,Los Angeles, CA,New York, NY,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6,Partly cloudy,25,7,E,8,25,0,61,6,30,17,55,7
+7/1/2018,Sunday,July,DL,LGA,RDU,1230,-11,19,8,1430,65,-39,431,New York, NY,Raleigh/Durham, NC,Cloudy,34,3,SSE,4,34,0,48,6,30,21,82,7,Sunny,34,6,SSE,6,34,0,48,6,30,21,19,8
+11/1/2018,Thursday,November,DL,CSG,ATL,1145,0,11,11,1240,23,-10,83,Columbus, GA,Atlanta, GA,Overcast,18,9,SSE,15,18,0,88,6,30,16,93,4,Light rain,20,8,S,11,20,0.1,83,5,30,17,100,4
+6/1/2018,Friday,June,DL,BGR,LGA,1635,-5,27,15,1821,69,NULL,378,Bangor, ME,New York, NY,Overcast,27,8,SSW,9,27,0,74,6,30,22,93,6,Partly cloudy,25,7,SSE,11,25,0,74,6,30,20,31,1
+8/1/2018,Wednesday,August,DL,MLI,ATL,1725,2,13,9,2024,96,1,633,Moline, IL,Atlanta, GA,Sunny,27,8,W,9,27,0,58,6,30,18,10,7,Moderate rain at times,22,1,S,1,22,0.2,91,4,30,21,72,1
+6/1/2018,Friday,June,DL,BNA,JFK,1047,-5,35,6,1408,119,14,765,Nashville, TN,New York, NY,Thundery outbreaks possible,23,4,S,5,23,0,94,5,30,22,33,5,Patchy rain possible,26,3,ESE,3,26,0.1,69,5,30,20,14,6
+5/1/2018,Tuesday,May,DL,CLE,LGA,1404,-5,49,4,1549,64,7,419,Cleveland, OH,New York, NY,Sunny,20,11,SW,21,20,0,44,6,30,7,4,5,Sunny,21,6,W,10,21,0,33,6,30,4,3,6
+6/1/2018,Friday,June,DL,LGA,MKE,920,137,29,2,1104,105,109,738,New York, NY,Milwaukee, WI,Moderate or heavy rain shower,19,3,E,5,19,0.2,92,4,30,18,98,4,Patchy rain possible,15,15,NNE,17,14,0,84,5,30,12,49,4
+9/1/2018,Saturday,September,DL,SLC,LAX,836,-3,12,10,940,84,-21,590,Salt Lake City, UT,Los Angeles, CA,Sunny,14,3,NNE,6,14,0,45,6,30,2,5,4,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6
+12/1/2018,Saturday,December,DL,DCA,LGA,1130,-6,16,8,1241,41,-12,214,Washington, DC,New York, NY,Partly cloudy,3,2,NE,2,2,0,85,6,30,1,48,2,Sunny,7,2,E,2,6,0,59,6,30,0,22,3
+12/1/2018,Saturday,December,DL,LGA,ROC,1630,-9,27,6,1757,43,-20,254,New York, NY,Rochester, NY,Sunny,7,2,E,2,6,0,59,6,30,0,22,3,Partly cloudy,2,8,ESE,11,-2,0,93,6,30,1,33,2
+6/1/2018,Friday,June,DL,CVG,LGA,905,-3,25,13,1106,90,4,585,Cincinnati, OH,New York, NY,Light rain shower,20,2,WSW,3,20,0.1,95,6,30,19,100,4,Moderate or heavy rain shower,19,3,E,5,19,0.2,92,4,30,18,98,4
+4/1/2018,Sunday,April,DL,FAY,ATL,1536,-10,14,6,1705,60,-19,331,Fayetteville, NC,Atlanta, GA,Sunny,23,7,SW,9,23,0,38,6,30,8,5,6,Sunny,25,3,SSW,3,26,0,31,6,30,8,9,6
+9/1/2018,Saturday,September,DL,AUS,JFK,820,5,14,6,1304,198,-1,1521,Austin, TX,New York, NY,Sunny,25,2,SW,2,25,0,86,6,30,22,24,6,Partly cloudy,25,7,E,8,25,0,61,6,30,17,55,7
+7/1/2018,Sunday,July,DL,IND,BOS,800,-3,17,7,1019,116,-2,818,Indianapolis, IN,Boston, MA,Sunny,25,6,SSW,9,25,0,90,6,30,24,5,7,Sunny,27,2,WSW,2,27,0,68,6,30,21,16,7
+4/1/2018,Sunday,April,DL,ATL,CSG,1959,47,15,3,2045,19,38,83,Atlanta, GA,Columbus, GA,Clear,20,4,SSW,9,20,0,46,6,30,8,19,1,Clear,21,4,S,9,22,0,51,6,30,11,4,1
+5/1/2018,Tuesday,May,DL,RDU,LGA,1900,-4,39,5,2053,76,3,431,Raleigh/Durham, NC,New York, NY,Clear,23,5,SSW,11,23,0,54,6,30,13,0,1,Clear,20,8,SW,16,20,0,47,6,30,9,7,1
+8/1/2018,Wednesday,August,DL,GPT,ATL,1758,-3,11,15,2030,65,-4,352,Gulfport/Biloxi, MS,Atlanta, GA,Patchy rain possible,31,6,NNE,6,31,0.1,55,5,30,21,25,7,Moderate rain at times,22,1,S,1,22,0.2,91,4,30,21,72,1
+8/1/2018,Wednesday,August,DL,ATL,GPT,1655,3,24,5,1723,60,4,352,Atlanta, GA,Gulfport/Biloxi, MS,Torrential rain shower,23,4,S,6,23,0.3,88,1,30,21,71,5,Patchy rain possible,31,6,NNE,6,31,0.1,55,5,30,21,25,7
+6/1/2018,Friday,June,DL,BOS,JFK,1935,107,20,6,2104,42,86,187,Boston, MA,New York, NY,Partly cloudy,24,3,SSW,5,24,0,85,6,30,21,52,1,Partly cloudy,25,7,SSE,11,25,0,74,6,30,20,31,1
+7/1/2018,Sunday,July,DL,RDU,LGA,1600,-7,15,10,1748,71,-19,431,Raleigh/Durham, NC,New York, NY,Sunny,34,6,SSE,6,34,0,48,6,30,21,19,8,Cloudy,34,3,SSE,4,34,0,48,6,30,21,82,7
+10/1/2018,Monday,October,DL,MHT,DTW,1230,-7,25,8,1437,104,3,610,Manchester, NH,Detroit, MI,Overcast,12,4,NNE,5,12,0,94,6,30,11,100,3,Light rain shower,15,7,ENE,8,14,0,87,6,30,12,100,3
+2/1/2018,Thursday,February,DL,RDU,BWI,905,-8,16,11,1020,43,-13,255,Raleigh/Durham, NC,Baltimore, MD,Sunny,1,6,SSW,13,-2,0,75,6,30,-3,8,2,Partly cloudy,2,7,SW,13,-3,0,66,6,30,-4,50,2
+8/1/2018,Wednesday,August,DL,ATL,TLH,1344,0,16,5,1454,40,-9,223,Atlanta, GA,Tallahassee, FL,Torrential rain shower,23,4,S,6,23,0.3,88,1,30,21,71,5,Light rain shower,28,6,S,8,28,0.1,77,6,30,23,75,6
+5/1/2018,Tuesday,May,DL,OMA,ATL,545,-8,12,7,901,111,-14,821,Omaha, NE,Atlanta, GA,Partly cloudy,20,19,S,31,20,0,67,6,30,14,42,1,Sunny,15,3,SSE,3,15,0,64,6,30,8,9,4
+2/1/2018,Thursday,February,DL,RDU,LGA,1500,2,40,8,1648,61,3,431,Raleigh/Durham, NC,New York, NY,Sunny,14,12,SW,14,12,0,51,6,30,4,3,4,Partly cloudy,5,4,SW,6,2,0,55,6,30,-3,47,3
+7/1/2018,Sunday,July,DL,JFK,CMH,1440,0,14,4,1644,66,-40,483,New York, NY,Columbus, OH,Cloudy,34,3,SSE,4,34,0,48,6,30,21,82,7,Sunny,34,7,S,8,34,0,44,6,30,20,19,8
+4/1/2018,Sunday,April,DL,BWI,JFK,1520,-2,23,5,1638,37,-15,184,Baltimore, MD,New York, NY,Overcast,16,5,W,7,16,0,53,6,30,6,92,4,Cloudy,12,9,WNW,15,10,0,60,6,30,4,77,3
+7/1/2018,Sunday,July,DL,BUF,LGA,716,-7,20,9,848,60,-10,292,Buffalo, NY,New York, NY,Sunny,24,9,SSW,13,24,0,80,6,30,20,0,6,Cloudy,27,4,NW,7,27,0,65,6,30,20,71,6
+12/1/2018,Saturday,December,DL,BOS,CMH,1030,-6,11,5,1249,120,-9,640,Boston, MA,Columbus, OH,Sunny,0,7,NW,9,-3,0,78,6,30,-3,6,2,Heavy rain,6,9,ESE,14,2,0.8,96,3,30,5,100,2
+2/1/2018,Thursday,February,DL,PIT,JFK,600,-8,17,6,750,59,-36,340,Pittsburgh, PA,New York, NY,Light drizzle,3,5,SW,11,-1,0,79,1,30,-1,100,1,Cloudy,2,8,SW,12,-3,0,62,6,30,-5,87,1
+10/1/2018,Monday,October,DL,DTW,DSM,2005,26,26,5,2056,91,37,534,Detroit, MI,Des Moines, IA,Cloudy,15,8,E,12,14,0,95,6,30,14,86,1,Light rain,12,5,NW,7,11,0.1,94,5,30,11,84,1
+4/1/2018,Sunday,April,DL,LGA,MCI,1105,-4,14,8,1345,186,-16,1107,New York, NY,Kansas City, MO,Overcast,8,10,SW,17,6,0,60,6,30,1,97,2,Overcast,-4,9,NNE,11,-9,0,81,6,30,-6,100,1
+8/1/2018,Wednesday,August,DL,ATL,MLI,1550,-4,46,9,1650,82,13,633,Atlanta, GA,Moline, IL,Torrential rain shower,23,4,S,6,23,0.3,88,1,30,21,71,5,Sunny,27,8,W,9,27,0,58,6,30,18,10,7
+10/1/2018,Monday,October,DL,ALB,DTW,600,-10,14,7,750,91,-8,489,Albany, NY,Detroit, MI,Partly cloudy,12,1,NNE,1,12,0,90,6,30,10,41,4,Overcast,12,9,ENE,12,10,0,86,6,30,10,100,3
+1/1/2018,Monday,January,DL,PIT,DTW,1330,-6,44,6,1455,56,15,201,Pittsburgh, PA,Detroit, MI,Light snow,-10,10,W,11,-17,0,72,6,31,-14,97,1,Cloudy,-12,12,WNW,16,-20,0,78,6,31,-15,81,1
+11/1/2018,Thursday,November,DL,DCA,JFK,907,-5,34,5,1037,42,-14,213,Washington, DC,New York, NY,Partly cloudy,14,4,SSW,7,14,0,90,6,30,13,26,4,Partly cloudy,14,6,SW,8,13,0,84,6,30,11,37,4
+11/1/2018,Thursday,November,DL,SYR,JFK,1130,-4,12,9,1251,50,-14,209,Syracuse, NY,New York, NY,Patchy light rain,7,3,NW,4,7,0,93,5,30,6,72,2,Sunny,20,5,S,7,20,0,67,6,30,14,20,6
+1/1/2018,Monday,January,DL,DTW,PIT,1200,-3,16,13,1318,37,-15,201,Detroit, MI,Pittsburgh, PA,Cloudy,-12,12,WNW,16,-20,0,78,6,31,-15,81,1,Light snow,-10,10,W,11,-17,0,72,6,31,-14,97,1
+1/1/2018,Monday,January,DL,AVL,ATL,615,27,42,13,724,36,49,164,Asheville, NC,Atlanta, GA,Sunny,-9,6,N,8,-14,0,49,6,31,-18,3,2,Sunny,-5,8,NNW,10,-10,0,35,6,30,-18,7,2
+2/1/2018,Thursday,February,DL,SYR,LGA,1719,-11,58,13,1850,41,10,198,Syracuse, NY,New York, NY,Partly cloudy,6,13,SW,19,2,0,69,6,30,1,60,3,Light drizzle,5,3,S,6,2,0,71,1,30,0,85,1
+2/1/2019,Friday,February,DL,CVG,DCA,1224,-3,30,5,1348,59,7,411,Cincinnati, OH,Washington, DC,Overcast,-2,4,SE,3,-2,0,77,2,30,-5,97,1,Overcast,-2,5,ESE,5,-5,0,56,4,30,-9,100,1
+7/1/2019,Monday,July,DL,PSC,MSP,1333,-7,13,4,1839,159,-17,1254,Pasco/Kennewick/Richland, WA,Minneapolis, MN,Sunny,30,1,NW,2,30,0,29,6,30,10,18,8,Moderate or heavy rain shower,19,8,NE,10,19,0.2,85,4,30,17,59,1
+5/1/2019,Wednesday,May,DL,JFK,BUF,1312,-5,19,3,1439,55,-15,301,New York, NY,Buffalo, NY,Overcast,12,12,ESE,15,10,0,70,6,30,6,97,3,Light rain shower,21,10,ESE,14,21,0,70,6,30,15,40,5
+5/1/2019,Wednesday,May,DL,DTW,SAT,836,-1,26,4,1054,186,17,1214,Detroit, MI,San Antonio, TX,Overcast,8,11,ESE,15,5,0,94,6,30,7,95,2,Light drizzle,23,8,ESE,11,23,0,90,1,30,21,91,5
+4/30/2019,Tuesday,April,DL,LGA,STL,1030,-9,37,5,1232,134,-15,888,New York, NY,St. Louis, MO,Light drizzle,11,2,SSE,2,11,0,83,1,30,8,94,3,Sunny,36,17,N,19,36,0,15,6,30,5,2,9
+7/1/2019,Monday,July,DL,MKE,LGA,624,-3,16,4,943,107,-15,738,Milwaukee, WI,New York, NY,Sunny,19,2,SSW,4,19,0,86,6,30,16,3,5,Sunny,23,10,WSW,12,23,0,61,6,30,15,0,6
+8/1/2019,Thursday,August,DL,BOS,JFK,1420,262,32,23,1551,43,269,187,Boston, MA,New York, NY,Sunny,31,4,SW,5,31,0,38,6,30,15,23,8,Sunny,29,5,ENE,6,29,0,51,6,30,18,21,7
+9/1/2019,Sunday,September,DL,MLI,ATL,600,-8,25,7,901,91,-6,633,Moline, IL,Atlanta, GA,Light rain shower,16,5,NE,9,16,0,97,6,30,15,94,4,Sunny,23,8,E,10,23,0,79,6,30,19,8,6
+7/1/2019,Monday,July,DL,DSM,DTW,1415,-4,13,14,1701,76,-7,534,Des Moines, IA,Detroit, MI,Sunny,30,10,SW,11,30,0,72,6,30,24,20,7,Sunny,29,8,S,9,29,0,56,6,30,19,6,7
+8/1/2019,Thursday,August,DL,BTR,ATL,600,-7,14,8,841,65,-21,448,Baton Rouge, LA,Atlanta, GA,Sunny,24,1,N,2,24,0,87,6,30,21,6,6,Sunny,24,3,ESE,4,24,0,77,6,30,20,12,6
+2/1/2019,Friday,February,DL,CVG,CLT,706,26,48,7,856,54,25,335,Cincinnati, OH,Charlotte, NC,Moderate snow,-7,4,ESE,7,-8,0,77,1,30,-9,100,1,Partly cloudy,-3,5,SSW,8,-4,0,75,6,30,-5,5,2
+11/1/2019,Friday,November,DL,BOS,DCA,1525,-1,23,3,1721,80,-11,399,Boston, MA,Washington, DC,Sunny,13,19,WSW,22,10,0,38,6,30,-1,0,4,Sunny,11,14,NW,16,9,0,43,6,30,-1,0,4
+10/1/2019,Tuesday,October,DL,IAD,DTW,1315,0,25,6,1457,64,-7,383,Washington, DC,Detroit, MI,Sunny,31,5,S,6,31,0,51,6,30,19,15,8,Partly cloudy,29,10,SW,12,29,0,58,6,30,19,26,7
+11/1/2019,Friday,November,DL,ORD,BOS,1540,-7,9,32,1919,103,-22,867,Chicago, IL,Boston, MA,Partly cloudy,3,12,SW,13,-2,0,71,6,30,-2,53,2,Clear,7,14,W,19,4,0,53,6,30,-2,0,1
+7/1/2019,Monday,July,DL,MSP,PSC,1130,-8,20,4,1303,185,-12,1254,Minneapolis, MN,Pasco/Kennewick/Richland, WA,Light rain shower,21,10,WNW,15,21,0.1,87,6,30,19,47,5,Sunny,30,1,NW,2,30,0,29,6,30,10,18,8
+6/1/2019,Saturday,June,DL,SLC,TUL,1345,-3,16,4,1715,113,-20,926,Salt Lake City, UT,Tulsa, OK,Sunny,20,4,NNW,4,20,0,43,6,30,7,25,6,Sunny,30,10,SSW,12,30,0,57,6,30,20,7,7
+9/1/2019,Sunday,September,DL,AVL,ATL,1859,-10,12,15,2011,33,-22,164,Asheville, NC,Atlanta, GA,Clear,20,6,ESE,8,20,0,83,6,30,17,6,1,Moderate or heavy rain shower,27,8,E,9,27,0.1,67,4,30,20,65,1
+8/1/2019,Thursday,August,DL,ATL,AGS,910,-5,14,5,1010,31,-15,143,Atlanta, GA,Augusta, GA,Sunny,24,3,ESE,4,24,0,77,6,30,20,12,6,Sunny,26,2,S,4,26,0,68,6,30,20,10,7
+8/1/2019,Thursday,August,DL,AGS,ATL,1035,-7,23,7,1147,31,-18,143,Augusta, GA,Atlanta, GA,Sunny,26,2,S,4,26,0,68,6,30,20,10,7,Sunny,24,3,ESE,4,24,0,77,6,30,20,12,6
+6/1/2019,Saturday,June,DL,ATL,CRW,1459,-1,10,3,1625,61,-13,363,Atlanta, GA,Charleston/Dunbar, WV,Sunny,31,9,NW,10,31,0,33,6,30,13,14,8,Sunny,29,6,WSW,7,29,0,41,6,30,14,4,7
+8/1/2019,Thursday,August,DL,BTV,ATL,1700,-5,16,7,1950,142,-10,961,Burlington, VT,Atlanta, GA,Sunny,24,7,NNW,8,24,0,42,6,30,11,0,6,Heavy rain at times,26,5,WSW,6,26,0.3,74,3,30,21,33,1
+12/1/2019,Sunday,December,DL,JAX,RDU,600,22,15,5,721,61,22,407,Jacksonville, FL,Raleigh/Durham, NC,Sunny,18,8,SSW,14,18,0,90,6,30,16,11,5,Light rain,9,9,S,15,8,0.1,94,5,30,8,100,2
+1/1/2019,Tuesday,January,DL,MOT,MSP,840,239,17,3,1031,67,215,449,Minot, ND,Minneapolis, MN,Sunny,-29,4,WSW,8,-36,0,83,6,31,-31,5,2,Sunny,-18,9,NNW,11,-26,0,91,6,31,-20,25,2
+1/1/2019,Tuesday,January,DL,RAP,SLC,1747,-1,23,10,1936,77,0,508,Rapid City, SD,Salt Lake City, UT,Sunny,-9,4,SSW,9,-15,0,74,6,30,-13,2,2,Clear,-11,3,NW,6,-15,0,79,6,31,-14,11,1
+6/1/2019,Saturday,June,DL,CRW,ATL,1655,-5,9,7,1823,56,-21,363,Charleston/Dunbar, WV,Atlanta, GA,Sunny,29,6,WSW,7,29,0,41,6,30,14,4,7,Clear,28,9,NW,11,28,0,47,6,30,16,17,1
+4/30/2019,Tuesday,April,DL,CMH,JFK,1756,-5,10,20,2000,85,-14,483,Columbus, OH,New York, NY,Thundery outbreaks possible,17,5,ENE,5,17,0,65,5,30,10,100,4,Cloudy,14,4,SW,5,13,0,73,6,30,9,63,1
+3/1/2019,Friday,March,DL,CSG,ATL,1803,62,20,13,1908,31,61,83,Columbus, GA,Atlanta, GA,Light rain shower,18,5,WSW,9,18,0,89,6,30,16,40,1,Moderate or heavy rain shower,16,7,WSW,11,16,0.1,86,4,30,14,79,1
+9/1/2019,Sunday,September,DL,SGF,ATL,1600,-11,23,10,1856,74,-20,563,Springfield, MO,Atlanta, GA,Sunny,27,3,WSW,4,27,0,64,6,30,19,14,7,Moderate or heavy rain shower,27,8,E,9,27,0.1,67,4,30,20,65,1
+4/30/2019,Tuesday,April,DL,JFK,CMH,1455,-2,25,4,1651,83,-6,483,New York, NY,Columbus, OH,Overcast,15,3,SW,3,16,0,74,6,30,10,90,3,Thundery outbreaks possible,17,5,ENE,5,17,0,65,5,30,10,100,4
+3/1/2019,Friday,March,DL,ATL,FNT,919,17,17,4,1119,88,6,645,Atlanta, GA,Flint, MI,Fog,15,4,SW,6,15,0,98,0,30,15,100,4,Cloudy,-10,6,SW,9,-13,0,92,6,30,-11,80,1
+11/1/2019,Friday,November,DL,BOS,LGA,1800,-7,20,7,1937,51,-26,184,Boston, MA,New York, NY,Clear,7,14,W,19,4,0,53,6,30,-2,0,1,Clear,10,15,WNW,19,8,0,52,6,30,1,0,1
+10/1/2019,Tuesday,October,DL,SLC,PSC,1115,-6,19,4,1209,73,-24,521,Salt Lake City, UT,Pasco/Kennewick/Richland, WA,Sunny,6,1,WNW,2,6,0,63,6,30,0,4,3,Sunny,14,2,SW,3,14,0,32,6,30,-2,21,4
+2/1/2019,Friday,February,DL,CVG,DCA,700,16,40,4,838,63,25,411,Cincinnati, OH,Washington, DC,Moderate snow,-7,4,ESE,7,-8,0,77,1,30,-9,100,1,Overcast,-10,5,NE,7,-10,0,37,6,30,-21,88,1
+12/1/2019,Sunday,December,DL,RDU,LGA,1030,22,21,6,1215,65,9,431,Raleigh/Durham, NC,New York, NY,Light rain,9,9,S,15,8,0.1,94,5,30,8,100,2,Overcast,3,16,SE,22,-3,0,82,6,30,0,100,1
+9/1/2019,Sunday,September,DL,LGA,MCI,930,-3,30,4,1150,162,-7,1107,New York, NY,Kansas City, MO,Partly cloudy,20,9,NE,11,20,0,63,6,30,13,40,5,Mist,16,2,NE,3,16,0,95,1,30,15,46,4
+3/1/2019,Friday,March,DL,ATL,CSG,1645,75,24,1,1732,19,72,83,Atlanta, GA,Columbus, GA,Cloudy,19,9,SW,10,19,0,73,6,30,14,69,4,Moderate rain,19,5,SW,14,19,0.1,82,4,30,16,90,4
+1/1/2019,Tuesday,January,DL,MKE,MSP,1030,-5,12,4,1151,55,-15,297,Milwaukee, WI,Minneapolis, MN,Partly cloudy,-5,11,N,22,-12,0,82,6,30,-8,60,2,Sunny,-18,9,NNW,11,-26,0,91,6,31,-20,25,2
+6/1/2019,Saturday,June,DL,DTW,AZO,820,-1,13,5,914,28,-9,113,Detroit, MI,Kalamazoo, MI,Sunny,18,9,W,14,18,0,77,6,30,14,12,5,Sunny,17,10,W,18,17,0,91,6,30,16,22,5
+5/1/2019,Wednesday,May,DL,DTW,ORD,955,5,16,8,1017,44,-9,235,Detroit, MI,Chicago, IL,Overcast,8,11,ESE,15,5,0,94,6,30,7,95,2,Heavy rain,10,3,SSW,7,9,0.8,99,3,30,10,100,2
+11/1/2019,Friday,November,DL,BOS,ORD,1303,-2,23,11,1508,142,-11,867,Boston, MA,Chicago, IL,Sunny,13,19,WSW,22,10,0,38,6,30,-1,0,4,Partly cloudy,3,12,SW,13,-2,0,71,6,30,-2,53,2
+10/1/2019,Tuesday,October,DL,FAR,MSP,1725,-11,43,6,1839,43,7,223,Fargo, ND,Minneapolis, MN,Cloudy,9,13,N,15,6,0,68,6,30,3,71,2,Patchy light rain,11,13,NNE,18,9,0.1,85,5,30,9,73,1
+2/1/2019,Friday,February,DL,DSM,LGA,825,20,12,12,1215,127,1,1031,Des Moines, IA,New York, NY,Freezing fog,-18,4,ESE,8,-23,0,84,0,30,-19,93,1,Overcast,-8,8,W,6,-12,0,44,6,30,-17,97,1
+5/1/2019,Wednesday,May,DL,DFW,DTW,940,9,15,16,1324,130,6,986,Dallas/Fort Worth, TX,Detroit, MI,Patchy light rain with thunder,21,19,S,30,21,0.1,95,6,30,20,33,5,Cloudy,17,10,S,18,17,0,88,6,30,15,87,4
+10/1/2019,Tuesday,October,DL,SHV,ATL,1415,2,10,13,1704,84,0,551,Shreveport, LA,Atlanta, GA,Sunny,33,8,SSE,9,33,0,47,6,30,20,0,8,Patchy rain possible,36,7,E,8,36,0,42,5,30,21,17,8
+4/30/2019,Tuesday,April,DL,LGA,BNA,1629,-7,27,6,1808,110,-23,764,New York, NY,Nashville, TN,Overcast,15,3,SW,3,16,0,74,6,30,10,90,3,Clear,23,8,S,12,23,0,69,6,30,17,19,1
+5/1/2019,Wednesday,May,DL,ORF,JFK,1700,-3,21,15,1850,49,-28,290,Norfolk, VA,New York, NY,Sunny,26,6,SSW,9,26,0,56,6,30,16,4,7,Overcast,12,12,ESE,16,11,0,80,6,30,9,96,1
+4/30/2019,Tuesday,April,DL,RDU,LGA,700,3,32,5,847,62,-5,431,Raleigh/Durham, NC,New York, NY,Sunny,19,8,SW,12,19,0,85,6,30,16,7,5,Light drizzle,11,2,SSE,2,11,0,83,1,30,8,94,3
+1/1/2019,Tuesday,January,DL,SBN,ATL,1226,29,10,6,1440,95,6,566,South Bend, IN,Atlanta, GA,Cloudy,1,12,N,12,-3,0,73,6,30,-3,78,1,Patchy rain possible,17,7,NW,5,17,0,89,5,30,15,45,4
+9/1/2019,Sunday,September,DL,JFK,PWM,935,-4,19,4,1050,48,-8,273,New York, NY,Portland, ME,Partly cloudy,20,9,NE,11,20,0,63,6,30,13,40,5,Sunny,15,7,NNE,10,15,0,78,6,30,11,13,5
+7/1/2019,Monday,July,DL,ATL,MGM,1345,33,20,5,1340,22,25,147,Atlanta, GA,Montgomery, AL,Patchy rain possible,33,8,NW,10,33,0,42,5,30,19,29,7,Sunny,34,7,NW,8,34,0,45,6,30,20,14,8
+6/1/2019,Saturday,June,DL,MOB,ATL,900,-9,21,6,1121,48,-15,302,Mobile, AL,Atlanta, GA,Sunny,23,4,ESE,9,23,0,80,6,30,20,8,6,Sunny,23,5,NW,6,23,0,61,6,30,15,20,6
+10/1/2019,Tuesday,October,DL,LGA,BNA,1140,101,13,7,1327,102,56,764,New York, NY,Nashville, TN,Partly cloudy,19,6,SSW,8,19,0,72,6,30,14,58,5,Sunny,34,6,SSW,6,34,0,45,6,30,20,18,8
+1/1/2019,Tuesday,January,DL,DTW,PHL,1240,-6,19,4,1429,61,-31,453,Detroit, MI,Philadelphia, PA,Light snow,1,7,SW,9,-3,0,79,6,30,-2,100,1,Sunny,13,12,WNW,23,11,0,51,6,30,3,0,4
+12/1/2019,Sunday,December,DL,CVG,ORD,1835,41,22,7,1917,50,18,264,Cincinnati, OH,Chicago, IL,Overcast,3,11,WSW,16,-2,0,91,6,30,2,100,1,Blizzard,2,8,NW,11,-3,0.1,90,0,30,1,100,1
+2/1/2019,Friday,February,DL,PHL,BOS,830,-17,46,22,1010,46,-3,280,Philadelphia, PA,Boston, MA,Partly cloudy,-13,5,NW,5,-14,0,47,6,30,-21,50,2,Partly cloudy,-14,13,W,13,-21,0,44,6,30,-23,4,2
+11/1/2019,Friday,November,DL,EWR,BOS,1630,-4,23,9,1758,39,-21,200,Newark, NJ,Boston, MA,Sunny,11,17,W,19,9,0,46,6,30,0,0,4,Sunny,13,19,WSW,22,10,0,38,6,30,-1,0,4
+5/1/2018,Tuesday,May,F9,MIA,PHL,1153,-5,16,10,1448,141,-13,1013,Miami, FL,Philadelphia, PA,Partly cloudy,25,11,E,14,25,0,68,6,30,18,28,6,Sunny,25,8,W,9,25,0,24,6,30,3,2,6
+2/1/2018,Thursday,February,F9,PHX,MCO,715,-1,19,6,1323,211,-13,1849,Phoenix, AZ,Orlando, FL,Sunny,19,7,E,12,19,0,18,6,30,-5,0,5,Cloudy,21,3,S,3,21,0,55,6,30,12,68,5
+2/1/2018,Thursday,February,F9,SFO,DEN,59,-6,16,6,430,123,-12,967,San Francisco, CA,Denver, CO,Partly cloudy,13,3,NE,5,14,0,73,6,30,8,49,1,Patchy light snow,-2,6,ESE,7,-7,0,87,6,30,-4,57,1
+12/1/2018,Saturday,December,F9,MCO,BHM,1740,47,9,6,1815,72,39,479,Orlando, FL,Birmingham, AL,Overcast,26,11,SSE,14,26,0,62,6,30,18,90,6,Light rain shower,19,7,S,12,19,0.1,96,6,30,19,63,1
+4/1/2018,Sunday,April,F9,MKE,MIA,645,-10,17,12,1103,158,-21,1258,Milwaukee, WI,Miami, FL,Sunny,-6,11,WNW,13,-12,0,63,6,30,-12,18,2,Overcast,23,6,E,9,24,0,74,6,30,19,88,5
+3/1/2018,Thursday,March,F9,MSN,LAS,1532,-10,11,7,1719,201,-18,1454,Madison, WI,Las Vegas, NV,Cloudy,4,13,NNW,15,0,0,57,6,30,-4,71,1,Sunny,14,19,S,22,12,0,23,6,30,-7,2,4
+1/1/2018,Monday,January,F9,MCO,SJU,2013,2,27,6,4,141,5,1189,Orlando, FL,San Juan, PR,Light drizzle,9,17,N,22,6,0,82,1,30,6,100,1,Clear,25,9,ESE,14,25,0,81,6,30,21,24,1
+9/1/2018,Saturday,September,F9,COS,MCO,1926,-2,8,7,104,173,-32,1520,Colorado Springs, CO,Orlando, FL,Patchy rain possible,24,3,SSW,4,24,0,39,5,30,9,29,1,Partly cloudy,26,6,E,9,26,0,84,6,30,23,27,1
+8/1/2018,Wednesday,August,F9,DEN,CLT,16,0,13,14,530,156,-11,1337,Denver, CO,Charlotte, NC,Clear,20,3,W,7,20,0,40,6,30,6,0,1,Moderate or heavy rain shower,22,4,SSW,6,22,0.1,94,4,30,21,50,1
+3/1/2018,Thursday,March,F9,MCO,LAS,610,-7,14,7,829,291,-14,2039,Orlando, FL,Las Vegas, NV,Sunny,20,6,SSW,9,20,0,88,6,30,18,11,5,Overcast,6,10,SSE,16,3,0,49,6,30,-4,89,2
+9/1/2018,Saturday,September,F9,LAS,BNA,620,0,18,11,1157,201,13,1587,Las Vegas, NV,Nashville, TN,Sunny,29,2,WSW,4,29,0,11,6,30,-5,0,7,Patchy rain possible,22,2,SE,3,22,0,93,5,30,21,23,5
+1/1/2018,Monday,January,F9,DEN,SFO,2212,7,33,8,2359,139,20,967,Denver, CO,San Francisco, CA,Partly cloudy,-6,1,ENE,2,-10,0,58,6,30,-13,46,1,Clear,14,3,NNE,5,14,0,70,6,30,9,8,1
+9/1/2018,Saturday,September,F9,DEN,SAN,1710,3,14,6,1834,118,-3,853,Denver, CO,San Diego, CA,Sunny,27,3,NNE,3,27,0,19,6,30,1,10,7,Clear,22,5,SSW,6,22,0,78,6,30,18,2,1
+5/1/2018,Tuesday,May,F9,PHL,MIA,800,-4,21,5,1103,134,-27,1013,Philadelphia, PA,Miami, FL,Sunny,14,5,WNW,5,13,0,43,6,30,1,0,4,Partly cloudy,25,11,E,14,25,0,68,6,30,18,28,6
+1/1/2018,Monday,January,F9,RSW,TTN,2015,99,10,7,2257,124,78,1028,Fort Myers, FL,Trenton, NJ,Cloudy,14,16,N,20,12,0,82,6,30,11,74,1,Cloudy,-9,7,WSW,11,-15,0,60,6,30,-16,83,1
+8/1/2018,Wednesday,August,F9,SAT,CVG,1524,2,12,6,1904,129,-11,1024,San Antonio, TX,Cincinnati, OH,Sunny,35,4,NNE,5,35,0,32,6,30,16,17,8,Patchy rain possible,22,3,SSE,5,22,0.1,87,5,30,20,20,1
+2/1/2018,Thursday,February,F9,MCO,PHX,2005,2,14,30,2305,255,1,1849,Orlando, FL,Phoenix, AZ,Partly cloudy,19,2,ESE,4,19,0,62,6,30,12,34,1,Clear,29,2,WNW,2,29,0,10,6,30,-5,0,1
+12/1/2018,Saturday,December,F9,GRR,MCO,1445,-13,10,9,1730,147,-12,1024,Grand Rapids, MI,Orlando, FL,Light drizzle,1,15,E,22,-4,0,96,1,30,1,100,1,Overcast,26,11,SSE,14,26,0,62,6,30,18,90,6
+11/1/2018,Thursday,November,F9,LAS,IAD,640,-8,19,9,1413,257,4,2065,Las Vegas, NV,Washington, DC,Sunny,13,4,NNW,8,13,0,25,6,30,-6,5,4,Sunny,25,12,SSW,14,25,0,48,6,30,13,2,6
+12/1/2018,Saturday,December,F9,MCO,LAS,610,-10,13,6,826,301,-6,2039,Orlando, FL,Las Vegas, NV,Overcast,19,5,SE,10,19,0,85,6,30,17,100,4,Sunny,6,4,SE,7,5,0,63,6,30,-1,4,3
+5/1/2018,Tuesday,May,F9,PHX,ORD,22,-7,14,115,555,173,82,1440,Phoenix, AZ,Chicago, IL,Clear,24,10,WSW,12,24,0,18,6,30,-2,22,1,Partly cloudy,14,13,SSW,27,13,0,53,6,30,5,44,1
+7/1/2018,Sunday,July,F9,ONT,SAT,954,-10,17,7,1437,158,9,1166,Ontario, CA,San Antonio, TX,Sunny,22,6,SW,7,22,0,62,6,30,14,0,6,Sunny,35,9,SSE,11,35,0,39,6,30,19,0,8
+7/1/2018,Sunday,July,F9,SAT,ATL,1525,29,14,7,1854,114,15,874,San Antonio, TX,Atlanta, GA,Sunny,35,9,SSE,11,35,0,39,6,30,19,0,8,Light rain shower,27,1,S,1,27,0.1,78,6,30,23,45,1
+9/1/2018,Saturday,September,F9,MCO,COS,1630,-2,17,6,1836,190,-35,1520,Orlando, FL,Colorado Springs, CO,Moderate or heavy rain shower,32,8,E,9,32,0.1,54,4,30,22,51,7,Patchy rain possible,24,3,SSW,4,24,0,39,5,30,9,29,1
+1/1/2018,Monday,January,F9,TPA,ISP,2120,36,11,5,2355,122,19,1034,Tampa, FL,Islip, NY,Overcast,7,16,NNE,18,3,0,71,6,30,2,100,1,Partly cloudy,-7,14,WNW,17,-15,0,55,6,30,-15,32,1
+7/1/2018,Sunday,July,F9,AUS,TPA,525,0,11,8,850,132,6,928,Austin, TX,Tampa, FL,Partly cloudy,25,9,S,13,25,0,90,6,30,23,56,1,Sunny,26,5,SSE,6,26,0,81,6,30,23,25,7
+2/1/2018,Thursday,February,F9,MCO,MEM,1420,-8,15,6,1530,118,1,684,Orlando, FL,Memphis, TN,Cloudy,21,3,S,3,21,0,55,6,30,12,68,5,Overcast,10,6,NNW,10,9,0,92,6,30,9,100,3
+2/1/2018,Thursday,February,F9,MEM,MCO,1620,-11,12,11,1915,90,-13,684,Memphis, TN,Orlando, FL,Overcast,10,6,NNW,10,9,0,92,6,30,9,100,3,Partly cloudy,19,2,ESE,4,19,0,62,6,30,12,34,1
+1/1/2018,Monday,January,F9,MCO,MSY,655,20,18,7,747,86,19,551,Orlando, FL,New Orleans, LA,Light drizzle,15,3,NNE,5,15,0,85,1,30,13,100,4,Cloudy,-1,20,N,23,-8,0,50,6,30,-10,81,1
+4/1/2018,Sunday,April,F9,TUL,DEN,1817,-1,40,7,1906,85,22,541,Tulsa, OK,Denver, CO,Overcast,1,13,NNE,17,-4,0,57,6,30,-7,90,1,Clear,11,8,E,9,10,0,41,6,30,-2,2,1
+4/1/2018,Sunday,April,F9,MSP,DEN,535,-4,13,10,652,112,-6,680,Minneapolis, MN,Denver, CO,Partly cloudy,-12,11,WNW,16,-20,0,84,6,30,-14,48,1,Partly cloudy,-3,5,ENE,6,-6,0,83,6,30,-5,52,2
+12/1/2018,Saturday,December,F9,CVG,DEN,1905,1,15,10,2021,150,-20,1069,Cincinnati, OH,Denver, CO,Moderate or heavy rain shower,12,12,SE,21,10,0.1,92,4,30,11,100,1,Clear,0,5,NNW,10,-4,0,32,6,30,-14,23,1
+8/1/2018,Wednesday,August,F9,CVG,LGA,2002,71,21,13,2200,102,89,585,Cincinnati, OH,New York, NY,Patchy rain possible,22,3,SSE,5,22,0.1,87,5,30,20,20,1,Partly cloudy,29,14,SSW,22,29,0,67,6,30,22,51,1
+9/1/2018,Saturday,September,F9,BNA,MCO,1245,5,23,9,1538,92,16,616,Nashville, TN,Orlando, FL,Torrential rain shower,29,3,SSE,4,29,0.4,70,1,30,23,30,6,Moderate or heavy rain shower,32,8,E,9,32,0.1,54,4,30,22,51,7
+5/1/2018,Tuesday,May,F9,PHL,SAV,1538,-10,14,11,1736,94,-9,629,Philadelphia, PA,Savannah, GA,Sunny,25,8,W,9,25,0,24,6,30,3,2,6,Sunny,26,7,SE,8,26,0,35,6,30,9,0,7
+3/1/2018,Thursday,March,F9,LAS,MCO,30,111,18,8,756,272,143,2039,Las Vegas, NV,Orlando, FL,Partly cloudy,10,12,S,18,7,0,40,6,30,-3,47,1,Sunny,20,6,SSW,9,20,0,88,6,30,18,11,5
+10/1/2018,Monday,October,F9,RDU,SAT,705,38,19,6,922,158,24,1224,Raleigh/Durham, NC,San Antonio, TX,Sunny,20,2,ENE,3,20,0,87,6,30,18,0,6,Partly cloudy,22,4,ENE,6,22,0,93,6,30,21,49,6
+5/1/2018,Tuesday,May,F9,LAS,CVG,1605,161,11,8,2257,185,133,1678,Las Vegas, NV,Cincinnati, OH,Light rain shower,20,8,SSE,10,20,0,32,6,30,2,45,4,Clear,19,7,S,16,19,0,68,6,30,13,1,1
+3/1/2018,Thursday,March,F9,ATL,DEN,815,-8,14,21,949,185,-2,1199,Atlanta, GA,Denver, CO,Light rain shower,18,4,SSW,7,18,0,95,6,30,17,94,4,Sunny,-1,3,W,4,-2,0,65,6,30,-6,6,2
+3/1/2018,Thursday,March,F9,LAS,MSN,920,-10,26,5,1440,166,-13,1454,Las Vegas, NV,Madison, WI,Overcast,6,10,SSE,16,3,0,49,6,30,-4,89,2,Cloudy,4,13,NNW,15,0,0,57,6,30,-4,71,1
+8/1/2018,Wednesday,August,F9,LGA,DEN,2250,86,62,8,109,220,117,1620,New York, NY,Denver, CO,Partly cloudy,29,14,SSW,22,29,0,67,6,30,22,51,1,Clear,20,3,W,7,20,0,40,6,30,6,0,1
+7/1/2018,Sunday,July,F9,DEN,ONT,745,15,15,5,904,103,-1,819,Denver, CO,Ontario, CA,Sunny,12,3,SE,5,12,0,73,6,30,7,4,4,Sunny,22,6,SW,7,22,0,62,6,30,14,0,6
+4/1/2018,Sunday,April,F9,DEN,ATL,1959,29,14,8,56,129,3,1199,Denver, CO,Atlanta, GA,Clear,11,8,E,9,10,0,41,6,30,-2,2,1,Clear,12,6,S,12,12,0,63,6,30,6,14,1
+7/1/2018,Sunday,July,F9,DEN,ABQ,2205,-1,8,8,2330,51,-19,349,Denver, CO,Albuquerque, NM,Clear,29,10,NE,12,29,0,19,6,30,3,4,1,Clear,33,4,S,5,33,0,11,6,30,-2,6,1
+8/1/2018,Wednesday,August,F9,CVG,SAT,1243,-9,9,8,1434,153,-10,1024,Cincinnati, OH,San Antonio, TX,Partly cloudy,25,4,SW,4,25,0,69,6,30,19,42,7,Sunny,35,4,NNE,5,35,0,32,6,30,16,17,8
+4/1/2018,Sunday,April,F9,DEN,TUL,1450,-8,14,8,1727,68,-15,541,Denver, CO,Tulsa, OK,Sunny,7,10,NE,12,4,0,48,6,30,-3,7,3,Overcast,2,14,NNE,17,-3,0,68,6,30,-3,100,1
+10/1/2019,Tuesday,October,F9,CVG,DEN,1239,43,9,9,1346,140,14,1069,Cincinnati, OH,Denver, CO,Partly cloudy,31,7,SW,8,31,0,51,6,30,20,33,8,Sunny,15,4,ENE,5,15,0,52,6,30,5,9,4
+4/1/2019,Monday,April,F9,JAX,STL,745,75,11,6,900,106,63,753,Jacksonville, FL,St. Louis, MO,Light rain,12,7,NNE,11,11,0.1,83,5,30,9,91,3,Sunny,21,14,N,21,21,0,58,6,30,12,5,6
+2/1/2019,Friday,February,F9,TPA,BUF,718,-9,19,12,1000,144,4,1053,Tampa, FL,Buffalo, NY,Overcast,12,6,ENE,17,12,0,85,6,30,10,87,3,Overcast,-20,7,WSW,16,-27,0,72,6,30,-22,57,1
+1/1/2019,Tuesday,January,F9,CLT,TTN,2134,2,12,7,2314,63,-16,484,Charlotte, NC,Trenton, NJ,Clear,16,6,WSW,6,16,0,82,6,30,13,21,1,Clear,7,6,NW,17,5,0,63,6,30,1,0,1
+5/1/2019,Wednesday,May,F9,PHL,DEN,1629,-6,26,9,1859,220,-21,1558,Philadelphia, PA,Denver, CO,Overcast,17,9,ESE,11,17,0,65,6,30,10,96,4,Moderate rain at times,5,15,ENE,28,2,0.1,62,4,30,-1,49,1
+5/1/2019,Wednesday,May,F9,MCO,TTN,800,-5,22,9,1029,122,-1,896,Orlando, FL,Trenton, NJ,Sunny,23,8,E,13,23,0,82,6,30,20,19,6,Light drizzle,11,6,E,10,10,0,76,1,30,7,100,3
+6/1/2019,Saturday,June,F9,BUF,DEN,1056,-10,11,14,1235,189,-15,1359,Buffalo, NY,Denver, CO,Torrential rain shower,15,11,SW,19,15,0.3,86,1,30,13,49,4,Sunny,22,7,ESE,9,22,0,33,6,30,5,8,6
+4/1/2019,Monday,April,F9,MCO,LAS,605,8,15,6,828,279,-15,2039,Orlando, FL,Las Vegas, NV,Overcast,18,8,NE,11,18,0,83,6,30,15,100,4,Sunny,16,3,NNE,5,16,0,23,6,30,-5,8,5
+4/1/2019,Monday,April,F9,PHX,COS,1504,-10,13,7,1748,82,-12,551,Phoenix, AZ,Colorado Springs, CO,Overcast,24,7,E,8,24,0,11,6,30,-8,100,5,Sunny,10,4,SW,5,9,0,25,6,30,-9,0,4
+4/1/2019,Monday,April,F9,LAS,COS,918,-7,17,5,1222,81,-28,604,Las Vegas, NV,Colorado Springs, CO,Sunny,16,3,NNE,5,16,0,23,6,30,-5,8,5,Sunny,10,4,SW,5,9,0,25,6,30,-9,0,4
+3/1/2019,Friday,March,F9,TTN,MCO,600,-6,65,16,847,139,47,896,Trenton, NJ,Orlando, FL,Heavy snow,-2,5,NE,4,-5,0,88,1,30,-4,100,1,Partly cloudy,19,5,SW,3,19,0,81,6,30,16,47,5
+11/1/2019,Friday,November,F9,CVG,LGA,2007,-10,14,7,2200,81,-21,585,Cincinnati, OH,New York, NY,Clear,3,4,SW,6,1,0,66,6,30,-3,3,1,Clear,10,15,WNW,19,8,0,52,6,30,1,0,1
+10/1/2019,Tuesday,October,F9,SNA,DEN,1947,-4,18,8,2307,106,-12,846,Santa Ana, CA,Denver, CO,Clear,20,8,WSW,9,20,0,62,6,30,13,0,1,Clear,14,13,NE,15,13,0,56,6,30,6,22,1
+3/1/2019,Friday,March,F9,AUS,SNA,1559,-10,14,8,1719,180,-8,1209,Austin, TX,Santa Ana, CA,Cloudy,12,2,E,5,12,0,72,6,30,7,86,3,Partly cloudy,17,6,SSW,4,17,0,66,6,30,11,28,5
+9/1/2019,Sunday,September,F9,COS,LAS,1635,-10,10,12,1737,84,-26,604,Colorado Springs, CO,Las Vegas, NV,Sunny,30,7,SSE,8,30,0,23,6,30,7,2,8,Partly cloudy,42,10,SE,12,42,0,10,6,30,4,43,10
+2/1/2019,Friday,February,F9,BUF,TPA,1050,10,13,6,1359,148,-12,1053,Buffalo, NY,Tampa, FL,Overcast,-20,7,WSW,16,-27,0,72,6,30,-22,57,1,Partly cloudy,22,6,E,12,23,0,71,6,30,17,58,6
+1/1/2019,Tuesday,January,F9,TTN,CLT,1855,7,11,13,2044,85,7,484,Trenton, NJ,Charlotte, NC,Clear,7,6,NW,17,5,0,63,6,30,1,0,1,Clear,16,6,WSW,6,16,0,82,6,30,13,21,1
+11/1/2019,Friday,November,F9,LGA,DEN,2246,-10,16,9,112,222,-29,1620,New York, NY,Denver, CO,Clear,10,15,WNW,19,8,0,52,6,30,1,0,1,Clear,-1,3,WSW,6,-2,0,69,6,30,-6,11,1
+5/1/2019,Wednesday,May,F9,BNA,DEN,600,62,27,7,801,140,55,1014,Nashville, TN,Denver, CO,Sunny,20,10,S,17,20,0,80,6,30,16,13,5,Patchy moderate snow,2,2,NE,3,1,0,93,4,30,1,41,1
+1/1/2019,Tuesday,January,F9,MCO,SYR,1247,-9,10,4,1527,132,-23,1053,Orlando, FL,Syracuse, NY,Partly cloudy,27,9,SSW,6,27,0,56,6,30,17,52,7,Heavy snow,1,9,NW,20,-5,0,78,1,30,-2,100,1
+10/1/2019,Tuesday,October,F9,DCA,DEN,700,-7,10,5,909,211,-30,1476,Washington, DC,Denver, CO,Partly cloudy,20,4,SSE,5,20,0,78,6,30,16,45,5,Partly cloudy,11,7,NE,8,9,0,72,6,30,6,27,4
+11/1/2019,Friday,November,F9,TUL,DEN,1530,-2,19,12,1621,97,15,541,Tulsa, OK,Denver, CO,Sunny,11,16,SSW,19,8,0,43,6,30,-1,0,4,Sunny,1,4,ENE,4,-1,0,73,6,30,-3,14,2
+6/1/2019,Saturday,June,F9,TTN,CLT,1144,8,14,10,1333,74,-3,484,Trenton, NJ,Charlotte, NC,Sunny,21,1,W,2,21,0,62,6,30,13,9,6,Partly cloudy,29,6,NNW,7,29,0,37,6,30,13,25,7
+2/1/2019,Friday,February,F9,TPA,PVD,1449,-5,14,7,1747,142,-20,1136,Tampa, FL,Providence, RI,Partly cloudy,22,6,E,12,23,0,71,6,30,17,58,6,Overcast,-10,12,W,7,-17,0,37,6,30,-21,77,1
+3/1/2019,Friday,March,F9,SNA,AUS,1014,1,18,6,1513,129,-25,1209,Santa Ana, CA,Austin, TX,Sunny,14,1,SE,2,15,0,86,6,30,12,24,4,Cloudy,12,2,E,5,12,0,72,6,30,7,86,3
+3/1/2019,Friday,March,F9,IAH,DEN,515,4,11,15,657,141,9,862,Houston, TX,Denver, CO,Overcast,9,7,N,8,8,0,79,6,30,6,89,1,Sunny,2,8,SSW,14,-1,0,63,6,30,-4,11,2
+1/1/2019,Tuesday,January,F9,TPA,TTN,1539,30,14,5,1815,117,10,955,Tampa, FL,Trenton, NJ,Partly cloudy,26,6,SSE,9,26,0,60,6,30,18,39,7,Clear,7,6,NW,17,5,0,63,6,30,1,0,1
+11/1/2019,Friday,November,F9,LAS,DEN,1715,139,23,13,2016,101,155,628,Las Vegas, NV,Denver, CO,Sunny,17,3,N,4,17,0,4,6,30,-26,0,5,Clear,-1,4,SSW,6,-3,0,79,6,31,-4,19,1
+1/1/2019,Tuesday,January,F9,TTN,TPA,1200,0,15,26,1449,149,21,955,Trenton, NJ,Tampa, FL,Sunny,13,11,WNW,25,10,0,54,6,30,4,0,4,Partly cloudy,26,6,SSE,9,26,0,60,6,30,18,39,7
+3/1/2019,Friday,March,F9,DEN,SNA,755,1,16,6,924,134,8,846,Denver, CO,Santa Ana, CA,Sunny,2,8,SSW,14,-1,0,63,6,30,-4,11,2,Sunny,14,1,SE,2,15,0,86,6,30,12,24,4
+10/1/2019,Tuesday,October,F9,LGA,CVG,915,82,18,8,1149,86,40,585,New York, NY,Cincinnati, OH,Partly cloudy,19,6,SSW,8,19,0,72,6,30,14,58,5,Partly cloudy,21,4,S,9,21,0,80,6,30,18,34,6
+4/1/2019,Monday,April,F9,COS,PHX,1312,-6,15,6,1414,83,-24,551,Colorado Springs, CO,Phoenix, AZ,Sunny,10,4,SW,5,9,0,25,6,30,-9,0,4,Overcast,24,7,E,8,24,0,11,6,30,-8,100,5
+11/1/2019,Friday,November,F9,DEN,CVG,1426,25,12,7,1900,121,11,1069,Denver, CO,Cincinnati, OH,Sunny,1,4,ENE,4,-1,0,73,6,30,-3,14,2,Clear,3,4,SW,6,1,0,66,6,30,-3,3,1
+9/1/2019,Sunday,September,F9,LAS,TPA,2125,-4,10,5,455,233,-26,1984,Las Vegas, NV,Tampa, FL,Clear,37,15,SSW,19,37,0,14,6,30,5,10,1,Clear,26,13,ENE,19,26,0,84,6,30,23,12,1
+5/1/2019,Wednesday,May,F9,TTN,FLL,1109,2,12,21,1352,138,10,1026,Trenton, NJ,Fort Lauderdale, FL,Light drizzle,11,6,E,10,10,0,76,1,30,7,100,3,Moderate or heavy rain shower,27,22,E,30,27,0.2,67,4,30,20,55,6
+10/1/2019,Tuesday,October,F9,DEN,SNA,1733,-10,10,6,1902,132,-11,846,Denver, CO,Santa Ana, CA,Sunny,15,4,ENE,5,15,0,52,6,30,5,9,4,Clear,20,8,WSW,9,20,0,62,6,30,13,0,1
+5/1/2019,Wednesday,May,F9,DEN,ATL,1949,-2,16,6,50,139,-22,1199,Denver, CO,Atlanta, GA,Moderate rain at times,5,15,ENE,28,2,0.1,62,4,30,-1,49,1,Clear,22,6,SSE,9,22,0,75,6,30,17,7,1
+8/1/2018,Wednesday,August,G4,AVL,PGD,700,-9,9,7,841,86,-8,588,Asheville, NC,Punta Gorda, FL,Mist,19,1,S,2,19,0,96,1,30,18,82,4,Sunny,26,8,SE,13,26,0,85,6,30,23,20,7
+2/1/2018,Thursday,February,G4,FWA,SFB,1038,-6,9,6,1255,120,-8,870,Fort Wayne, IN,Sanford, FL,Partly cloudy,0,9,WSW,16,-5,0,84,6,30,-2,47,2,Cloudy,21,1,S,1,21,0,57,6,30,12,66,5
+4/1/2018,Sunday,April,G4,CHA,SFB,1525,193,10,7,1655,69,189,490,Chattanooga, TN,Sanford, FL,Sunny,22,6,SW,7,22,0,45,6,30,9,18,6,Partly cloudy,25,6,NNE,6,26,0,65,6,30,19,38,7
+10/1/2018,Monday,October,G4,CHS,IND,2055,-8,12,6,2241,80,-16,585,Charleston, SC,Indianapolis, IN,Clear,26,11,ENE,16,26,0,72,6,30,21,9,1,Partly cloudy,22,5,SSW,11,22,0,85,6,30,20,26,1
+8/1/2018,Wednesday,August,G4,AZA,MLI,610,-10,11,5,1105,167,-2,1288,Phoenix, AZ,Moline, IL,Sunny,35,5,W,6,35,0,33,6,30,16,4,9,Sunny,17,6,W,11,17,0,89,6,30,16,4,5
+7/1/2018,Sunday,July,G4,FLL,TYS,1213,-11,14,4,1410,98,-12,708,Fort Lauderdale, FL,Knoxville, TN,Moderate or heavy rain shower,32,5,ESE,6,32,0.3,60,4,30,23,22,7,Light rain shower,33,2,WSW,3,33,0,55,6,30,22,62,7
+9/1/2018,Saturday,September,G4,SFB,CVG,1508,-7,9,9,1713,100,-14,735,Sanford, FL,Cincinnati, OH,Moderate or heavy rain shower,32,8,E,10,32,0.2,57,4,30,22,27,7,Moderate or heavy rain shower,28,6,SW,8,28,0.2,72,4,30,23,47,6
+5/1/2018,Tuesday,May,G4,AZA,BIL,1415,-13,9,4,1730,109,-26,878,Phoenix, AZ,Billings, MT,Sunny,23,7,SSE,8,23,0,30,6,30,4,11,6,Light drizzle,11,3,W,3,11,0,65,1,30,5,81,3
+11/1/2018,Thursday,November,G4,SFB,FAR,815,0,19,7,1105,185,-19,1508,Sanford, FL,Fargo, ND,Sunny,21,4,S,5,21,0,85,6,30,18,0,6,Sunny,0,4,SE,8,-2,0,81,6,30,-3,6,2
+11/1/2018,Thursday,November,G4,PSM,SFB,1929,-16,9,7,2241,157,-35,1144,Portsmouth, NH,Sanford, FL,Light rain,9,5,ENE,8,8,0,96,5,30,9,100,1,Clear,25,4,SSE,8,25,0,74,6,30,20,10,1
+8/1/2018,Wednesday,August,G4,PIE,GSP,1919,31,9,5,2050,70,24,482,St. Petersburg, FL,Greer, SC,Clear,24,0,WNW,1,24,0,67,6,30,17,0,1,Moderate or heavy rain shower,23,1,NNE,1,23,0.2,91,4,30,22,53,1
+12/1/2018,Saturday,December,G4,FWA,PGD,1850,-14,14,7,2120,144,1,986,Fort Wayne, IN,Punta Gorda, FL,Thundery outbreaks possible,7,12,E,22,3,0,97,5,30,6,100,1,Clear,24,7,SSE,13,24,0,80,6,30,20,14,1
+1/1/2018,Monday,January,G4,IAG,PIE,1158,0,21,6,1450,154,9,1069,Niagara Falls, NY,St. Petersburg, FL,Moderate snow,-15,6,W,11,-22,0,90,3,30,-17,81,1,Heavy snow,1,8,SSE,13,-4,0,89,1,30,-1,100,1
+11/1/2018,Thursday,November,G4,AUS,ABQ,1447,3,18,5,1537,96,12,619,Austin, TX,Albuquerque, NM,Sunny,17,10,NNW,11,17,0,49,6,30,6,0,5,Sunny,8,13,NNW,15,4,0,25,6,30,-11,2,3
+10/1/2018,Monday,October,G4,EUG,LAS,2008,-4,9,9,2205,99,-4,700,Eugene, OR,Las Vegas, NV,Cloudy,15,2,NW,3,15,0,83,6,30,13,64,1,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1
+6/1/2018,Friday,June,G4,FLL,GSP,600,-6,12,6,750,84,-14,620,Fort Lauderdale, FL,Greer, SC,Partly cloudy,27,5,SE,6,27,0,77,6,30,23,39,7,Partly cloudy,22,5,WNW,8,22,0,86,6,30,19,46,6
+4/1/2018,Sunday,April,G4,SGF,PIE,1728,53,28,6,2036,102,61,895,Springfield, MO,St. Petersburg, FL,Overcast,-1,10,NE,13,-6,0,80,6,30,-4,100,1,Overcast,1,9,E,15,-4,0,86,6,30,-2,93,1
+6/1/2018,Friday,June,G4,GSP,FLL,835,-10,12,4,1023,87,-15,620,Greer, SC,Fort Lauderdale, FL,Partly cloudy,22,5,WNW,8,22,0,86,6,30,19,46,6,Partly cloudy,27,5,SE,6,27,0,77,6,30,23,39,7
+12/1/2018,Saturday,December,G4,CVG,PGD,1745,-2,8,7,2001,116,-7,850,Cincinnati, OH,Punta Gorda, FL,Moderate rain,11,11,SE,17,8,0.2,93,4,30,10,100,3,Clear,24,7,SSE,13,24,0,80,6,30,20,14,1
+8/1/2018,Wednesday,August,G4,OAK,AZA,1630,-7,11,4,1821,98,-5,668,Oakland, CA,Phoenix, AZ,Sunny,24,7,WSW,9,24,0,58,6,30,15,0,6,Clear,43,6,WNW,6,43,0,18,6,30,14,4,1
+12/1/2018,Saturday,December,G4,PGD,SBN,1513,6,12,9,1754,129,-5,1049,Punta Gorda, FL,South Bend, IN,Partly cloudy,26,12,S,17,26,0,68,6,30,20,28,7,Moderate rain,3,19,E,29,-3,0.2,95,4,30,2,100,1
+7/1/2018,Sunday,July,G4,FLL,MEM,1744,-4,11,9,1908,117,-11,851,Fort Lauderdale, FL,Memphis, TN,Moderate or heavy rain shower,32,5,ESE,6,32,0.3,60,4,30,23,22,7,Clear,33,5,SSW,7,33,0,57,6,30,23,3,1
+3/1/2018,Thursday,March,G4,PIE,IAG,800,-2,12,9,1049,141,-9,1069,St. Petersburg, FL,Niagara Falls, NY,Moderate snow,-15,3,NNE,5,-18,0,98,3,31,-15,88,1,Cloudy,1,8,NE,12,-3,0,91,6,30,-1,81,1
+3/1/2018,Thursday,March,G4,PGD,SDF,1603,-18,14,4,1814,117,-14,806,Punta Gorda, FL,Louisville, KY,Sunny,27,12,SW,14,27,0,58,6,30,18,7,7,Light drizzle,8,8,NW,12,4,0,77,1,30,4,88,1
+4/1/2018,Sunday,April,G4,AZA,EUG,740,-7,11,7,1022,130,-21,971,Phoenix, AZ,Eugene, OR,Overcast,23,4,ESE,8,24,0,14,6,30,-6,100,5,Overcast,5,3,SSW,4,5,0,86,6,30,3,91,2
+11/1/2018,Thursday,November,G4,LAS,ABQ,810,-9,24,4,1036,68,1,486,Las Vegas, NV,Albuquerque, NM,Sunny,13,4,NNW,8,13,0,25,6,30,-6,5,4,Sunny,1,4,WSW,6,-3,0,55,6,30,-7,24,2
+10/1/2018,Monday,October,G4,LAX,TUL,700,-5,19,4,1203,153,-12,1283,Los Angeles, CA,Tulsa, OK,Sunny,25,1,N,2,25,0,52,6,30,15,16,7,Cloudy,25,10,SSW,11,25,0,76,6,30,20,87,5
+2/1/2018,Thursday,February,G4,RDU,PIE,1622,23,14,5,1819,89,14,595,Raleigh/Durham, NC,St. Petersburg, FL,Sunny,14,12,SW,14,12,0,51,6,30,4,3,4,Heavy snow,-5,12,SE,18,-11,0.1,92,1,30,-6,100,1
+7/1/2018,Sunday,July,G4,IND,PGD,730,10,13,4,950,120,7,916,Indianapolis, IN,Punta Gorda, FL,Sunny,25,6,SSW,9,25,0,90,6,30,24,5,7,Patchy rain possible,26,6,SSE,9,26,0,85,5,30,24,15,6
+5/1/2018,Tuesday,May,G4,GRR,AZA,1835,-9,19,4,1933,235,11,1561,Grand Rapids, MI,Phoenix, AZ,Clear,20,8,SSW,16,20,0,64,6,30,13,14,1,Partly cloudy,25,6,WNW,7,25,0,25,6,30,3,29,1
+12/1/2018,Saturday,December,G4,PGD,MKE,1416,4,12,7,1614,144,-11,1154,Punta Gorda, FL,Milwaukee, WI,Partly cloudy,26,12,S,17,26,0,68,6,30,20,28,7,Light rain,3,17,ENE,25,-3,0.1,92,5,30,2,100,1
+9/1/2018,Saturday,September,G4,MDT,SFB,1115,5,16,7,1335,108,-4,827,Harrisburg, PA,Sanford, FL,Fog,19,3,E,4,19,0,97,0,30,19,100,4,Moderate or heavy rain shower,32,8,E,10,32,0.2,57,4,30,22,27,7
+5/1/2018,Tuesday,May,G4,AZA,GRR,1122,-4,12,11,1750,175,-14,1561,Phoenix, AZ,Grand Rapids, MI,Sunny,20,2,SW,3,20,0,31,6,30,2,2,5,Sunny,23,16,SW,19,23,0,52,6,30,13,0,6
+2/1/2018,Thursday,February,G4,PIE,TOL,1534,-10,16,6,1808,127,-15,945,St. Petersburg, FL,Toledo, OH,Overcast,-6,13,ESE,19,-13,0,85,6,30,-8,89,1,Clear,-7,15,WNW,20,-16,0,54,6,30,-15,9,1
+10/1/2018,Monday,October,G4,LCK,SFB,1716,2,10,4,1922,102,-8,767,Columbus, OH,Sanford, FL,Sunny,27,5,SW,6,27,0,55,6,30,17,6,7,Light rain shower,26,5,ENE,8,26,0,83,6,30,23,47,1
+1/1/2018,Monday,January,G4,PIE,IAG,830,0,9,20,1113,132,-2,1069,St. Petersburg, FL,Niagara Falls, NY,Heavy snow,-1,12,SSE,18,-6,0,90,1,30,-3,100,1,Moderate snow,-15,6,W,11,-22,0,90,3,30,-17,81,1
+3/1/2018,Thursday,March,G4,PIE,FNT,1524,31,12,7,1807,136,23,1040,St. Petersburg, FL,Flint, MI,Patchy light snow,-9,3,ESE,4,-11,0,86,6,31,-11,13,1,Heavy snow,-1,15,N,21,-7,0.2,92,1,30,-2,100,1
+2/1/2018,Thursday,February,G4,PGD,PSM,710,3,10,5,1007,163,4,1279,Punta Gorda, FL,Portsmouth, NH,Sunny,13,6,ENE,12,12,0,91,6,30,11,3,4,Heavy snow,-2,10,SW,14,-8,0.1,82,1,30,-5,100,1
+7/1/2018,Sunday,July,G4,TYS,FLL,1455,0,11,7,1654,94,-7,708,Knoxville, TN,Fort Lauderdale, FL,Light rain shower,33,2,WSW,3,33,0,55,6,30,22,62,7,Moderate or heavy rain shower,32,5,ESE,6,32,0.3,60,4,30,23,22,7
+1/1/2018,Monday,January,G4,AVL,PIE,700,150,11,5,839,87,154,519,Asheville, NC,St. Petersburg, FL,Sunny,-9,6,N,8,-14,0,49,6,31,-18,3,2,Heavy snow,-1,12,SSE,18,-6,0,90,1,30,-3,100,1
+8/1/2018,Wednesday,August,G4,AZA,PVU,1311,9,11,4,1539,70,6,477,Phoenix, AZ,Provo, UT,Sunny,39,2,ESE,2,39,0,31,6,30,18,3,9,Patchy rain possible,31,3,SSW,3,31,0,24,5,30,8,32,7
+11/1/2018,Thursday,November,G4,LAS,CVG,1537,10,11,9,2220,213,20,1678,Las Vegas, NV,Cincinnati, OH,Sunny,20,6,NNE,7,20,0,22,6,30,-2,4,6,Moderate or heavy rain shower,14,6,WSW,10,13,0.2,92,4,30,13,100,1
+9/1/2018,Saturday,September,G4,PIE,USA,720,-5,10,5,858,76,-12,528,St. Petersburg, FL,Concord, NC,Partly cloudy,17,4,SE,6,17,0,79,6,30,13,30,5,Sunny,24,3,ESE,5,24,0,91,6,30,22,11,6
+2/1/2018,Thursday,February,G4,TOL,PIE,1853,-8,10,4,2115,130,-6,945,Toledo, OH,St. Petersburg, FL,Clear,-7,15,WNW,20,-16,0,54,6,30,-15,9,1,Heavy snow,-5,12,SE,18,-11,0.1,92,1,30,-6,100,1
+9/1/2018,Saturday,September,G4,LAX,SGF,700,-15,15,5,1211,162,-24,1423,Los Angeles, CA,Springfield, MO,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6,Sunny,31,9,S,10,31,0,60,6,30,22,4,8
+12/1/2018,Saturday,December,G4,PIE,CVG,1025,-4,10,7,1235,107,-10,776,St. Petersburg, FL,Cincinnati, OH,Sunny,-4,13,SSW,19,-10,0,50,6,30,-13,0,2,Moderate rain,11,11,SE,17,8,0.2,93,4,30,10,100,3
+9/1/2018,Saturday,September,G4,VPS,PIA,1707,12,15,7,1907,92,6,724,Valparaiso, FL,Peoria, IL,Sunny,17,11,SW,13,17,0,50,6,30,7,4,5,Clear,27,7,S,14,27,0,87,6,30,24,11,1
+6/1/2018,Friday,June,G4,VPS,IND,1333,-3,15,5,1625,92,-3,637,Valparaiso, FL,Indianapolis, IN,Sunny,17,5,WSW,6,17,0,43,6,30,4,0,5,Patchy rain possible,28,5,WNW,6,28,0,62,5,30,20,31,6
+3/1/2018,Thursday,March,G4,IAG,PIE,1134,0,23,5,1425,152,9,1069,Niagara Falls, NY,St. Petersburg, FL,Cloudy,1,8,NE,12,-3,0,91,6,30,-1,81,1,Patchy light snow,-9,3,ESE,4,-11,0,86,6,31,-11,13,1
+4/1/2018,Sunday,April,G4,SFB,CKB,1745,191,12,7,1949,103,189,727,Sanford, FL,Clarksburg/Fairmont, WV,Partly cloudy,25,6,NNE,6,26,0,65,6,30,19,38,7,Overcast,6,1,SSW,2,7,0,80,6,30,3,100,1
+5/1/2018,Tuesday,May,G4,PIE,USA,947,-10,10,5,1126,79,-15,528,St. Petersburg, FL,Concord, NC,Cloudy,8,13,E,22,5,0,74,6,30,4,83,2,Sunny,13,4,WNW,6,13,0,71,6,30,8,0,4
+6/1/2018,Friday,June,G4,LAS,PIA,725,-2,19,4,1238,157,-15,1413,Las Vegas, NV,Peoria, IL,Sunny,23,4,WSW,6,23,0,23,6,30,1,0,6,Sunny,31,7,ENE,8,31,0,52,6,30,20,12,8
+6/1/2018,Friday,June,G4,FLL,ORF,1113,-7,19,4,1318,105,-4,781,Fort Lauderdale, FL,Norfolk, VA,Partly cloudy,27,5,SE,6,27,0,77,6,30,23,39,7,Patchy rain possible,30,2,SSW,2,30,0.1,64,5,30,23,19,7
+5/1/2018,Tuesday,May,G4,AVL,PIE,726,-13,10,6,902,79,-14,519,Asheville, NC,St. Petersburg, FL,Sunny,12,4,WNW,8,12,0,68,6,30,6,0,4,Cloudy,8,13,E,22,5,0,74,6,30,4,83,2
+1/1/2018,Monday,January,G4,FWA,PIE,1010,330,10,8,1233,128,333,912,Fort Wayne, IN,St. Petersburg, FL,Cloudy,-19,8,W,15,-28,0,96,6,31,-19,82,1,Heavy snow,1,8,SSE,13,-4,0,89,1,30,-1,100,1
+10/1/2018,Monday,October,G4,LAX,CVG,1017,-2,13,7,1728,218,-15,1900,Los Angeles, CA,Cincinnati, OH,Sunny,25,1,N,2,25,0,52,6,30,15,16,7,Sunny,28,5,SW,6,28,0,60,6,30,19,9,7
+3/1/2018,Thursday,March,G4,TYS,PIE,2020,-12,7,7,2159,73,-24,550,Knoxville, TN,St. Petersburg, FL,Partly cloudy,12,9,NW,15,10,0,85,6,30,9,46,1,Mist,-14,4,E,9,-19,0,96,1,30,-15,49,1
+1/1/2018,Monday,January,G4,PIE,FWA,700,-10,16,6,925,128,-5,912,St. Petersburg, FL,Fort Wayne, IN,Heavy snow,-1,12,SSE,18,-6,0,90,1,30,-3,100,1,Cloudy,-19,8,W,15,-28,0,96,6,31,-19,82,1
+4/1/2018,Sunday,April,G4,AUS,CVG,1811,-3,9,6,2138,117,-18,958,Austin, TX,Cincinnati, OH,Cloudy,23,6,ESE,11,23,0,80,6,30,20,64,1,Overcast,6,8,NE,12,3,0,55,6,30,-2,100,1
+7/1/2019,Monday,July,G4,PIE,RIC,1312,-8,8,7,1512,97,-16,731,St. Petersburg, FL,Richmond, VA,Sunny,22,13,W,15,22,0,55,6,29,12,19,6,Sunny,31,7,WSW,8,31,0,33,6,30,13,0,8
+6/1/2019,Saturday,June,G4,PIA,SFB,1523,0,9,7,1842,113,-10,949,Peoria, IL,Sanford, FL,Patchy light rain with thunder,28,12,WSW,20,28,0,58,6,30,19,3,6,Thundery outbreaks possible,31,9,W,13,31,0,56,5,30,21,54,1
+11/1/2019,Friday,November,G4,LAX,TUL,1550,-6,15,7,2049,140,-23,1283,Los Angeles, CA,Tulsa, OK,Sunny,29,2,SW,2,29,0,6,6,30,-12,0,7,Clear,8,7,WSW,11,6,0,62,6,30,1,4,1
+10/1/2019,Tuesday,October,G4,AZA,IDA,800,0,15,7,1054,77,-15,704,Phoenix, AZ,Idaho Falls, ID,Sunny,27,3,WSW,4,27,0,16,6,30,-1,0,7,Sunny,1,6,NNE,11,-1,0,76,6,30,-2,20,2
+1/1/2019,Tuesday,January,G4,IAG,PGD,1156,17,15,7,1447,159,27,1129,Niagara Falls, NY,Punta Gorda, FL,Heavy snow,3,8,W,24,-2,0,76,1,30,-1,100,1,Cloudy,26,8,SE,9,26,0,61,6,30,18,68,6
+9/1/2019,Sunday,September,G4,SFB,CHA,1243,-7,14,4,1421,67,-20,490,Sanford, FL,Chattanooga, TN,Torrential rain shower,31,11,ENE,19,31,0.4,65,1,30,24,24,7,Partly cloudy,32,3,SE,4,32,0,45,6,30,18,38,8
+12/1/2019,Sunday,December,G4,SFB,BGR,725,-6,10,5,1025,151,-20,1299,Sanford, FL,Bangor, ME,Partly cloudy,18,5,SSW,10,18,0,93,6,30,17,26,5,Sunny,-11,4,NW,8,-16,0,82,6,30,-14,0,2
+2/1/2019,Friday,February,G4,MEM,SFB,1502,-4,11,4,1751,91,-7,671,Memphis, TN,Sanford, FL,Light drizzle,10,4,SSW,8,10,0,81,4,30,7,96,2,Light rain shower,20,10,E,12,20,0,73,6,30,15,83,4
+3/1/2019,Friday,March,G4,MEM,LAX,2101,24,13,14,2319,251,44,1619,Memphis, TN,Los Angeles, CA,Clear,6,8,NW,6,6,0,72,6,30,2,22,1,Partly cloudy,16,5,SW,6,16,0,73,6,30,11,34,1
+8/1/2019,Thursday,August,G4,SFB,EVV,1907,4,15,7,2007,97,3,734,Sanford, FL,Evansville, IN,Torrential rain shower,25,9,E,11,25,0.5,85,1,30,23,58,1,Clear,24,6,N,9,24,0,78,6,30,20,0,1
+4/1/2019,Monday,April,G4,SDF,PIE,2003,-1,18,7,2204,99,2,729,Louisville, KY,St. Petersburg, FL,Cloudy,5,4,ESE,5,3,0,50,6,30,-5,78,1,Clear,0,10,W,16,-4,0,83,6,30,-3,5,1
+10/1/2019,Tuesday,October,G4,AZA,PVU,1322,0,15,4,1551,62,-8,477,Phoenix, AZ,Provo, UT,Sunny,30,6,SSW,7,30,0,12,6,30,-3,0,7,Sunny,6,5,W,9,6,0,34,6,30,-9,2,3
+12/1/2019,Sunday,December,G4,VPS,BLV,700,-1,12,5,843,87,0,587,Valparaiso, FL,Belleville, IL,Partly cloudy,20,3,NW,5,20,0,54,6,30,11,32,6,Overcast,2,13,WSW,23,-3,0,72,6,29,-2,89,1
+6/1/2019,Saturday,June,G4,AZA,FAR,630,14,8,6,1120,144,2,1220,Phoenix, AZ,Fargo, ND,Sunny,29,1,WSW,1,29,0,14,6,30,-1,0,7,Sunny,9,9,ESE,14,6,0,60,6,30,1,20,3
+5/1/2019,Wednesday,May,G4,SFB,ABE,1712,-5,14,5,1935,116,-13,882,Sanford, FL,Allentown/Bethlehem/Easton, PA,Sunny,30,12,E,13,30,0,46,6,30,17,0,7,Clear,26,4,E,6,26,0,25,6,30,5,3,1
+8/1/2019,Thursday,August,G4,BNA,PIE,1312,-11,12,95,1559,88,77,612,Nashville, TN,St. Petersburg, FL,Patchy rain possible,30,5,NNW,6,30,0,59,5,30,22,12,7,Overcast,16,5,NNW,7,16,0,64,6,30,9,94,4
+6/1/2019,Saturday,June,G4,SYR,SRQ,1839,-17,8,4,2131,148,-29,1142,Syracuse, NY,Sarasota/Bradenton, FL,Patchy rain possible,17,7,WNW,11,17,0.1,91,5,30,15,22,1,Clear,29,10,W,13,29,0,71,6,30,23,4,1
+7/1/2019,Monday,July,G4,SCK,AZA,2119,20,15,7,2304,86,23,625,Stockton, CA,Phoenix, AZ,Clear,23,11,W,14,23,0,34,6,30,6,3,1,Clear,43,15,W,17,43,0,9,6,30,2,0,1
+2/1/2019,Friday,February,G4,SFB,SBN,630,-14,13,4,900,138,-9,936,Sanford, FL,South Bend, IN,Patchy rain possible,12,6,ENE,11,13,0,85,6,30,11,100,3,Heavy snow,-19,4,E,8,-24,0,71,1,30,-22,100,1
+9/1/2019,Sunday,September,G4,PVD,PGD,1158,75,6,4,1507,159,55,1184,Providence, RI,Punta Gorda, FL,Sunny,17,6,NNE,10,17,0,72,6,30,12,21,5,Partly cloudy,32,9,ENE,11,32,0,58,6,30,23,49,8
+1/1/2019,Tuesday,January,G4,FWA,SFB,1849,31,11,4,2105,117,27,870,Fort Wayne, IN,Sanford, FL,Partly cloudy,1,9,NNW,11,-2,0,74,6,30,-3,62,1,Clear,24,4,S,3,24,0,73,6,30,19,12,1
+5/1/2019,Wednesday,May,G4,ATW,PIE,1642,-4,8,7,2032,149,-10,1173,Appleton, WI,St. Petersburg, FL,Light rain,5,13,NE,16,2,0.1,92,5,30,4,100,2,Clear,9,8,SSW,15,9,0,54,6,29,0,10,1
+8/1/2019,Thursday,August,G4,ELP,SAN,920,27,12,6,1005,84,24,636,El Paso, TX,San Diego, CA,Patchy rain possible,24,2,SE,4,24,0,63,5,30,17,8,5,Partly cloudy,21,6,NW,8,21,0,85,6,30,18,28,6
+2/1/2019,Friday,February,G4,BLI,LAS,830,-7,11,6,1101,139,-2,954,Bellingham, WA,Las Vegas, NV,Moderate rain,6,6,E,5,5,0.1,97,4,30,6,90,2,Partly cloudy,7,2,NNW,5,7,0,58,6,30,0,10,3
+10/1/2019,Tuesday,October,G4,FAT,LAS,1502,-4,9,4,1612,47,-14,259,Fresno, CA,Las Vegas, NV,Sunny,21,3,WSW,3,21,0,25,6,30,0,0,6,Sunny,23,3,SE,4,23,0,10,6,30,-10,0,6
+2/1/2019,Friday,February,G4,FAT,LAS,1706,-7,7,6,1812,54,-6,259,Fresno, CA,Las Vegas, NV,Partly cloudy,14,8,SSE,9,14,0,74,6,30,10,12,4,Partly cloudy,17,6,SE,7,18,0,36,6,30,2,10,1
+3/1/2019,Friday,March,G4,IND,FLL,1715,-2,14,36,1953,130,20,1005,Indianapolis, IN,Fort Lauderdale, FL,Sunny,4,10,ENE,9,1,0,48,6,30,-6,18,2,Clear,25,6,E,12,25,0,68,6,30,18,8,1
+7/1/2019,Monday,July,G4,PIT,JAX,630,-1,9,5,828,88,-17,694,Pittsburgh, PA,Jacksonville, FL,Sunny,20,3,NE,4,20,0,73,6,30,15,8,5,Sunny,25,6,WNW,8,25,0,84,6,30,23,12,7
+7/1/2019,Monday,July,G4,GSP,FLL,1402,25,11,15,1550,90,33,620,Greer, SC,Fort Lauderdale, FL,Partly cloudy,34,6,NNE,7,34,0,39,6,30,18,26,8,Sunny,31,3,W,3,31,0,64,6,30,23,15,8
+12/1/2019,Sunday,December,G4,PIE,BLV,1327,-11,31,5,1441,127,18,841,St. Petersburg, FL,Belleville, IL,Heavy snow,-1,8,WNW,12,-7,0,86,1,30,-3,100,1,Overcast,4,20,W,24,-1,0,75,6,30,0,100,1
+11/1/2019,Friday,November,G4,PIE,BLV,1452,-8,14,6,1608,121,-3,841,St. Petersburg, FL,Belleville, IL,Moderate or heavy snow showers,2,9,WNW,13,-2,0,78,4,30,-2,68,1,Sunny,10,8,SSW,9,7,0,38,6,30,-4,4,3
+2/1/2019,Friday,February,G4,SCK,AZA,1850,48,4,6,2132,88,44,625,Stockton, CA,Phoenix, AZ,Moderate rain,13,16,SSE,20,14,0.1,81,2,30,10,86,1,Partly cloudy,19,5,S,4,20,0,39,6,30,6,32,1
+3/1/2019,Friday,March,G4,AZA,RFD,720,-11,11,7,1125,148,-30,1373,Phoenix, AZ,Rockford, IL,Sunny,17,4,ENE,6,17,0,39,6,30,3,21,5,Sunny,-10,7,NE,7,-14,0,79,6,30,-13,14,2
+9/1/2019,Sunday,September,G4,SFB,IND,1408,13,11,14,1621,114,19,807,Sanford, FL,Indianapolis, IN,Torrential rain shower,31,11,ENE,19,31,0.4,65,1,30,24,24,7,Moderate rain at times,21,3,ENE,3,21,0.2,91,4,30,20,53,5
+4/1/2019,Monday,April,G4,SFB,PSM,720,0,11,5,1009,141,-12,1144,Sanford, FL,Portsmouth, NH,Overcast,17,8,NNE,11,17,0,83,6,30,14,100,4,Sunny,0,16,WNW,24,-6,0,61,6,30,-6,6,2
+1/1/2019,Tuesday,January,G4,CVG,LAS,1200,16,8,11,1303,244,36,1678,Cincinnati, OH,Las Vegas, NV,Overcast,7,9,NNW,8,6,0,70,6,30,2,93,2,Sunny,3,20,NNE,26,-2,0,17,6,30,-19,0,2
+7/1/2019,Monday,July,G4,LAS,MSO,1051,-7,14,7,1359,98,-16,750,Las Vegas, NV,Missoula, MT,Sunny,31,7,SSW,12,31,0,13,6,30,-1,0,8,Sunny,24,2,W,2,24,0,46,6,30,11,11,6
+9/1/2019,Sunday,September,G4,LAS,AZA,1510,22,13,7,1624,50,18,276,Las Vegas, NV,Phoenix, AZ,Partly cloudy,42,10,SE,12,42,0,10,6,30,4,43,10,Sunny,36,4,WNW,5,36,0,35,6,30,19,4,9
+3/1/2019,Friday,March,G4,BWI,VPS,1049,-7,11,10,1205,131,9,819,Baltimore, MD,Valparaiso, FL,Heavy snow,-1,6,E,12,-6,0.4,95,1,30,-2,100,1,Sunny,26,8,W,9,26,0,44,6,30,13,0,7
+11/1/2019,Friday,November,G4,BIS,AZA,2132,8,9,4,2221,134,-14,1092,Bismarck/Mandan, ND,Phoenix, AZ,Blizzard,0,15,NW,23,-6,0,89,0,30,-1,100,1,Clear,28,2,W,2,28,0,8,6,30,-9,0,1
+12/1/2019,Sunday,December,G4,FAT,LAS,1521,73,8,7,1625,54,78,259,Fresno, CA,Las Vegas, NV,Moderate rain at times,12,7,SE,11,11,0.1,79,4,30,9,54,3,Sunny,9,4,NNE,6,7,0,38,6,30,-5,12,3
+6/1/2019,Saturday,June,G4,AZA,FWA,700,-2,13,4,1323,173,-15,1546,Phoenix, AZ,Fort Wayne, IN,Sunny,29,1,WSW,1,29,0,14,6,30,-1,0,7,Thundery outbreaks possible,27,7,WNW,11,27,0,59,5,30,18,41,6
+4/1/2019,Monday,April,G4,CLE,SAV,1740,0,7,4,1928,92,-5,641,Cleveland, OH,Savannah, GA,Sunny,2,7,NW,9,-1,0,56,6,30,-6,7,2,Overcast,12,11,ENE,15,10,0,77,6,30,8,100,1
+11/1/2019,Friday,November,G4,LAS,TUL,1012,-2,22,7,1445,118,-8,1076,Las Vegas, NV,Tulsa, OK,Sunny,8,1,NW,2,8,0,9,6,30,-23,0,3,Sunny,11,16,SSW,19,8,0,43,6,30,-1,0,4
+5/1/2019,Wednesday,May,G4,GRR,SFB,1811,38,11,4,2041,138,41,1001,Grand Rapids, MI,Sanford, FL,Partly cloudy,9,10,ENE,16,8,0,89,6,30,8,51,1,Patchy rain possible,24,13,E,16,24,0,78,5,30,20,34,1
+1/1/2019,Tuesday,January,G4,SFB,SDF,610,-14,11,7,806,95,-17,698,Sanford, FL,Louisville, KY,Sunny,19,3,SSW,7,19,0,94,6,30,18,20,5,Cloudy,5,7,WNW,13,2,0,89,6,30,3,83,1
+4/1/2019,Monday,April,G4,LAS,SDF,1452,-7,16,6,2122,189,-6,1624,Las Vegas, NV,Louisville, KY,Sunny,20,3,E,4,20,0,14,6,30,-9,21,5,Cloudy,5,4,ESE,5,3,0,50,6,30,-5,78,1
+4/1/2019,Monday,April,G4,AZA,BLV,810,0,15,4,1256,156,9,1272,Phoenix, AZ,Belleville, IL,Overcast,18,8,NE,13,18,0,16,6,30,-8,100,4,Sunny,9,8,S,9,7,0,38,6,30,-5,11,3
+10/1/2019,Tuesday,October,G4,SFB,TYS,1708,-9,8,4,1840,78,-11,511,Sanford, FL,Knoxville, TN,Sunny,31,13,ENE,15,31,0,54,6,30,20,7,8,Partly cloudy,26,3,WSW,5,26,0,61,6,30,18,30,1
+3/1/2019,Friday,March,G4,IND,LAS,1437,-7,13,4,1541,238,4,1590,Indianapolis, IN,Las Vegas, NV,Sunny,4,10,ENE,9,1,0,48,6,30,-6,18,2,Sunny,18,7,SSW,11,18,0,20,6,30,-5,6,5
+5/1/2019,Wednesday,May,G4,OMA,AZA,1315,-10,10,7,1350,143,-5,1026,Omaha, NE,Phoenix, AZ,Overcast,10,6,NNE,7,9,0,76,6,30,6,100,3,Sunny,26,3,SSW,3,26,0,26,6,30,5,5,7
+5/1/2019,Wednesday,May,G4,PIE,AVL,1452,-10,8,7,1623,69,-17,519,St. Petersburg, FL,Asheville, NC,Sunny,13,9,SW,12,12,0,39,6,30,0,16,4,Sunny,26,8,S,9,26,0,46,6,30,13,5,7
+6/1/2019,Saturday,June,G4,CVG,FLL,959,0,9,6,1223,118,-11,932,Cincinnati, OH,Fort Lauderdale, FL,Sunny,19,4,WSW,7,19,0,83,6,30,16,8,5,Sunny,31,8,SSE,9,31,0,60,6,30,22,14,8
+8/1/2019,Thursday,August,G4,LAS,MOT,838,-8,16,4,1319,129,-20,1098,Las Vegas, NV,Minot, ND,Sunny,29,4,ESE,5,29,0,49,6,30,17,4,7,Sunny,28,8,SE,10,28,0,53,6,30,18,3,7
+8/1/2019,Thursday,August,G4,SFB,CLE,1828,50,13,5,2044,112,44,872,Sanford, FL,Cleveland, OH,Torrential rain shower,25,9,E,11,25,0.5,85,1,30,23,58,1,Clear,22,12,NNE,15,22,0,64,6,30,15,0,1
+12/1/2019,Sunday,December,G4,PIA,PGD,1935,-7,8,7,2307,118,-26,1045,Peoria, IL,Punta Gorda, FL,Blizzard,2,18,WNW,26,-4,0,91,0,30,0,100,1,Clear,23,11,WSW,15,23,0,86,6,30,21,16,1
+1/1/2019,Tuesday,January,G4,SCK,LAS,1516,8,7,7,1629,51,0,359,Stockton, CA,Las Vegas, NV,Sunny,11,8,NNW,4,10,0,31,6,30,-6,10,4,Sunny,3,20,NNE,26,-2,0,17,6,30,-19,0,2
+11/1/2019,Friday,November,G4,MYR,ABE,1712,-11,19,4,1851,80,-7,518,Myrtle Beach, SC,Allentown/Bethlehem/Easton, PA,Sunny,15,11,N,12,14,0,50,6,30,5,0,4,Clear,26,15,WNW,17,26,0,66,6,30,19,2,1
+10/1/2019,Tuesday,October,G4,AVL,FLL,939,6,11,6,1137,92,-3,660,Asheville, NC,Fort Lauderdale, FL,Mist,18,1,SE,1,18,0,97,1,30,18,34,4,Patchy rain possible,27,18,ENE,24,27,0,75,5,30,22,37,6
+1/1/2018,Monday,January,HA,SEA,HNL,845,0,11,5,1310,332,-37,2677,Seattle, WA,Honolulu, HI,Partly cloudy,1,2,NE,5,0,0,77,6,30,-3,29,2,Sunny,24,7,E,8,24,0,66,6,30,17,24,6
+6/1/2018,Friday,June,HA,OGG,LIH,1648,12,5,6,1735,37,13,201,Kahului, HI,Lihue, HI,Cloudy,25,17,E,22,25,0,74,6,30,20,78,5,Partly cloudy,26,10,ENE,11,26,0,68,6,30,20,38,7
+1/1/2018,Monday,January,HA,KOA,LAX,1635,-1,12,22,2355,293,6,2504,Kona, HI,Los Angeles, CA,Sunny,24,8,NW,11,24,0,74,6,30,19,15,6,Clear,19,4,WSW,5,19,0,52,6,30,9,4,1
+4/1/2018,Sunday,April,HA,HNL,ITO,1341,-4,20,6,1437,36,2,216,Honolulu, HI,Hilo, HI,Partly cloudy,26,1,SW,1,27,0,57,6,30,17,38,7,Partly cloudy,23,13,SE,15,23,0,73,6,30,18,42,6
+12/1/2018,Saturday,December,HA,OGG,HNL,807,-1,6,5,846,25,-4,100,Kahului, HI,Honolulu, HI,Partly cloudy,24,6,N,9,24,0,80,6,30,20,42,6,Partly cloudy,23,6,N,8,23,0,77,6,30,19,54,6
+8/1/2018,Wednesday,August,HA,LAS,HNL,1820,15,13,7,2135,352,12,2762,Las Vegas, NV,Honolulu, HI,Clear,41,10,SW,12,41,0,16,6,30,10,3,1,Cloudy,25,16,ENE,22,25,0,77,6,30,21,63,1
+5/1/2018,Tuesday,May,HA,HNL,OAK,1215,9,17,5,2030,281,-3,2409,Honolulu, HI,Oakland, CA,Sunny,23,3,NE,4,23,0,61,6,30,15,19,6,Clear,13,7,WSW,10,12,0,73,6,30,8,7,1
+6/1/2018,Friday,June,HA,HNL,OGG,1855,-6,10,4,1934,21,-10,100,Honolulu, HI,Kahului, HI,Light rain shower,22,9,E,12,22,0,78,6,30,18,78,1,Partly cloudy,24,15,E,21,24,0,75,6,30,19,28,1
+6/1/2018,Friday,June,HA,JHM,HNL,830,-8,3,8,906,25,-8,84,Kapalua, HI,Honolulu, HI,Partly cloudy,25,10,ENE,13,25,0,71,6,30,19,37,6,Sunny,25,9,ENE,11,25,0,71,6,30,19,16,6
+7/1/2018,Sunday,July,HA,HNL,LIH,1605,-6,12,6,1646,21,-8,102,Honolulu, HI,Lihue, HI,Partly cloudy,26,9,ENE,11,26,0,66,6,30,19,46,7,Patchy rain possible,27,9,ENE,11,27,0,69,5,30,21,18,6
+8/1/2018,Wednesday,August,HA,HNL,LAX,2210,1,16,11,630,275,-17,2556,Honolulu, HI,Los Angeles, CA,Cloudy,25,16,ENE,22,25,0,77,6,30,21,63,1,Sunny,27,4,SSW,5,27,0,56,6,30,17,7,7
+7/1/2018,Sunday,July,HA,HNL,KOA,700,-6,11,5,747,28,-9,163,Honolulu, HI,Kona, HI,Partly cloudy,25,9,ENE,10,25,0,76,6,30,20,53,6,Sunny,25,5,N,7,25,0,73,6,30,20,17,7
+12/1/2018,Saturday,December,HA,HNL,KOA,1350,-5,12,3,1440,41,1,163,Honolulu, HI,Kona, HI,Sunny,26,6,NNE,7,26,0,55,6,30,16,5,7,Sunny,26,7,NNW,9,26,0,67,6,30,20,0,7
+4/1/2018,Sunday,April,HA,ITO,HNL,1506,-3,9,5,1601,38,-6,216,Hilo, HI,Honolulu, HI,Partly cloudy,23,13,SE,15,23,0,73,6,30,18,42,6,Partly cloudy,26,1,SW,1,27,0,57,6,30,17,38,7
+10/1/2018,Monday,October,HA,OGG,ITO,1607,-12,6,4,1646,25,-16,121,Kahului, HI,Hilo, HI,Sunny,29,7,E,9,29,0,62,6,30,21,0,7,Sunny,26,9,ESE,10,26,0,64,6,30,19,0,7
+3/1/2018,Thursday,March,HA,HNL,LIH,1750,6,13,6,1830,20,5,102,Honolulu, HI,Lihue, HI,Overcast,24,11,E,13,24,0,71,6,30,19,93,5,Patchy rain possible,23,17,ESE,24,23,0,87,5,30,21,47,1
+2/1/2018,Thursday,February,HA,HNL,OGG,1535,-5,15,6,1617,21,-5,100,Honolulu, HI,Kahului, HI,Moderate or heavy rain shower,25,12,SSW,14,25,0.1,79,4,30,21,54,5,Sunny,25,12,SSW,17,25,0,69,6,30,19,5,7
+12/1/2018,Saturday,December,HA,HNL,OGG,836,-7,9,6,916,22,-10,100,Honolulu, HI,Kahului, HI,Partly cloudy,23,6,N,8,23,0,77,6,30,19,54,6,Partly cloudy,24,6,N,9,24,0,80,6,30,20,42,6
+11/1/2018,Thursday,November,HA,HNL,LAS,2240,1,17,9,725,334,16,2762,Honolulu, HI,Las Vegas, NV,Partly cloudy,25,8,NE,11,25,0,87,6,30,23,42,1,Sunny,13,4,NNW,8,13,0,25,6,30,-6,5,4
+11/1/2018,Thursday,November,HA,LIH,HNL,1356,-7,13,9,1432,21,0,102,Lihue, HI,Honolulu, HI,Patchy rain possible,27,11,ENE,13,27,0,82,5,30,23,35,6,Partly cloudy,27,9,NE,11,27,0,76,6,30,22,59,7
+9/1/2018,Saturday,September,HA,LAX,HNL,700,-3,18,6,955,333,-1,2556,Los Angeles, CA,Honolulu, HI,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6,Partly cloudy,25,9,NE,10,25,0,73,6,30,20,54,6
+7/1/2018,Sunday,July,HA,KOA,OGG,1455,-7,9,7,1530,18,-8,84,Kona, HI,Kahului, HI,Sunny,27,6,NNW,8,27,0,70,6,30,21,6,7,Sunny,27,15,ENE,19,27,0,70,6,30,21,5,7
+4/1/2018,Sunday,April,HA,LIH,HNL,1949,-12,11,9,2024,20,-7,102,Lihue, HI,Honolulu, HI,Overcast,22,6,SSE,8,22,0,81,6,30,19,100,1,Overcast,23,5,SSW,6,23,0,75,6,30,19,89,1
+8/1/2018,Wednesday,August,HA,LAX,HNL,1000,6,21,40,1305,326,28,2556,Los Angeles, CA,Honolulu, HI,Sunny,27,4,SSW,5,27,0,56,6,30,17,7,7,Sunny,29,17,ENE,20,29,0,63,6,30,21,20,7
+11/1/2018,Thursday,November,HA,HNL,KOA,953,-4,12,6,1041,27,-7,163,Honolulu, HI,Kona, HI,Cloudy,25,6,ENE,8,25,0,86,6,30,23,67,6,Sunny,26,6,NW,8,26,0,80,6,30,22,13,7
+4/1/2018,Sunday,April,HA,HNL,LIH,1840,-7,10,4,1921,23,-11,102,Honolulu, HI,Lihue, HI,Overcast,23,5,SSW,6,23,0,75,6,30,19,89,1,Overcast,22,6,SSE,8,22,0,81,6,30,19,100,1
+3/1/2018,Thursday,March,HA,HNL,KOA,825,-6,15,13,911,29,5,163,Honolulu, HI,Kona, HI,Partly cloudy,22,8,E,10,22,0,83,6,30,19,50,6,Partly cloudy,24,6,WNW,9,24,0,73,6,30,19,26,6
+8/1/2018,Wednesday,August,HA,HNL,LAX,1445,14,21,25,2310,284,19,2556,Honolulu, HI,Los Angeles, CA,Sunny,29,17,ENE,20,29,0,63,6,30,21,20,7,Clear,29,6,SW,7,29,0,49,6,30,17,6,1
+12/1/2018,Saturday,December,HA,LIH,HNL,2049,-7,7,5,2123,20,-9,102,Lihue, HI,Honolulu, HI,Patchy rain possible,22,10,NNE,14,22,0,75,5,30,18,37,1,Clear,21,6,NNE,9,21,0,72,6,30,16,9,1
+5/1/2018,Tuesday,May,HA,ITO,HNL,1822,-4,8,5,1915,36,-8,216,Hilo, HI,Honolulu, HI,Light rain,16,3,NE,5,16,0.1,86,5,30,14,93,1,Light drizzle,20,4,ENE,5,20,0,70,1,30,15,100,1
+7/1/2018,Sunday,July,HA,KOA,HNL,817,-7,8,6,904,31,-9,163,Kona, HI,Honolulu, HI,Sunny,25,5,N,7,25,0,73,6,30,20,17,7,Partly cloudy,25,9,ENE,10,25,0,76,6,30,20,53,6
+3/1/2018,Thursday,March,HA,HNL,OGG,2050,-2,10,5,2129,20,-6,100,Honolulu, HI,Kahului, HI,Light rain shower,21,10,E,14,21,0,82,6,30,18,80,1,Clear,23,15,E,21,23,0,76,6,30,19,16,1
+9/1/2018,Saturday,September,HA,HNL,LAX,1445,0,13,6,2310,285,-21,2556,Honolulu, HI,Los Angeles, CA,Sunny,26,13,NE,14,26,0,61,6,30,17,4,7,Clear,25,6,SSW,6,25,0,67,6,30,18,2,1
+2/1/2018,Thursday,February,HA,HNL,OGG,855,-1,25,5,936,29,17,100,Honolulu, HI,Kahului, HI,Light rain shower,23,8,S,10,23,0,90,6,30,21,61,5,Sunny,24,7,S,11,24,0,79,6,30,20,5,6
+11/1/2018,Thursday,November,HA,LAS,HNL,925,-7,18,21,1245,336,-12,2762,Las Vegas, NV,Honolulu, HI,Sunny,13,4,NNW,8,13,0,25,6,30,-6,5,4,Partly cloudy,27,9,NE,11,27,0,76,6,30,22,59,7
+7/1/2018,Sunday,July,HA,OGG,LIH,1205,-4,13,5,1252,33,0,201,Kahului, HI,Lihue, HI,Sunny,27,15,ENE,19,27,0,70,6,30,21,5,7,Patchy rain possible,27,9,ENE,11,27,0,69,5,30,21,18,6
+6/1/2018,Friday,June,HA,LIH,HNL,1740,-6,6,9,1815,20,-6,102,Lihue, HI,Honolulu, HI,Partly cloudy,26,10,ENE,11,26,0,68,6,30,20,38,7,Light rain shower,22,9,E,12,22,0,78,6,30,18,78,1
+2/1/2018,Thursday,February,HA,HNL,KOA,1336,-4,16,5,1424,28,-3,163,Honolulu, HI,Kona, HI,Moderate or heavy rain shower,25,12,SSW,14,25,0.1,79,4,30,21,54,5,Sunny,26,4,SW,7,26,0,65,6,30,19,3,7
+2/1/2018,Thursday,February,HA,MKK,OGG,657,-12,4,7,724,25,-3,46,Hoolehua, HI,Kahului, HI,Patchy rain possible,23,13,S,19,23,0,84,5,30,20,14,5,Sunny,24,7,S,11,24,0,79,6,30,20,5,6
+10/1/2018,Monday,October,HA,OGG,HNL,1315,2,9,6,1355,28,5,100,Kahului, HI,Honolulu, HI,Sunny,29,7,E,9,29,0,62,6,30,21,0,7,Sunny,28,4,SSE,5,28,0,60,6,30,19,5,7
+3/1/2018,Thursday,March,HA,OGG,HNL,2157,-9,5,7,2234,20,-14,100,Kahului, HI,Honolulu, HI,Clear,23,15,E,21,23,0,76,6,30,19,16,1,Light rain shower,21,10,E,14,21,0,82,6,30,18,80,1
+8/1/2018,Wednesday,August,HA,LAX,HNL,700,12,18,5,955,330,10,2556,Los Angeles, CA,Honolulu, HI,Sunny,27,4,SSW,5,27,0,56,6,30,17,7,7,Partly cloudy,26,16,ENE,19,26,0,74,6,30,21,54,7
+11/1/2018,Thursday,November,HA,HNL,LAX,2210,-7,20,16,630,297,6,2556,Honolulu, HI,Los Angeles, CA,Partly cloudy,25,8,NE,11,25,0,87,6,30,23,42,1,Sunny,23,2,N,3,23,0,24,6,30,1,0,6
+10/1/2018,Monday,October,HA,HNL,LIH,1530,-3,12,5,1612,20,-8,102,Honolulu, HI,Lihue, HI,Sunny,28,4,SSE,5,28,0,60,6,30,19,5,7,Sunny,28,6,E,7,28,0,73,6,30,23,9,7
+1/1/2018,Monday,January,HA,SMF,HNL,700,2,13,6,1105,316,-28,2462,Sacramento, CA,Honolulu, HI,Sunny,8,1,SSW,2,8,0,79,6,30,5,7,3,Partly cloudy,21,6,E,8,21,0,79,6,30,17,33,6
+12/1/2018,Saturday,December,HA,ITO,HNL,1026,-10,8,8,1119,39,-8,216,Hilo, HI,Honolulu, HI,Sunny,23,5,N,7,23,0,78,6,30,19,9,6,Partly cloudy,23,6,N,8,23,0,77,6,30,19,54,6
+6/1/2018,Friday,June,HA,HNL,LIH,935,-6,15,5,1017,24,-4,102,Honolulu, HI,Lihue, HI,Sunny,25,9,ENE,11,25,0,71,6,30,19,16,6,Sunny,24,10,ENE,12,24,0,77,6,30,20,8,6
+5/1/2018,Tuesday,May,HA,HNL,JFK,1500,1,20,5,655,551,-18,4983,Honolulu, HI,New York, NY,Sunny,23,3,NE,4,23,0,61,6,30,15,19,6,Sunny,11,6,WNW,7,10,0,59,6,30,4,0,4
+5/1/2018,Tuesday,May,HA,LAX,HNL,700,-2,16,8,955,344,11,2556,Los Angeles, CA,Honolulu, HI,Cloudy,14,8,SSE,10,13,0,66,6,30,7,73,3,Cloudy,22,3,NNE,4,22,0,71,6,30,17,74,5
+9/1/2018,Saturday,September,HA,LAX,HNL,1000,8,18,9,1305,340,10,2556,Los Angeles, CA,Honolulu, HI,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6,Sunny,26,13,NE,14,26,0,61,6,30,17,4,7
+1/1/2018,Monday,January,HA,HNL,SMF,1625,-4,15,7,2335,295,3,2462,Honolulu, HI,Sacramento, CA,Sunny,24,7,E,8,24,0,66,6,30,17,24,6,Clear,14,1,NNW,1,14,0,63,6,30,7,5,1
+1/1/2018,Monday,January,HA,HNL,LAS,1610,15,13,10,2345,315,18,2762,Honolulu, HI,Las Vegas, NV,Sunny,24,7,E,8,24,0,66,6,30,17,24,6,Clear,11,1,ESE,2,11,0,24,6,30,-9,4,1
+3/1/2018,Thursday,March,HA,HNL,KOA,955,-1,14,5,1042,28,-1,163,Honolulu, HI,Kona, HI,Partly cloudy,22,8,E,10,22,0,83,6,30,19,50,6,Partly cloudy,24,6,WNW,9,24,0,73,6,30,19,26,6
+10/1/2018,Monday,October,HA,KOA,HNL,900,-12,8,8,949,29,-16,163,Kona, HI,Honolulu, HI,Sunny,8,3,NW,4,8,0,13,6,30,-19,0,3,Partly cloudy,26,5,E,6,26,0,80,6,30,22,58,7
+10/1/2018,Monday,October,HA,ITO,HNL,1136,-7,10,5,1230,35,-11,216,Hilo, HI,Honolulu, HI,Sunny,24,5,ESE,6,24,0,69,6,30,18,0,6,Sunny,28,4,SSE,5,28,0,60,6,30,19,5,7
+9/1/2018,Saturday,September,HA,HNL,LAX,2210,-2,16,11,630,280,-15,2556,Honolulu, HI,Los Angeles, CA,Cloudy,23,9,NE,13,23,0,78,6,30,19,70,1,Sunny,23,5,SSW,6,23,0,71,6,30,17,6,6
+4/1/2018,Sunday,April,HA,HNL,KOA,1445,-3,14,5,1532,27,-4,163,Honolulu, HI,Kona, HI,Partly cloudy,26,1,SW,1,27,0,57,6,30,17,38,7,Sunny,25,7,NW,10,25,0,75,6,30,20,18,6
+5/1/2018,Tuesday,May,HA,SFO,HNL,900,4,29,5,1135,326,29,2398,San Francisco, CA,Honolulu, HI,Partly cloudy,11,5,WNW,5,11,0,82,6,30,8,28,4,Cloudy,22,3,NNE,4,22,0,71,6,30,17,74,5
+9/1/2018,Saturday,September,HA,OGG,SJC,1050,256,11,5,1850,252,224,2355,Kahului, HI,San Jose, CA,Sunny,25,10,NNE,13,25,0,71,6,30,19,18,6,Clear,21,5,WSW,6,21,0,62,6,30,14,0,1
+10/1/2019,Tuesday,October,HA,HNL,LAX,1435,3,21,8,2300,294,1,2556,Honolulu, HI,Los Angeles, CA,Partly cloudy,27,20,ENE,23,27,0,65,6,30,20,26,7,Clear,21,10,WSW,11,21,0,56,6,30,12,0,1
+2/1/2019,Friday,February,HA,ITO,HNL,1116,1,9,6,1210,38,0,216,Hilo, HI,Honolulu, HI,Partly cloudy,19,7,NNW,10,19,0,69,6,30,13,6,5,Moderate or heavy rain shower,23,15,ENE,21,23,0.1,77,5,30,19,62,5
+6/1/2019,Saturday,June,HA,HNL,OGG,538,-3,9,6,617,22,-5,100,Honolulu, HI,Kahului, HI,Partly cloudy,24,12,E,17,24,0,80,6,30,20,38,1,Partly cloudy,26,14,E,16,26,0,74,6,30,21,34,7
+12/1/2019,Sunday,December,HA,LIH,OAK,1425,-4,9,5,2150,307,-8,2457,Lihue, HI,Oakland, CA,Light rain shower,23,21,ENE,28,23,0,77,6,30,19,55,5,Moderate rain,12,6,ESE,8,10,0.2,93,4,30,11,100,1
+1/1/2019,Tuesday,January,HA,HNL,OGG,1240,-1,15,7,1321,22,2,100,Honolulu, HI,Kahului, HI,Patchy rain possible,23,17,E,21,23,0,68,5,30,17,22,5,Sunny,25,20,E,27,25,0,66,6,30,18,0,6
+11/1/2019,Friday,November,HA,KOA,HNL,1654,6,9,12,1741,30,10,163,Kona, HI,Honolulu, HI,Sunny,25,6,W,8,25,0,69,6,30,19,3,7,Sunny,27,6,SW,7,27,0,57,6,30,18,8,7
+3/1/2019,Friday,March,HA,HNL,LNY,1846,25,8,3,1920,19,21,72,Honolulu, HI,Lanai, HI,Light rain shower,19,11,NNE,13,19,0,78,6,30,16,78,1,Clear,20,12,NNE,20,20,0,66,6,30,13,0,1
+8/1/2019,Thursday,August,HA,LAX,HNL,700,-4,14,8,945,331,4,2556,Los Angeles, CA,Honolulu, HI,Sunny,22,3,SSW,4,22,0,77,6,30,18,5,6,Sunny,26,17,ENE,22,26,0,74,6,30,21,22,7
+9/1/2019,Sunday,September,HA,HNL,LAX,1435,2,15,42,2310,289,13,2556,Honolulu, HI,Los Angeles, CA,Partly cloudy,28,12,ENE,14,28,0,64,6,30,21,29,7,Clear,26,9,SSW,10,26,0,61,6,30,18,20,1
+2/1/2019,Friday,February,HA,LIH,HNL,1040,-7,6,5,1115,23,-8,102,Lihue, HI,Honolulu, HI,Moderate or heavy rain shower,22,20,NE,30,22,0.1,84,5,30,19,98,5,Light rain shower,22,13,ENE,16,22,0,85,6,30,19,73,5
+6/1/2019,Saturday,June,HA,HNL,ITO,606,-7,8,5,701,41,-8,216,Honolulu, HI,Hilo, HI,Partly cloudy,26,9,ENE,11,26,0,74,6,30,21,43,7,Light rain shower,18,6,ESE,10,18,0,77,6,30,14,59,4
+2/1/2019,Friday,February,HA,HNL,OGG,916,-4,9,5,958,21,-11,100,Honolulu, HI,Kahului, HI,Light rain shower,22,13,ENE,16,22,0,85,6,30,19,73,5,Patchy rain possible,22,11,ENE,13,22,0,81,6,30,18,32,5
+12/1/2019,Sunday,December,HA,OAK,LIH,920,-8,13,5,1300,301,-29,2457,Oakland, CA,Lihue, HI,Moderate rain,11,11,SSE,17,10,0.1,91,4,30,10,100,3,Light rain shower,23,21,ENE,28,23,0,77,6,30,19,55,5
+10/1/2019,Tuesday,October,HA,LAX,HNL,1000,1,19,29,1305,317,1,2556,Los Angeles, CA,Honolulu, HI,Sunny,20,3,SSE,4,20,0,57,6,30,11,0,6,Partly cloudy,27,20,ENE,23,27,0,65,6,30,20,26,7
+12/1/2019,Sunday,December,HA,KOA,HNL,809,-4,6,6,857,29,-11,163,Kona, HI,Honolulu, HI,Sunny,12,3,ENE,5,11,0,36,6,30,-3,0,4,Light rain shower,23,16,ENE,21,23,0,84,6,30,20,91,5
+4/1/2019,Monday,April,HA,HNL,LAX,2220,-4,14,12,640,274,-24,2556,Honolulu, HI,Los Angeles, CA,Partly cloudy,21,4,NNE,6,21,0,71,6,30,15,31,1,Sunny,22,3,NNE,5,22,0,29,6,30,3,5,6
+6/1/2019,Saturday,June,HA,SFO,OGG,1015,-4,12,23,1230,287,3,2338,San Francisco, CA,Kahului, HI,Partly cloudy,13,2,SW,3,13,0,89,6,30,11,48,4,Sunny,26,15,E,20,26,0,71,6,30,21,12,7
+5/1/2019,Wednesday,May,HA,LAX,HNL,1000,7,13,15,1300,343,18,2556,Los Angeles, CA,Honolulu, HI,Sunny,18,3,SSW,3,18,0,64,6,30,11,0,5,Sunny,24,13,ENE,16,24,0,66,6,30,17,7,6
+4/1/2019,Monday,April,HA,LAX,HNL,1000,40,16,22,1300,346,64,2556,Los Angeles, CA,Honolulu, HI,Sunny,22,3,NNE,5,22,0,29,6,30,3,5,6,Sunny,24,4,W,5,24,0,56,6,30,15,6,6
+11/1/2019,Friday,November,HA,OGG,LIH,1425,26,15,4,1515,34,29,201,Kahului, HI,Lihue, HI,Sunny,26,2,SSW,3,26,0,70,6,30,20,22,7,Sunny,27,3,SSE,4,27,0,65,6,30,20,8,7
+6/1/2019,Saturday,June,HA,OGG,HNL,645,-7,7,5,722,22,-10,100,Kahului, HI,Honolulu, HI,Partly cloudy,26,14,E,16,26,0,74,6,30,21,34,7,Partly cloudy,26,9,ENE,11,26,0,74,6,30,21,43,7
+3/1/2019,Friday,March,HA,LNY,HNL,1946,13,10,3,2018,19,13,72,Lanai, HI,Honolulu, HI,Clear,20,12,NNE,20,20,0,66,6,30,13,0,1,Light rain shower,19,11,NNE,13,19,0,78,6,30,16,78,1
+2/1/2019,Friday,February,HA,HNL,OGG,1405,2,13,13,1450,21,4,100,Honolulu, HI,Kahului, HI,Moderate or heavy rain shower,23,15,ENE,21,23,0.1,77,5,30,19,62,5,Patchy rain possible,23,12,ENE,16,23,0,71,6,30,18,81,5
+10/1/2019,Tuesday,October,HA,HNL,LAX,2140,10,16,11,600,286,3,2556,Honolulu, HI,Los Angeles, CA,Light rain shower,24,17,ENE,24,24,0,81,6,30,20,56,1,Sunny,20,3,SSE,4,20,0,57,6,30,11,0,6
+9/1/2019,Sunday,September,HA,OGG,SAN,1115,27,11,6,1940,292,11,2541,Kahului, HI,San Diego, CA,Partly cloudy,27,11,E,12,27,0,79,6,30,23,27,7,Clear,24,7,SSW,8,24,0,75,6,30,19,5,1
+7/1/2019,Monday,July,HA,HNL,LIH,528,-6,8,7,606,21,-8,102,Honolulu, HI,Lihue, HI,Patchy rain possible,23,6,E,9,23,0.1,88,5,30,21,37,1,Partly cloudy,25,8,ESE,11,25,0,82,6,30,22,26,7
+11/1/2019,Friday,November,HA,HNL,ITO,1500,9,15,4,1558,35,5,216,Honolulu, HI,Hilo, HI,Sunny,27,6,SW,7,27,0,57,6,30,18,8,7,Sunny,27,4,E,5,27,0,68,6,30,20,6,7
+7/1/2019,Monday,July,HA,LIH,HNL,714,-6,6,6,750,19,-11,102,Lihue, HI,Honolulu, HI,Partly cloudy,25,8,ESE,11,25,0,82,6,30,22,26,7,Partly cloudy,25,8,ENE,9,25,0,84,6,30,22,32,6
+9/1/2019,Sunday,September,HA,LAX,HNL,1000,2,15,21,1255,321,4,2556,Los Angeles, CA,Honolulu, HI,Sunny,25,3,SW,4,25,0,70,6,30,19,10,6,Partly cloudy,28,12,ENE,14,28,0,64,6,30,21,29,7
+9/1/2019,Sunday,September,HA,HNL,LAX,2210,130,15,24,635,279,123,2556,Honolulu, HI,Los Angeles, CA,Light rain shower,24,10,ENE,13,24,0,82,6,30,21,51,1,Sunny,25,3,SW,4,25,0,70,6,30,19,10,6
+5/1/2019,Wednesday,May,HA,ITO,HNL,1748,16,12,8,1843,35,16,216,Hilo, HI,Honolulu, HI,Sunny,22,9,ENE,10,22,0,68,6,30,16,0,6,Partly cloudy,21,14,ENE,20,21,0,81,6,30,18,58,1
+11/1/2019,Friday,November,HA,HNL,LIH,1503,4,16,4,1545,25,7,102,Honolulu, HI,Lihue, HI,Sunny,27,6,SW,7,27,0,57,6,30,18,8,7,Sunny,27,3,SSE,4,27,0,65,6,30,20,8,7
+12/1/2019,Sunday,December,HA,LNY,HNL,1948,10,5,4,2023,21,5,72,Lanai, HI,Honolulu, HI,Partly cloudy,23,14,NE,23,23,0,73,6,30,18,34,1,Partly cloudy,22,17,ENE,20,22,0,79,6,30,18,49,1
+6/1/2019,Saturday,June,HA,HNL,LIH,607,-4,10,5,646,21,-7,102,Honolulu, HI,Lihue, HI,Partly cloudy,26,9,ENE,11,26,0,74,6,30,21,43,7,Patchy rain possible,26,13,E,17,26,0,77,5,30,21,41,6
+8/1/2019,Thursday,August,HA,SFO,HNL,915,7,14,8,1140,329,33,2398,San Francisco, CA,Honolulu, HI,Cloudy,15,9,SW,13,15,0,93,6,30,14,66,4,Sunny,26,17,ENE,22,26,0,74,6,30,21,22,7
+1/1/2019,Tuesday,January,HA,KOA,HNL,1409,-10,13,4,1500,28,-16,163,Kona, HI,Honolulu, HI,Partly cloudy,25,9,W,12,25,0,75,6,30,21,27,7,Patchy rain possible,23,17,E,21,23,0,68,5,30,17,22,5
+1/1/2019,Tuesday,January,HA,HNL,ITO,1750,67,15,6,1844,36,70,216,Honolulu, HI,Hilo, HI,Patchy rain possible,23,17,E,21,23,0,68,5,30,17,22,5,Clear,21,5,ENE,6,21,0,71,6,30,16,24,1
+7/1/2019,Monday,July,HA,HNL,KOA,605,-5,11,5,651,29,-6,163,Honolulu, HI,Kona, HI,Partly cloudy,25,8,ENE,9,25,0,84,6,30,22,32,6,Sunny,3,2,NW,3,3,0,56,6,30,-5,10,2
+1/1/2019,Tuesday,January,HA,OGG,HNL,1349,5,8,8,1430,21,1,100,Kahului, HI,Honolulu, HI,Sunny,25,20,E,27,25,0,66,6,30,18,0,6,Patchy rain possible,23,17,E,21,23,0,68,5,30,17,22,5
+2/1/2019,Friday,February,HA,OGG,HNL,1054,1,8,5,1133,22,-3,100,Kahului, HI,Honolulu, HI,Patchy rain possible,22,11,ENE,13,22,0,81,6,30,18,32,5,Light rain shower,22,13,ENE,16,22,0,85,6,30,19,73,5
+8/1/2019,Thursday,August,HA,HNL,LAX,1435,16,16,16,2310,282,-5,2556,Honolulu, HI,Los Angeles, CA,Cloudy,26,20,ENE,23,26,0,69,6,30,20,65,6,Clear,29,9,SW,10,29,0,44,6,30,15,0,1
+5/1/2019,Wednesday,May,HA,LAX,HNL,700,14,15,15,955,328,17,2556,Los Angeles, CA,Honolulu, HI,Sunny,18,3,SSW,3,18,0,64,6,30,11,0,5,Light rain shower,23,10,ENE,11,23,0.1,79,6,30,20,66,5
+5/1/2019,Wednesday,May,HA,HNL,OGG,1851,10,8,5,1931,21,4,100,Honolulu, HI,Kahului, HI,Partly cloudy,21,14,ENE,20,21,0,81,6,30,18,58,1,Clear,23,13,ENE,23,23,0,78,6,30,19,11,1
+10/1/2019,Tuesday,October,HA,LAX,HNL,700,0,12,3,945,318,-12,2556,Los Angeles, CA,Honolulu, HI,Sunny,20,3,SSE,4,20,0,57,6,30,11,0,6,Patchy rain possible,26,16,ENE,21,26,0,77,5,30,21,48,6
+7/1/2019,Monday,July,HA,OGG,HNL,718,9,7,8,756,22,8,100,Kahului, HI,Honolulu, HI,Patchy rain possible,26,11,E,13,26,0,77,5,30,22,14,6,Partly cloudy,25,8,ENE,9,25,0,84,6,30,22,32,6
+3/1/2019,Friday,March,HA,MKK,HNL,1818,30,6,7,1846,16,31,54,Hoolehua, HI,Honolulu, HI,Clear,21,12,NNE,14,21,0,70,6,30,16,9,1,Light rain shower,19,11,NNE,13,19,0,78,6,30,16,78,1
+8/1/2019,Thursday,August,HA,LAX,HNL,1000,1,17,16,1255,346,25,2556,Los Angeles, CA,Honolulu, HI,Sunny,22,3,SSW,4,22,0,77,6,30,18,5,6,Cloudy,26,20,ENE,23,26,0,69,6,30,20,65,6
+5/1/2019,Wednesday,May,HA,HNL,LAX,1435,-2,12,14,2305,287,-19,2556,Honolulu, HI,Los Angeles, CA,Sunny,24,13,ENE,16,24,0,66,6,30,17,7,6,Clear,17,8,SW,9,17,0,66,6,30,11,6,1
+3/1/2019,Friday,March,HA,HNL,LNY,1638,45,10,3,1712,19,43,72,Honolulu, HI,Lanai, HI,Cloudy,22,8,NNE,9,22,0,57,6,30,13,74,5,Cloudy,23,8,NNE,9,23,0,54,6,30,13,68,5
+4/1/2019,Monday,April,HA,HNL,LAX,1440,0,19,10,2305,277,-19,2556,Honolulu, HI,Los Angeles, CA,Sunny,24,4,W,5,24,0,56,6,30,15,6,6,Clear,23,6,SW,7,23,0,31,6,30,5,17,1
+3/1/2019,Friday,March,HA,HNL,KOA,950,-1,14,5,1036,27,-1,163,Honolulu, HI,Kona, HI,Cloudy,19,8,NNE,10,19,0,66,6,30,12,65,4,Sunny,21,5,SE,8,21,0,52,6,30,11,9,6
+1/1/2019,Tuesday,January,HA,HNL,LIH,1303,-2,12,8,1345,22,-2,102,Honolulu, HI,Lihue, HI,Patchy rain possible,23,17,E,21,23,0,68,5,30,17,22,5,Patchy rain possible,25,17,E,21,25,0,75,5,30,20,36,5
+7/1/2019,Monday,July,HA,HNL,OGG,610,-4,11,7,650,20,-6,100,Honolulu, HI,Kahului, HI,Partly cloudy,25,8,ENE,9,25,0,84,6,30,22,32,6,Patchy rain possible,26,11,E,13,26,0,77,5,30,22,14,6
+12/1/2019,Sunday,December,HA,LIH,LAX,1455,1,10,12,2230,303,-9,2615,Lihue, HI,Los Angeles, CA,Light rain shower,23,21,ENE,28,23,0,77,6,30,19,55,5,Partly cloudy,16,4,SW,4,16,0,44,6,30,3,42,1
+9/1/2019,Sunday,September,HA,LAX,HNL,700,-3,12,4,945,325,-7,2556,Los Angeles, CA,Honolulu, HI,Sunny,25,3,SW,4,25,0,70,6,30,19,10,6,Patchy rain possible,27,7,ENE,9,27,0,77,5,30,22,31,6
+4/1/2019,Monday,April,HA,HNL,SJC,1310,39,19,4,2120,282,34,2417,Honolulu, HI,San Jose, CA,Sunny,24,4,W,5,24,0,56,6,30,15,6,6,Patchy rain possible,16,3,WNW,4,16,0,74,5,30,11,20,1
+11/1/2019,Friday,November,HA,HNL,KOA,1451,35,10,4,1540,27,27,163,Honolulu, HI,Kona, HI,Sunny,27,6,SW,7,27,0,57,6,30,18,8,7,Sunny,25,6,W,8,25,0,69,6,30,19,3,7
+10/1/2019,Tuesday,October,HA,SMF,HNL,910,-6,14,5,1145,307,-15,2462,Sacramento, CA,Honolulu, HI,Sunny,10,6,NW,11,8,0,69,6,30,4,0,3,Patchy rain possible,26,16,ENE,21,26,0,77,5,30,21,48,6
+8/1/2019,Thursday,August,HA,SJC,OGG,715,-2,11,5,940,310,-1,2355,San Jose, CA,Kahului, HI,Sunny,19,3,S,4,19,0,70,6,30,14,7,5,Partly cloudy,26,16,ENE,18,26,0,79,6,30,22,29,7
+4/1/2019,Monday,April,HA,LAX,HNL,700,59,14,15,1000,353,81,2556,Los Angeles, CA,Honolulu, HI,Sunny,22,3,NNE,5,22,0,29,6,30,3,5,6,Partly cloudy,22,3,W,4,22,0,73,6,30,17,26,6
+7/1/2018,Sunday,July,NK,LAS,DFW,1157,-4,27,16,1643,142,15,1055,Las Vegas, NV,Dallas/Fort Worth, TX,Sunny,30,3,ESE,4,30,0,14,6,30,0,0,8,Sunny,36,9,SSW,10,36,0,37,6,30,19,4,9
+7/1/2018,Sunday,July,NK,FLL,DFW,710,-3,14,10,908,154,-3,1119,Fort Lauderdale, FL,Dallas/Fort Worth, TX,Light rain shower,29,4,SSW,4,29,0,72,6,30,24,41,6,Partly cloudy,25,10,S,14,25,0,85,6,30,22,28,6
+1/1/2018,Monday,January,NK,BWI,RSW,900,-4,12,3,1140,142,-7,919,Baltimore, MD,Fort Myers, FL,Sunny,-11,4,NW,4,-18,0,65,6,30,-16,4,2,Sunny,17,5,SSE,9,17,0,77,6,30,13,19,5
+2/1/2018,Thursday,February,NK,FLL,PHL,1440,-3,9,10,1722,136,-10,992,Fort Lauderdale, FL,Philadelphia, PA,Patchy rain possible,22,9,E,11,22,0,66,5,30,15,25,5,Cloudy,6,4,SSW,6,4,0,58,6,30,-2,76,2
+9/1/2018,Saturday,September,NK,MYR,IAG,1155,-10,10,7,1344,85,-17,650,Myrtle Beach, SC,Niagara Falls, NY,Sunny,25,3,ENE,4,25,0,87,6,30,23,13,7,Sunny,28,7,SSW,8,28,0,64,6,30,21,8,7
+8/1/2018,Wednesday,August,NK,FLL,CLE,1550,0,22,9,1842,139,-2,1062,Fort Lauderdale, FL,Cleveland, OH,Moderate or heavy rain shower,31,14,SSE,17,31,0.3,66,4,30,24,13,7,Partly cloudy,22,9,SW,12,22,0,78,6,30,18,41,1
+5/1/2018,Tuesday,May,NK,BWI,LAX,910,-6,11,6,1153,314,-18,2329,Baltimore, MD,Los Angeles, CA,Sunny,14,6,W,8,13,0,55,6,30,5,0,4,Cloudy,14,8,SSE,10,13,0,66,6,30,7,73,3
+5/1/2018,Tuesday,May,NK,ACY,ATL,1325,-6,12,24,1538,97,-6,679,Atlantic City, NJ,Atlanta, GA,Sunny,21,8,WSW,12,21,0,33,6,30,4,0,6,Sunny,28,4,S,5,28,0,33,6,30,10,7,7
+3/1/2018,Thursday,March,NK,FLL,MSY,2200,7,17,6,2306,95,-1,674,Fort Lauderdale, FL,New Orleans, LA,Partly cloudy,27,11,S,16,27,0,63,6,30,19,39,1,Overcast,21,9,N,13,21,0,68,6,30,15,100,1
+9/1/2018,Saturday,September,NK,DFW,BOS,710,34,12,7,1201,189,11,1562,Dallas/Fort Worth, TX,Boston, MA,Sunny,25,4,S,8,25,0,73,6,30,20,13,7,Partly cloudy,26,4,E,5,26,0,42,6,30,12,45,7
+10/1/2018,Monday,October,NK,MCO,LAS,1737,-1,31,6,1941,257,-11,2039,Orlando, FL,Las Vegas, NV,Light rain shower,31,6,ENE,7,31,0.1,59,6,30,22,44,7,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1
+8/1/2018,Wednesday,August,NK,CLE,BOS,1922,-3,13,9,2104,84,1,563,Cleveland, OH,Boston, MA,Partly cloudy,22,9,SW,12,22,0,78,6,30,18,41,1,Cloudy,26,9,SSW,13,26,0,79,6,30,23,83,1
+1/1/2018,Monday,January,NK,FLL,DTW,2030,-5,24,11,2328,148,0,1127,Fort Lauderdale, FL,Detroit, MI,Partly cloudy,22,8,NNW,11,22,0,68,6,30,16,27,1,Partly cloudy,-13,6,W,10,-21,0,86,6,31,-15,53,1
+3/1/2018,Thursday,March,NK,MCO,BDL,705,-11,14,7,952,138,-19,1050,Orlando, FL,Hartford, CT,Sunny,20,6,SSW,9,20,0,88,6,30,18,11,5,Sunny,5,2,NNW,4,5,0,92,6,30,4,9,3
+9/1/2018,Saturday,September,NK,ORD,LGA,550,-2,14,19,900,97,-2,733,Chicago, IL,New York, NY,Torrential rain shower,23,13,S,24,23,0.3,83,1,30,20,12,1,Light rain shower,22,9,E,10,22,0,74,6,30,17,57,5
+3/1/2018,Thursday,March,NK,BDL,MCO,1950,-6,11,8,2248,155,-10,1050,Hartford, CT,Orlando, FL,Overcast,10,6,ENE,11,8,0,71,6,30,5,100,1,Clear,25,9,WSW,15,25,0,67,6,30,18,9,1
+10/1/2018,Monday,October,NK,LAS,DTW,2259,14,12,23,557,198,9,1749,Las Vegas, NV,Detroit, MI,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1,Overcast,13,10,NE,13,11,0,89,6,30,11,95,1
+6/1/2018,Friday,June,NK,FLL,PHL,800,15,10,6,1041,132,2,992,Fort Lauderdale, FL,Philadelphia, PA,Partly cloudy,27,5,SE,6,27,0,77,6,30,23,39,7,Cloudy,23,1,SSE,1,23,0,87,6,30,20,76,5
+10/1/2018,Monday,October,NK,LAS,LAX,2040,-4,12,10,2158,45,-15,236,Las Vegas, NV,Los Angeles, CA,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1,Clear,27,3,W,4,28,0,47,6,30,15,15,1
+11/1/2018,Thursday,November,NK,FLL,PHL,800,-10,29,10,1045,135,-1,992,Fort Lauderdale, FL,Philadelphia, PA,Sunny,26,10,SE,15,26,0,69,6,30,20,0,7,Partly cloudy,14,4,SW,7,13,0,89,6,30,12,30,4
+11/1/2018,Thursday,November,NK,BOS,BWI,2159,40,15,7,2327,79,53,369,Boston, MA,Baltimore, MD,Cloudy,11,4,NE,6,11,0,93,6,30,10,85,1,Partly cloudy,19,11,SSE,19,19,0,76,6,30,15,59,1
+4/1/2018,Sunday,April,NK,MCO,ACY,2125,25,17,7,2339,105,20,852,Orlando, FL,Atlantic City, NJ,Partly cloudy,21,6,E,10,21,0,83,6,30,18,44,1,Partly cloudy,11,6,W,12,10,0,69,6,30,6,50,1
+12/1/2018,Saturday,December,NK,LAX,ATL,930,-4,12,7,1649,209,-35,1947,Los Angeles, CA,Atlanta, GA,Sunny,16,2,NNW,2,16,0,54,6,30,7,2,5,Moderate rain,14,4,E,6,13,0.2,96,4,30,13,100,3
+11/1/2018,Thursday,November,NK,BOS,BWI,735,-5,22,4,910,65,-9,369,Boston, MA,Baltimore, MD,Cloudy,12,2,S,3,12,0,89,6,30,10,76,3,Sunny,13,4,SSW,7,12,0,91,6,30,12,18,4
+2/1/2018,Thursday,February,NK,DTW,LAS,1030,-1,8,6,1207,254,-10,1749,Detroit, MI,Las Vegas, NV,Partly cloudy,0,9,SW,16,-5,0,88,6,30,-2,32,2,Sunny,17,3,E,3,17,0,20,6,30,-6,6,5
+5/1/2018,Tuesday,May,NK,FLL,STT,1250,-9,17,4,1524,127,-15,1107,Fort Lauderdale, FL,Charlotte Amalie, VI,Patchy rain possible,26,16,ENE,18,26,0,66,5,30,19,30,6,Patchy rain possible,27,15,ESE,20,27,0.1,76,5,30,23,31,6
+12/1/2018,Saturday,December,NK,FLL,ATL,835,-2,11,14,1028,91,1,581,Fort Lauderdale, FL,Atlanta, GA,Partly cloudy,24,14,SE,20,24,0,75,6,30,19,45,6,Overcast,12,8,ESE,12,10,0,92,6,30,11,100,3
+11/1/2018,Thursday,November,NK,BOS,MYR,503,-5,14,3,715,105,-15,738,Boston, MA,Myrtle Beach, SC,Cloudy,12,6,SW,11,11,0,86,6,30,10,63,1,Partly cloudy,17,3,SSW,5,17,0,93,6,30,16,46,5
+5/1/2018,Tuesday,May,NK,ATL,DFW,1854,-6,10,6,2020,105,-31,731,Atlanta, GA,Dallas/Fort Worth, TX,Clear,23,4,S,7,23,0,53,6,30,13,20,1,Light rain shower,23,12,SSE,18,23,0,85,6,30,20,100,1
+3/1/2018,Thursday,March,NK,ATL,BWI,1855,65,11,8,2041,80,58,577,Atlanta, GA,Baltimore, MD,Patchy rain possible,13,9,W,14,12,0.1,83,5,30,11,29,1,Moderate rain,10,5,ESE,7,8,0.1,95,4,30,9,100,1
+7/1/2018,Sunday,July,NK,DFW,FLL,1743,21,10,8,2136,141,7,1119,Dallas/Fort Worth, TX,Fort Lauderdale, FL,Sunny,36,9,SSW,10,36,0,37,6,30,19,4,9,Patchy rain possible,30,6,SE,8,30,0,64,5,30,23,11,1
+6/1/2018,Friday,June,NK,BOS,MYR,505,-6,10,4,712,102,-17,738,Boston, MA,Myrtle Beach, SC,Overcast,18,6,SSW,9,18,0,87,6,30,16,93,1,Partly cloudy,24,6,W,8,24,0,90,6,30,22,28,6
+7/1/2018,Sunday,July,NK,DFW,LAS,1010,-3,13,10,1057,134,-13,1055,Dallas/Fort Worth, TX,Las Vegas, NV,Partly cloudy,25,10,S,14,25,0,85,6,30,22,28,6,Sunny,30,3,ESE,4,30,0,14,6,30,0,0,8
+6/1/2018,Friday,June,NK,BWI,BOS,600,-5,11,8,728,60,-14,369,Baltimore, MD,Boston, MA,Patchy rain possible,23,0,SSW,1,23,0,88,5,30,21,37,5,Cloudy,20,2,SSE,3,20,0,85,6,30,18,73,5
+4/1/2018,Sunday,April,NK,PHX,MSP,1225,11,18,7,1733,145,-7,1276,Phoenix, AZ,Minneapolis, MN,Sunny,27,6,SE,7,28,0,12,6,30,-4,6,7,Sunny,-4,9,W,11,-9,0,65,6,30,-10,7,2
+4/1/2018,Sunday,April,NK,MSP,DTW,1835,-7,12,11,2127,66,-30,528,Minneapolis, MN,Detroit, MI,Clear,-4,6,W,6,-5,0,70,6,30,-7,0,1,Partly cloudy,2,6,W,8,0,0,41,6,30,-9,49,1
+7/1/2018,Sunday,July,NK,ORD,LAS,2149,102,16,6,2340,189,82,1514,Chicago, IL,Las Vegas, NV,Moderate or heavy rain shower,28,12,SW,21,28,0.2,69,4,30,21,26,1,Clear,38,9,SSE,12,38,0,9,6,30,-1,0,1
+8/1/2018,Wednesday,August,NK,ORD,SEA,2034,43,33,10,2254,236,62,1721,Chicago, IL,Seattle, WA,Patchy rain possible,25,6,S,10,25,0.1,58,5,30,17,14,1,Clear,23,1,WSW,1,23,0,67,6,30,16,0,1
+10/1/2018,Monday,October,NK,SEA,LAS,2012,-10,15,27,2238,122,8,867,Seattle, WA,Las Vegas, NV,Patchy light drizzle,14,5,SSE,8,13,0,95,3,30,13,53,1,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1
+9/1/2018,Saturday,September,NK,ORD,ATL,1709,12,10,10,2006,84,-1,606,Chicago, IL,Atlanta, GA,Torrential rain shower,24,10,S,17,24,0.5,82,1,30,21,46,5,Partly cloudy,29,3,E,5,29,0,60,6,30,20,27,1
+12/1/2018,Saturday,December,NK,ATL,LAX,1120,-2,16,6,1330,301,11,1947,Atlanta, GA,Los Angeles, CA,Overcast,12,8,ESE,12,10,0,92,6,30,11,100,3,Sunny,19,9,WSW,10,19,0,35,6,30,3,2,5
+12/1/2018,Saturday,December,NK,ATL,FLL,1739,-3,11,4,1930,84,-15,581,Atlanta, GA,Fort Lauderdale, FL,Moderate rain,14,4,E,6,13,0.2,96,4,30,13,100,3,Partly cloudy,26,10,S,15,26,0,76,6,30,21,33,1
+4/1/2018,Sunday,April,NK,MSP,PHX,955,1,25,7,1133,198,13,1276,Minneapolis, MN,Phoenix, AZ,Partly cloudy,-12,8,W,11,-18,0,85,6,30,-14,25,2,Overcast,23,4,ESE,8,24,0,14,6,30,-6,100,5
+2/1/2018,Thursday,February,NK,BOS,MYR,505,-9,14,7,724,114,-13,738,Boston, MA,Myrtle Beach, SC,Overcast,-1,10,SW,17,-6,0,70,6,30,-6,91,1,Sunny,4,4,SW,9,2,0,86,6,30,2,0,2
+1/1/2018,Monday,January,NK,ORD,FLL,1819,1,14,11,2228,152,-11,1182,Chicago, IL,Fort Lauderdale, FL,Clear,-17,10,W,13,-26,0,91,6,31,-18,18,1,Partly cloudy,22,8,NNW,11,22,0,68,6,30,16,27,1
+2/1/2018,Thursday,February,NK,PHL,FLL,1205,-6,10,7,1450,138,-16,992,Philadelphia, PA,Fort Lauderdale, FL,Cloudy,6,4,SSW,6,4,0,58,6,30,-2,76,2,Patchy rain possible,22,9,E,11,22,0,66,5,30,15,25,5
+3/1/2018,Thursday,March,NK,ATL,BWI,700,-6,12,14,846,79,-7,577,Atlanta, GA,Baltimore, MD,Light rain shower,18,4,SSW,7,18,0,95,6,30,17,94,4,Partly cloudy,8,1,E,3,8,0,85,6,30,6,32,3
+6/1/2018,Friday,June,NK,BOS,BWI,2159,5,19,5,2326,57,-1,369,Boston, MA,Baltimore, MD,Partly cloudy,24,3,SSW,5,24,0,85,6,30,21,52,1,Partly cloudy,27,5,SE,8,27,0,76,6,30,23,27,1
+8/1/2018,Wednesday,August,NK,SEA,ORD,2354,74,11,14,549,191,55,1721,Seattle, WA,Chicago, IL,Clear,23,1,WSW,1,23,0,67,6,30,16,0,1,Clear,21,2,SW,3,21,0,80,6,30,17,12,1
+1/1/2018,Monday,January,NK,RSW,BWI,1944,18,10,5,2207,112,2,919,Fort Myers, FL,Baltimore, MD,Cloudy,14,16,N,20,12,0,82,6,30,11,74,1,Patchy light snow,-8,9,W,14,-15,0,54,6,30,-15,50,1
+5/1/2018,Tuesday,May,NK,LAX,BWI,1540,-6,21,7,2346,265,-19,2329,Los Angeles, CA,Baltimore, MD,Overcast,16,10,S,11,16,0,54,6,30,6,97,4,Clear,19,7,SSW,14,19,0,42,6,30,6,7,1
+6/1/2018,Friday,June,NK,MYR,FLL,758,-9,9,7,940,86,-9,529,Myrtle Beach, SC,Fort Lauderdale, FL,Partly cloudy,24,6,W,8,24,0,90,6,30,22,28,6,Partly cloudy,27,5,SE,6,27,0,77,6,30,23,39,7
+9/1/2018,Saturday,September,NK,BOS,MCO,820,11,10,8,1136,141,-26,1121,Boston, MA,Orlando, FL,Partly cloudy,19,3,NNE,3,19,0,67,6,30,12,44,5,Patchy rain possible,26,4,E,5,26,0.1,85,5,30,24,9,6
+2/1/2018,Thursday,February,NK,BWI,FLL,1935,-6,13,10,2217,133,-12,925,Baltimore, MD,Fort Lauderdale, FL,Cloudy,6,4,S,8,3,0,71,6,30,1,66,1,Partly cloudy,21,6,ESE,8,21,0,71,6,30,16,25,1
+1/1/2018,Monday,January,NK,ACY,MYR,715,-6,9,3,848,78,-9,466,Atlantic City, NJ,Myrtle Beach, SC,Sunny,-11,11,NW,15,-20,0,66,6,30,-16,0,2,Sunny,-4,15,NNE,19,-11,0,41,6,30,-15,16,2
+10/1/2018,Monday,October,NK,LAS,MCO,2340,13,17,6,715,246,7,2039,Las Vegas, NV,Orlando, FL,Clear,27,12,SSE,14,27,0,48,6,30,15,13,1,Patchy rain possible,26,3,NNE,5,26,0.1,85,5,30,23,14,6
+4/1/2018,Sunday,April,NK,DTW,MSP,800,20,11,10,900,96,17,528,Detroit, MI,Minneapolis, MN,Cloudy,-1,6,NW,8,-4,0,67,6,30,-6,73,1,Partly cloudy,-12,8,W,11,-18,0,85,6,30,-14,25,2
+12/1/2018,Saturday,December,NK,PHL,LAS,1945,-4,15,6,2244,313,-29,2176,Philadelphia, PA,Las Vegas, NV,Light drizzle,7,6,ESE,9,5,0,85,1,30,5,100,1,Clear,12,9,SSW,13,10,0,40,6,30,-1,4,1
+8/1/2018,Wednesday,August,NK,BWI,FLL,1859,-5,9,6,2135,129,-17,925,Baltimore, MD,Fort Lauderdale, FL,Partly cloudy,28,9,S,15,28,0,73,6,30,22,37,1,Partly cloudy,30,7,SE,9,30,0,70,6,30,24,28,1
+11/1/2018,Thursday,November,NK,BWI,BOS,600,-18,11,10,730,58,-29,369,Baltimore, MD,Boston, MA,Sunny,13,4,SSW,7,12,0,91,6,30,12,18,4,Cloudy,12,2,S,3,12,0,89,6,30,10,76,3
+11/1/2019,Friday,November,NK,MSY,DEN,600,-5,11,6,802,161,-9,1062,New Orleans, LA,Denver, CO,Sunny,6,12,NNE,18,2,0,70,6,30,1,0,3,Sunny,-3,4,ESE,6,-4,0,65,6,30,-8,3,2
+4/1/2019,Monday,April,NK,FLL,CLE,1600,145,20,9,1855,136,135,1062,Fort Lauderdale, FL,Cleveland, OH,Sunny,27,10,S,11,27,0,55,6,30,17,20,7,Clear,2,4,SW,5,2,0,58,6,30,-5,5,1
+10/1/2019,Tuesday,October,NK,FLL,TPA,710,-5,18,6,812,34,-9,197,Fort Lauderdale, FL,Tampa, FL,Patchy rain possible,27,18,ENE,24,27,0,75,5,30,22,37,6,Sunny,24,11,ENE,17,24,0,86,6,30,22,17,6
+9/1/2019,Sunday,September,NK,LAS,ATL,829,20,15,7,1535,208,4,1747,Las Vegas, NV,Atlanta, GA,Sunny,33,5,SSW,11,33,0,12,6,30,-1,0,8,Partly cloudy,31,9,E,11,31,0,48,6,30,19,33,8
+5/1/2019,Wednesday,May,NK,PHL,FLL,700,-6,19,6,947,133,-15,992,Philadelphia, PA,Fort Lauderdale, FL,Overcast,13,8,E,11,12,0,71,6,30,8,98,3,Partly cloudy,25,20,ENE,27,25,0,71,6,30,20,54,7
+4/1/2019,Monday,April,NK,BOS,MCO,1101,46,13,28,1418,186,76,1121,Boston, MA,Orlando, FL,Sunny,1,13,WNW,17,-4,0,54,6,30,-7,7,2,Light drizzle,20,10,SSE,12,20,0,73,1,30,15,100,4
+11/1/2019,Friday,November,NK,DEN,MSY,1209,-2,9,5,1554,121,-32,1062,Denver, CO,New Orleans, LA,Sunny,1,4,ENE,4,-1,0,73,6,30,-3,14,2,Sunny,13,9,NE,10,11,0,45,6,30,1,0,4
+2/1/2019,Friday,February,NK,BOS,TPA,1530,-4,13,7,1902,181,-15,1185,Boston, MA,Tampa, FL,Partly cloudy,-11,11,W,10,-18,0,37,6,30,-22,15,2,Patchy rain possible,19,6,ENE,10,19,0,79,6,30,16,55,1
+7/1/2019,Monday,July,NK,MCO,LAS,1815,10,10,9,2004,249,-11,2039,Orlando, FL,Las Vegas, NV,Light rain shower,30,7,WNW,8,30,0.1,66,6,30,23,40,1,Clear,35,19,WSW,23,35,0,7,6,30,-6,0,1
+1/1/2019,Tuesday,January,NK,DFW,TPA,823,-7,11,9,1145,116,-13,929,Dallas/Fort Worth, TX,Tampa, FL,Cloudy,1,14,N,22,-5,0,74,6,30,-3,69,1,Sunny,20,3,SE,9,20,0,89,6,30,18,8,6
+5/1/2019,Wednesday,May,NK,FLL,JAX,2159,-5,9,7,2322,48,-24,319,Fort Lauderdale, FL,Jacksonville, FL,Moderate or heavy rain shower,26,20,E,30,26,0.2,75,4,30,21,74,1,Clear,24,11,E,13,24,0,74,6,30,19,9,1
+6/1/2019,Saturday,June,NK,DTW,FLL,1912,61,21,6,2207,146,59,1127,Detroit, MI,Fort Lauderdale, FL,Thundery outbreaks possible,21,6,ENE,6,21,0,66,5,30,14,48,1,Patchy rain possible,29,11,SSE,13,29,0.1,70,5,30,23,27,1
+12/1/2019,Sunday,December,NK,ORD,PHX,1440,34,25,6,1738,205,32,1440,Chicago, IL,Phoenix, AZ,Light sleet,3,14,SW,18,-2,0,89,5,29,2,100,1,Sunny,15,6,ENE,7,15,0,20,6,30,-8,1,5
+2/1/2019,Friday,February,NK,MYR,EWR,1729,-4,8,6,1924,83,-22,550,Myrtle Beach, SC,Newark, NJ,Partly cloudy,9,4,SE,6,9,0,51,6,30,0,3,3,Partly cloudy,-10,10,W,6,-14,0,40,6,30,-18,70,1
+11/1/2019,Friday,November,NK,ATL,MCO,600,139,11,8,730,61,129,404,Atlanta, GA,Orlando, FL,Sunny,3,12,NNW,15,0,0,69,6,30,-2,0,2,Overcast,20,8,SW,11,20,0,73,6,30,15,94,5
+10/1/2019,Tuesday,October,NK,FLL,MCO,925,-6,15,26,1033,32,-1,177,Fort Lauderdale, FL,Orlando, FL,Patchy rain possible,27,18,ENE,24,27,0,75,5,30,22,37,6,Partly cloudy,25,9,ENE,15,25,0,81,6,30,21,39,6
+1/1/2019,Tuesday,January,NK,BDL,RSW,1610,-17,8,9,1933,183,-20,1180,Hartford, CT,Fort Myers, FL,Sunny,9,18,WNW,21,6,0,63,6,30,3,2,3,Cloudy,24,3,WNW,9,24,0,71,6,30,18,65,1
+3/1/2019,Friday,March,NK,BWI,ATL,940,-3,12,10,1142,87,-16,577,Baltimore, MD,Atlanta, GA,Heavy snow,-1,6,E,12,-6,0.4,95,1,30,-2,100,1,Fog,15,4,SW,6,15,0,98,0,30,15,100,4
+5/1/2019,Wednesday,May,NK,FLL,PHL,2045,-7,16,7,2334,128,-25,992,Fort Lauderdale, FL,Philadelphia, PA,Moderate or heavy rain shower,26,20,E,30,26,0.2,75,4,30,21,74,1,Overcast,16,7,ESE,9,16,0,78,6,30,12,89,1
+2/1/2019,Friday,February,NK,MCO,ATL,1355,32,21,8,1530,65,31,404,Orlando, FL,Atlanta, GA,Light rain shower,20,9,E,13,21,0,72,6,30,15,65,4,Partly cloudy,5,7,SSE,7,4,0,54,6,30,-3,4,2
+7/1/2019,Monday,July,NK,ORD,BWI,720,-4,16,16,1015,85,-2,621,Chicago, IL,Baltimore, MD,Partly cloudy,20,10,WSW,21,20,0,91,6,30,19,43,6,Sunny,20,8,N,9,20,0,71,6,30,15,0,6
+1/1/2019,Tuesday,January,NK,LAS,ATL,1143,-2,12,23,1834,191,-7,1747,Las Vegas, NV,Atlanta, GA,Sunny,-1,8,N,24,-7,0,30,6,30,-17,2,2,Light drizzle,16,6,WSW,4,16,0,91,1,30,15,84,1
+5/1/2019,Wednesday,May,NK,PHL,FLL,1812,-4,21,7,2109,136,-17,992,Philadelphia, PA,Fort Lauderdale, FL,Overcast,16,7,ESE,9,16,0,78,6,30,12,89,1,Moderate or heavy rain shower,26,20,E,30,26,0.2,75,4,30,21,74,1
+6/1/2019,Saturday,June,NK,LAS,DTW,1112,0,17,26,1812,220,23,1749,Las Vegas, NV,Detroit, MI,Sunny,25,1,WSW,2,25,0,26,6,30,4,3,6,Thundery outbreaks possible,21,6,ENE,6,21,0,66,5,30,14,48,1
+8/1/2019,Thursday,August,NK,DFW,ATL,1451,4,20,11,1810,119,15,731,Dallas/Fort Worth, TX,Atlanta, GA,Sunny,36,8,SSE,10,36,0,37,6,30,19,11,9,Heavy rain at times,26,5,WSW,6,26,0.3,74,3,30,21,33,1
+11/1/2019,Friday,November,NK,MCO,IAH,1233,2,10,8,1407,127,-7,854,Orlando, FL,Houston, TX,Partly cloudy,26,9,NNE,11,26,0,57,6,30,17,52,7,Sunny,14,5,ESE,6,14,0,45,6,30,2,0,4
+6/1/2019,Saturday,June,NK,MCO,IND,1733,-8,36,5,2002,123,7,829,Orlando, FL,Indianapolis, IN,Light rain shower,35,9,WSW,11,35,0.1,38,6,30,18,68,7,Thundery outbreaks possible,23,11,W,17,23,0,79,5,30,19,26,1
+8/1/2019,Thursday,August,NK,JAX,BWI,1722,37,10,6,1918,119,56,663,Jacksonville, FL,Baltimore, MD,Moderate or heavy rain shower,29,3,ESE,3,29,0.2,70,4,30,23,76,6,Moderate or heavy rain shower,26,4,ENE,6,26,0.1,70,4,30,20,7,1
+3/1/2019,Friday,March,NK,DTW,TPA,1810,-8,16,8,2050,136,-8,983,Detroit, MI,Tampa, FL,Partly cloudy,-2,11,ENE,6,-6,0,81,6,30,-5,47,1,Clear,24,5,SW,9,24,0,63,6,30,17,12,1
+9/1/2019,Sunday,September,NK,MSP,DFW,2138,-10,9,5,2359,108,-29,852,Minneapolis, MN,Dallas/Fort Worth, TX,Partly cloudy,22,6,WSW,8,22,0,80,6,30,19,56,1,Partly cloudy,31,7,SSE,10,31,0,55,6,30,21,29,1
+5/1/2019,Wednesday,May,NK,FLL,PHL,730,11,12,9,1016,134,0,992,Fort Lauderdale, FL,Philadelphia, PA,Partly cloudy,25,20,ENE,27,25,0,71,6,30,20,54,7,Overcast,13,8,E,11,12,0,71,6,30,8,98,3
+12/1/2019,Sunday,December,NK,DTW,MCO,1815,-8,13,31,2101,128,-2,957,Detroit, MI,Orlando, FL,Overcast,5,8,SW,11,2,0,86,6,29,3,100,1,Cloudy,23,13,SW,19,23,0,78,6,30,19,74,1
+11/1/2019,Friday,November,NK,BOS,DTW,2158,-6,18,8,10,102,-10,632,Boston, MA,Detroit, MI,Clear,7,14,W,19,4,0,53,6,30,-2,0,1,Partly cloudy,2,15,NW,17,-4,0,73,6,30,-2,52,1
+12/1/2019,Sunday,December,NK,PHX,ORD,1900,-1,9,9,2323,175,-11,1440,Phoenix, AZ,Chicago, IL,Clear,19,2,E,2,19,0,19,6,30,-5,4,1,Blizzard,2,8,NW,11,-3,0.1,90,0,30,1,100,1
+10/1/2019,Tuesday,October,NK,SJU,FLL,220,-11,10,11,504,132,-22,1046,San Juan, PR,Fort Lauderdale, FL,Clear,26,6,S,11,26,0,82,6,30,23,12,1,Cloudy,26,20,ENE,26,26,0,76,6,30,22,63,1
+8/1/2019,Thursday,August,NK,FLL,BDL,816,8,20,7,1114,145,2,1173,Fort Lauderdale, FL,Hartford, CT,Patchy rain possible,29,13,ESE,17,29,0,75,5,30,24,31,6,Sunny,20,3,NNW,4,20,0,86,6,30,18,8,6
+8/1/2019,Thursday,August,NK,DFW,TPA,1220,-4,19,6,1552,123,-8,929,Dallas/Fort Worth, TX,Tampa, FL,Sunny,36,8,SSE,10,36,0,37,6,30,19,11,9,Light rain shower,33,4,E,4,33,0,47,6,30,21,51,7
+7/1/2019,Monday,July,NK,MCO,PIT,1705,34,17,4,1930,105,15,834,Orlando, FL,Pittsburgh, PA,Patchy rain possible,35,9,WNW,10,35,0,42,5,30,20,21,7,Clear,27,3,W,4,27,0,55,6,30,17,4,1
+4/1/2019,Monday,April,NK,TPA,MSP,2110,44,9,5,2335,172,25,1306,Tampa, FL,Minneapolis, MN,Partly cloudy,22,10,NNE,13,22,0,72,6,30,17,61,1,Overcast,5,6,WNW,7,2,0,55,6,30,-3,97,1
+1/1/2019,Tuesday,January,NK,MCO,SJU,2245,3,20,4,220,145,17,1189,Orlando, FL,San Juan, PR,Clear,25,4,WSW,3,25,0,69,6,30,19,20,1,Patchy rain possible,25,9,ENE,20,25,0,77,5,30,20,22,1
+3/1/2019,Friday,March,NK,FLL,PIT,2045,76,11,4,2326,126,56,994,Fort Lauderdale, FL,Pittsburgh, PA,Clear,25,6,E,12,25,0,68,6,30,18,8,1,Cloudy,0,7,ENE,7,-3,0,89,6,30,-1,64,1
+12/1/2019,Sunday,December,NK,BOS,MYR,505,17,32,5,718,112,33,738,Boston, MA,Myrtle Beach, SC,Clear,-1,4,NNW,6,-4,0,36,6,30,-14,0,1,Sunny,16,5,S,11,16,0,91,6,30,14,8,5
+9/1/2019,Sunday,September,NK,ATL,MSY,1625,8,12,7,1659,69,2,425,Atlanta, GA,New Orleans, LA,Partly cloudy,31,9,E,11,31,0,48,6,30,19,33,8,Patchy rain possible,32,9,ENE,10,32,0,56,5,30,23,19,7
+1/1/2019,Tuesday,January,NK,MSY,DTW,1320,-3,12,10,1649,111,-19,926,New Orleans, LA,Detroit, MI,Overcast,20,6,NNE,9,20,0,85,6,30,17,96,5,Light snow,1,7,SW,9,-3,0,79,6,30,-2,100,1
+4/1/2019,Monday,April,NK,LGA,MYR,1844,45,45,7,2043,86,64,563,New York, NY,Myrtle Beach, SC,Clear,10,11,NW,13,8,0,37,6,30,-4,0,1,Clear,10,8,ENE,11,7,0,51,6,30,0,11,1
+6/1/2019,Saturday,June,NK,MCO,BWI,932,58,15,6,1144,103,50,787,Orlando, FL,Baltimore, MD,Sunny,26,4,WSW,5,26,0,79,6,30,23,14,7,Sunny,22,4,NNW,5,22,0,70,6,30,16,8,6
+4/1/2019,Monday,April,NK,MCO,BOS,700,71,24,4,1001,131,49,1121,Orlando, FL,Boston, MA,Overcast,18,8,NE,11,18,0,83,6,30,15,100,4,Sunny,1,13,WNW,17,-4,0,54,6,30,-7,7,2
+10/1/2019,Tuesday,October,NK,EWR,ATL,1413,-3,17,12,1642,100,-23,746,Newark, NJ,Atlanta, GA,Patchy rain possible,26,9,SSW,11,26,0,62,5,30,18,14,6,Patchy rain possible,36,7,E,8,36,0,42,5,30,21,17,8
+7/1/2019,Monday,July,NK,FLL,LBE,1405,-12,21,8,1648,129,-17,980,Fort Lauderdale, FL,Latrobe, PA,Sunny,31,3,W,3,31,0,64,6,30,23,15,8,Sunny,28,2,W,2,28,0,44,6,30,15,0,7
+2/1/2019,Friday,February,NK,TPA,BOS,1116,-3,17,11,1423,152,-10,1185,Tampa, FL,Boston, MA,Overcast,12,6,ENE,17,12,0,85,6,30,10,87,3,Partly cloudy,-11,11,W,10,-18,0,37,6,30,-22,15,2
+7/1/2019,Monday,July,NK,PIT,MCO,719,-8,9,24,937,106,-7,834,Pittsburgh, PA,Orlando, FL,Sunny,20,3,NE,4,20,0,73,6,30,15,8,5,Sunny,27,6,WNW,8,27,0,84,6,30,24,8,7
+2/1/2019,Friday,February,NK,BWI,ORD,700,1,10,18,816,112,5,621,Baltimore, MD,Chicago, IL,Light snow,-8,1,NE,6,-7,0,42,6,30,-18,84,1,Heavy snow,-15,5,SE,6,-19,0,75,1,30,-17,100,1
+6/1/2019,Saturday,June,NK,BWI,MCO,620,-5,11,7,840,105,-22,787,Baltimore, MD,Orlando, FL,Sunny,22,4,NNW,5,22,0,70,6,30,16,8,6,Sunny,26,4,WSW,5,26,0,79,6,30,23,14,7
+8/1/2019,Thursday,August,NK,DFW,ATL,830,82,13,8,1146,100,67,731,Dallas/Fort Worth, TX,Atlanta, GA,Sunny,25,7,SSE,13,25,0,83,6,30,22,4,6,Sunny,24,3,ESE,4,24,0,77,6,30,20,12,6
+10/1/2019,Tuesday,October,NK,BWI,DTW,1831,-3,14,10,2008,61,-15,409,Baltimore, MD,Detroit, MI,Partly cloudy,24,9,S,12,24,0,81,6,30,20,27,1,Clear,26,10,WSW,13,26,0,73,6,30,21,19,1
+4/1/2018,Sunday,April,UA,DEN,EWR,2350,-5,10,7,529,172,-35,1605,Denver, CO,Newark, NJ,Clear,11,8,E,9,10,0,41,6,30,-2,2,1,Overcast,7,14,SSW,23,4,0,43,6,30,-4,100,1
+8/1/2018,Wednesday,August,UA,ORD,MSP,1532,312,42,4,1708,69,331,334,Chicago, IL,Minneapolis, MN,Sunny,26,5,SSW,6,26,0,56,6,30,16,16,7,Light rain shower,24,7,W,8,24,0,68,6,30,17,52,5
+4/1/2018,Sunday,April,UA,FLL,ORD,1912,-7,17,4,2129,160,-23,1182,Fort Lauderdale, FL,Chicago, IL,Clear,24,8,E,11,24,0,70,6,30,18,5,1,Overcast,0,4,WSW,5,-2,0,35,6,30,-13,100,1
+10/1/2018,Monday,October,UA,LGA,CLE,825,-4,16,6,1012,71,-18,419,New York, NY,Cleveland, OH,Partly cloudy,19,7,SW,8,19,0,78,6,30,15,26,5,Overcast,18,2,NE,3,18,0,93,6,30,17,100,4
+12/1/2018,Saturday,December,UA,ORD,OKC,1015,-7,36,7,1244,113,0,693,Chicago, IL,Oklahoma City, OK,Overcast,2,15,ENE,22,-4,0,93,6,30,0,100,1,Sunny,14,19,W,22,12,0,45,6,29,2,13,4
+9/1/2018,Saturday,September,UA,ELP,ORD,1255,23,12,42,1647,153,58,1236,El Paso, TX,Chicago, IL,Sunny,32,12,NW,13,32,0,31,6,30,13,16,8,Torrential rain shower,24,10,S,17,24,0.5,82,1,30,21,46,5
+1/1/2018,Monday,January,UA,CMH,DEN,1635,-5,9,9,1805,174,-23,1154,Columbus, OH,Denver, CO,Cloudy,-13,8,WNW,10,-20,0,81,6,31,-15,80,1,Partly cloudy,-6,1,ENE,2,-10,0,58,6,30,-13,46,1
+11/1/2018,Thursday,November,UA,TUL,IAH,905,0,12,11,1039,81,10,429,Tulsa, OK,Houston, TX,Light rain,8,6,NNW,10,5,0.1,82,5,30,5,100,2,Partly cloudy,15,11,NW,16,13,0,84,6,30,12,47,4
+1/1/2018,Monday,January,UA,CLT,EWR,1115,0,20,8,1310,69,-18,529,Charlotte, NC,Newark, NJ,Sunny,-7,8,NE,11,-12,0,37,6,30,-19,7,2,Sunny,-8,13,NW,15,-16,0,46,6,30,-17,8,2
+5/1/2018,Tuesday,May,UA,LEX,IAH,700,-1,12,9,844,138,-6,828,Lexington, KY,Houston, TX,Sunny,10,5,SSW,10,9,0,72,6,30,5,0,4,Cloudy,21,6,SE,11,21,0,90,6,30,19,63,5
+12/1/2018,Saturday,December,UA,CAK,IAH,635,-1,31,7,855,185,22,1085,Akron, OH,Houston, TX,Partly cloudy,1,6,E,11,-4,0,92,6,30,-1,48,2,Patchy rain possible,20,7,W,13,20,0,92,5,30,19,17,5
+10/1/2018,Monday,October,UA,EWR,STL,1625,-7,27,8,1807,132,-2,872,Newark, NJ,St. Louis, MO,Sunny,26,5,WSW,6,26,0,59,6,30,18,22,7,Cloudy,36,4,N,5,36,0,31,6,30,17,73,1
+5/1/2018,Tuesday,May,UA,ICT,ORD,1450,-10,10,11,1648,87,-20,588,Wichita, KS,Chicago, IL,Thundery outbreaks possible,21,19,S,26,21,0,80,5,30,18,100,5,Sunny,21,13,SSW,28,21,0,49,6,30,10,4,6
+6/1/2018,Friday,June,UA,MOB,IAH,1155,-8,12,7,1338,84,-8,427,Mobile, AL,Houston, TX,Partly cloudy,26,2,SSW,3,26,0,89,6,30,24,35,7,Sunny,34,7,SSW,9,34,0,49,6,30,22,0,8
+6/1/2018,Friday,June,UA,JAN,IAH,940,-6,10,6,1113,57,-26,351,Jackson/Vicksburg, MS,Houston, TX,Partly cloudy,23,6,SW,10,23,0,93,6,30,22,36,6,Partly cloudy,26,4,S,6,26,0,89,6,30,24,62,7
+8/1/2018,Wednesday,August,UA,LAS,IAH,1546,9,13,8,2050,158,4,1222,Las Vegas, NV,Houston, TX,Sunny,40,5,SSW,6,40,0,17,6,30,11,3,10,Clear,33,7,N,11,33,0,41,6,30,18,18,1
+6/1/2018,Friday,June,UA,IAH,LRD,1005,29,17,3,1126,47,15,301,Houston, TX,Laredo, TX,Partly cloudy,26,4,S,6,26,0,89,6,30,24,62,7,Sunny,26,15,SE,21,26,0,79,6,30,22,4,7
+1/1/2018,Monday,January,UA,CLT,ORD,1700,-3,14,10,1820,96,-23,599,Charlotte, NC,Chicago, IL,Partly cloudy,-2,7,N,8,-7,0,25,6,30,-19,48,2,Clear,-17,10,W,13,-26,0,91,6,31,-18,18,1
+6/1/2018,Friday,June,UA,RIC,EWR,915,68,18,9,1040,58,68,277,Richmond, VA,Newark, NJ,Sunny,23,4,W,5,23,0,88,6,30,21,15,6,Moderate or heavy rain shower,20,2,ENE,3,20,0.2,91,4,30,19,100,5
+5/1/2018,Tuesday,May,UA,CLE,DCA,2030,78,13,5,2154,48,60,310,Cleveland, OH,Washington, DC,Clear,19,11,SSW,23,19,0,59,6,30,10,0,1,Clear,22,5,S,11,22,0,37,6,30,7,6,1
+12/1/2018,Saturday,December,UA,DCA,EWR,1945,-4,13,16,2112,35,-27,199,Washington, DC,Newark, NJ,Light rain,5,6,E,8,3,0,88,5,30,3,100,1,Overcast,6,8,ESE,10,3,0,75,6,30,2,100,1
+12/1/2018,Saturday,December,UA,MOB,IAH,1150,41,10,28,1332,77,54,427,Mobile, AL,Houston, TX,Torrential rain shower,21,9,S,16,21,0.5,93,1,30,20,45,5,Sunny,23,8,W,9,23,0,33,6,30,6,2,6
+5/1/2018,Tuesday,May,UA,BWI,EWR,550,-4,13,13,702,42,-8,169,Baltimore, MD,Newark, NJ,Clear,13,6,WNW,10,12,0,60,6,30,5,1,1,Sunny,12,6,WNW,6,11,0,59,6,30,4,0,4
+1/1/2018,Monday,January,UA,EWR,CLT,1333,48,11,6,1537,99,40,529,Newark, NJ,Charlotte, NC,Sunny,-8,13,NW,15,-16,0,46,6,30,-17,8,2,Partly cloudy,-2,7,N,8,-7,0,25,6,30,-19,48,2
+11/1/2018,Thursday,November,UA,DTW,IAH,630,-10,15,12,845,201,23,1075,Detroit, MI,Houston, TX,Moderate rain,9,4,ESE,5,7,0.1,84,4,30,6,100,2,Partly cloudy,15,11,NW,16,13,0,84,6,30,12,47,4
+4/1/2018,Sunday,April,UA,EWR,FLL,1445,0,21,5,1757,143,-23,1065,Newark, NJ,Fort Lauderdale, FL,Cloudy,12,9,NW,12,11,0,58,6,30,4,82,3,Sunny,26,10,E,12,26,0,65,6,30,19,24,7
+11/1/2018,Thursday,November,UA,IAH,CRP,1805,24,22,7,1901,47,44,201,Houston, TX,Corpus Christi, TX,Clear,16,6,NNW,9,16,0,58,6,30,8,0,1,Clear,20,9,NNE,13,20,0,52,6,30,10,3,1
+2/1/2018,Thursday,February,UA,LGA,CLE,630,-10,18,5,829,76,-30,419,New York, NY,Cleveland, OH,Cloudy,2,9,SW,12,-3,0,63,6,30,-5,87,1,Partly cloudy,2,9,SW,18,-3,0,84,6,30,-1,52,2
+11/1/2018,Thursday,November,UA,DCA,IAH,1910,-6,15,5,2146,190,-12,1208,Washington, DC,Houston, TX,Partly cloudy,20,10,S,17,20,0,77,6,30,15,54,1,Clear,16,6,NNW,9,16,0,58,6,30,8,0,1
+2/1/2018,Thursday,February,UA,MCI,IAH,1115,-5,7,8,1331,110,-16,643,Kansas City, MO,Houston, TX,Moderate snow,1,13,N,17,-5,0,60,3,30,-6,100,1,Overcast,21,11,SW,16,21,0,76,6,30,16,95,5
+5/1/2018,Tuesday,May,UA,IAH,MKE,2000,-9,14,9,2250,127,-29,984,Houston, TX,Milwaukee, WI,Light rain shower,25,11,SE,15,25,0,78,6,30,21,100,1,Clear,21,8,SW,16,21,0,64,6,30,14,22,1
+11/1/2018,Thursday,November,UA,IAH,TUS,945,27,25,9,1029,137,34,936,Houston, TX,Tucson, AZ,Partly cloudy,15,11,NW,16,13,0,84,6,30,12,47,4,Sunny,10,5,SE,10,10,0,52,6,30,0,13,3
+3/1/2018,Thursday,March,UA,GUM,SPN,2030,-16,4,3,2120,37,-22,129,Guam, TT,Saipan, TT,Clear,24,6,ENE,10,24,0,74,6,30,19,6,1,Patchy rain possible,29,15,ENE,20,29,0,79,5,30,25,44,1
+1/1/2018,Monday,January,UA,CLT,EWR,1613,95,16,11,1808,69,76,529,Charlotte, NC,Newark, NJ,Partly cloudy,-2,7,N,8,-7,0,25,6,30,-19,48,2,Cloudy,-8,9,W,12,-14,0,56,6,30,-15,66,1
+8/1/2018,Wednesday,August,UA,LAX,IAH,1455,1,22,3,2011,180,10,1379,Los Angeles, CA,Houston, TX,Sunny,33,8,SW,9,33,0,32,6,30,15,6,8,Clear,33,7,N,11,33,0,41,6,30,18,18,1
+4/1/2018,Sunday,April,UA,EWR,MYR,1043,-7,16,6,1242,81,-23,550,Newark, NJ,Myrtle Beach, SC,Overcast,8,9,SW,15,6,0,58,6,30,1,96,2,Sunny,22,5,SSW,6,22,0,51,6,30,11,2,6
+2/1/2018,Thursday,February,UA,ORD,LIT,1922,14,24,5,2120,91,16,552,Chicago, IL,Little Rock, AR,Clear,-10,16,NW,19,-19,0,43,6,30,-20,3,1,Clear,6,4,NNE,9,3,0,71,6,30,1,21,1
+4/1/2018,Sunday,April,UA,IAH,TPA,2010,-8,23,6,2320,98,-11,787,Houston, TX,Tampa, FL,Cloudy,23,9,SSE,14,23,0,74,6,30,18,71,1,Clear,23,6,N,9,23,0,73,6,30,18,22,1
+12/1/2018,Saturday,December,UA,IAH,ECP,1955,25,22,3,2133,75,27,572,Houston, TX,Panama City, FL,Clear,23,3,WSW,4,23,0,47,6,30,11,0,1,Moderate or heavy rain shower,23,15,SSW,29,23,0.2,88,4,30,20,33,1
+10/1/2018,Monday,October,UA,BHM,IAH,1417,-4,24,10,1614,129,42,562,Birmingham, AL,Houston, TX,Sunny,29,6,SE,7,29,0,62,6,30,21,24,7,Moderate or heavy rain shower,29,5,ESE,6,29,0.3,72,4,30,23,49,6
+6/1/2018,Friday,June,UA,IAH,CRW,1435,-8,16,10,1812,135,-4,975,Houston, TX,Charleston/Dunbar, WV,Sunny,34,7,SSW,9,34,0,49,6,30,22,0,8,Moderate or heavy rain shower,22,3,WSW,5,22,0.1,97,4,30,21,73,1
+10/1/2018,Monday,October,UA,EWR,RIC,2000,-4,30,10,2130,52,-2,277,Newark, NJ,Richmond, VA,Partly cloudy,23,3,SSW,5,23,0,75,6,30,19,40,1,Clear,23,5,S,10,23,0,75,6,30,18,11,1
+5/1/2019,Wednesday,May,UA,IAH,BNA,2000,-2,18,7,2154,85,-6,657,Houston, TX,Nashville, TN,Light rain shower,25,17,SSE,21,25,0,82,6,30,22,100,1,Clear,24,10,SSW,14,24,0,72,6,30,19,8,1
+10/1/2019,Tuesday,October,UA,PBG,IAD,930,63,6,6,1113,66,38,444,Plattsburgh, NY,Washington, DC,Mist,13,17,SSE,24,12,0,96,1,30,12,100,3,Partly cloudy,20,4,SSE,5,20,0,78,6,30,16,45,5
+7/1/2019,Monday,July,UA,EAR,DEN,1610,110,44,7,1629,51,133,305,Kearney, NE,Denver, CO,Sunny,30,13,SSW,15,30,0,60,6,30,21,3,7,Sunny,28,3,E,4,28,0,34,6,30,11,3,7
+1/1/2019,Tuesday,January,UA,ORD,AVL,645,33,42,3,935,77,45,536,Chicago, IL,Asheville, NC,Heavy snow,-1,12,NNW,19,-7,0,84,1,30,-3,100,1,Partly cloudy,14,5,WNW,5,14,0,93,6,30,13,34,4
+4/29/2019,Monday,April,UA,BGR,EWR,600,-10,14,24,759,78,-13,393,Bangor, ME,Newark, NJ,Sunny,3,8,WNW,13,-1,0,51,6,30,-6,0,2,Sunny,8,4,NNE,5,7,0,53,6,30,-1,8,3
+11/1/2019,Friday,November,UA,IAH,BOS,955,-5,27,4,1426,179,-6,1597,Houston, TX,Boston, MA,Sunny,7,6,ENE,7,5,0,56,6,30,-1,0,3,Sunny,13,19,WSW,22,10,0,38,6,30,-1,0,4
+11/1/2019,Friday,November,UA,MSY,IAH,520,-3,12,7,640,54,-10,305,New Orleans, LA,Houston, TX,Clear,8,14,NNE,21,4,0,66,6,30,2,0,1,Sunny,7,6,ENE,7,5,0,56,6,30,-1,0,3
+6/1/2019,Saturday,June,UA,EWR,DEN,1659,-5,44,6,1925,225,4,1605,Newark, NJ,Denver, CO,Sunny,27,4,SW,4,27,0,43,6,30,14,10,7,Patchy rain possible,20,5,ESE,6,20,0,48,5,30,8,9,1
+8/1/2019,Thursday,August,UA,CLT,EWR,700,1315,16,6,857,71,1291,529,Charlotte, NC,Newark, NJ,Sunny,22,1,WSW,1,22,0,89,6,30,21,12,6,Patchy rain possible,25,6,N,8,25,0.1,67,5,30,18,8,5
+8/1/2019,Thursday,August,UA,MCO,IAH,1525,-7,48,8,1656,117,15,854,Orlando, FL,Houston, TX,Torrential rain shower,34,4,ESE,4,34,0.3,46,1,30,21,50,7,Patchy rain possible,34,3,ESE,3,34,0.1,52,5,30,22,19,7
+5/1/2019,Wednesday,May,UA,CVG,IAH,1500,-2,13,13,1655,139,-12,871,Cincinnati, OH,Houston, TX,Partly cloudy,26,16,SSW,22,26,0,57,6,30,17,39,7,Sunny,30,16,SSE,19,30,0,58,6,30,21,12,8
+1/1/2019,Tuesday,January,UA,DEN,SGU,1855,10,35,7,2050,72,9,517,Denver, CO,St. George, UT,Clear,-15,2,NE,3,-20,0,92,6,30,-16,17,1,Cloudy,11,13,N,18,9,0,77,6,31,7,81,1
+6/1/2019,Saturday,June,UA,IAH,LAS,800,-8,14,6,920,163,-25,1222,Houston, TX,Las Vegas, NV,Sunny,26,2,WSW,2,26,0,88,6,30,24,17,7,Sunny,25,1,WSW,2,25,0,26,6,30,4,3,6
+11/1/2019,Friday,November,UA,EWR,PDX,830,0,26,4,1151,332,-19,2434,Newark, NJ,Portland, OR,Sunny,8,22,W,25,4,0.1,58,6,30,0,0,3,Sunny,4,4,NNE,5,3,0,57,6,30,-3,3,2
+4/29/2019,Monday,April,UA,IAH,HSV,2020,-4,17,6,2205,79,-7,595,Houston, TX,Huntsville, AL,Partly cloudy,26,14,SE,16,26,0,76,6,30,21,48,1,Clear,22,7,SSW,14,22,0,67,6,30,16,20,1
+1/1/2019,Tuesday,January,UA,CMX,ORD,1310,11,19,17,1355,68,10,360,Hancock/Houghton, MI,Chicago, IL,Light snow,-10,14,NNW,11,-15,0,75,6,30,-14,82,1,Moderate snow,-1,13,N,15,-6,0,81,3,30,-4,100,1
+7/1/2019,Monday,July,UA,CGI,ORD,1211,-7,12,36,1355,62,-1,339,Cape Girardeau, MO,Chicago, IL,Moderate or heavy rain shower,31,4,SSW,5,31,0.1,60,4,30,22,16,7,Sunny,26,9,W,17,26,0,74,6,30,20,10,7
+5/1/2019,Wednesday,May,UA,OKC,IAH,710,-9,13,4,841,63,-20,395,Oklahoma City, OK,Houston, TX,Moderate or heavy rain shower,14,7,ESE,13,13,0.1,95,4,30,13,91,3,Cloudy,23,12,SSE,18,23,0,91,6,30,21,82,5
+6/1/2019,Saturday,June,UA,MCO,IAH,1545,-8,11,7,1720,122,-23,854,Orlando, FL,Houston, TX,Light rain shower,35,9,WSW,11,35,0.1,38,6,30,18,68,7,Sunny,35,4,ESE,4,35,0,48,6,30,22,14,8
+9/1/2019,Sunday,September,UA,IAH,BTR,935,-7,17,4,1047,41,-17,253,Houston, TX,Baton Rouge, LA,Sunny,27,2,ESE,2,27,0,81,6,30,24,6,7,Partly cloudy,24,5,NE,9,24,0,87,6,30,21,29,6
+2/1/2019,Friday,February,UA,CLT,ORD,730,40,34,47,850,106,87,599,Charlotte, NC,Chicago, IL,Partly cloudy,-3,5,SSW,8,-4,0,75,6,30,-5,5,2,Heavy snow,-15,5,SE,6,-19,0,75,1,30,-17,100,1
+7/1/2019,Monday,July,UA,PBG,IAD,930,-9,11,3,1114,72,-27,444,Plattsburgh, NY,Washington, DC,Partly cloudy,17,2,SSE,5,17,0,92,6,30,16,34,5,Sunny,23,6,NNW,8,23,0,61,6,30,15,0,6
+4/29/2019,Monday,April,UA,BTV,EWR,1800,-10,35,8,1938,54,-11,266,Burlington, VT,Newark, NJ,Cloudy,4,2,E,4,4,0,46,6,30,-7,84,1,Partly cloudy,11,9,SE,11,9,0,55,6,30,2,49,1
+2/1/2019,Friday,February,UA,DTW,IAH,825,-2,13,8,1101,150,-47,1075,Detroit, MI,Houston, TX,Cloudy,-23,3,SW,1,-27,0,75,6,30,-25,84,1,Fog,11,6,E,11,12,0,91,0,30,10,100,3
+9/1/2019,Sunday,September,UA,IAH,RNO,2042,16,16,6,2243,202,-1,1530,Houston, TX,Reno, NV,Clear,32,8,E,10,32,0,55,6,30,22,5,1,Clear,17,14,WSW,18,17,0,29,6,30,-1,0,1
+8/1/2019,Thursday,August,UA,EWR,DEN,1659,57,34,16,1925,230,71,1605,Newark, NJ,Denver, CO,Partly cloudy,31,5,NNE,6,31,0,44,6,30,17,30,8,Light rain shower,21,8,ENE,10,21,0.1,65,6,30,14,49,1
+6/1/2019,Saturday,June,UA,SNA,DEN,1300,-8,24,20,1616,111,11,846,Santa Ana, CA,Denver, CO,Sunny,20,9,SSW,11,20,0,60,6,30,13,0,6,Sunny,22,7,ESE,9,22,0,33,6,30,5,8,6
+9/1/2019,Sunday,September,UA,GRR,ORD,913,-15,17,21,920,39,-5,137,Grand Rapids, MI,Chicago, IL,Light rain,13,9,SE,15,11,0.1,95,5,30,12,100,3,Patchy light rain,18,11,ESE,14,18,0.1,80,5,30,14,74,4
+8/1/2019,Thursday,August,UA,LGA,DEN,755,1,16,9,1005,220,-4,1620,New York, NY,Denver, CO,Patchy rain possible,25,8,N,10,25,0.1,66,5,30,18,7,5,Patchy rain possible,19,2,SSE,2,19,0,71,5,30,13,6,4
+5/1/2019,Wednesday,May,UA,ABQ,IAH,800,49,11,6,1111,97,32,744,Albuquerque, NM,Houston, TX,Sunny,7,4,WNW,8,6,0,50,6,30,-2,3,3,Cloudy,23,12,SSE,18,23,0,91,6,30,21,82,5
+5/1/2019,Wednesday,May,UA,GSP,IAH,1630,-5,14,24,1814,132,1,837,Greer, SC,Houston, TX,Sunny,25,7,SSW,8,25,0,64,6,30,18,18,7,Light rain shower,25,17,SSE,21,25,0,82,6,30,22,100,1
+6/1/2019,Saturday,June,UA,CLT,EWR,710,0,27,13,859,75,6,529,Charlotte, NC,Newark, NJ,Sunny,20,5,NNW,6,20,0,69,6,30,14,5,5,Sunny,21,3,WSW,3,21,0,62,6,30,14,10,6
+10/1/2019,Tuesday,October,UA,EAR,DEN,1610,-10,26,7,1632,63,4,305,Kearney, NE,Denver, CO,Heavy rain,18,17,SSW,31,18,0.9,97,3,30,18,100,4,Sunny,15,4,ENE,5,15,0,52,6,30,5,9,4
+7/1/2019,Monday,July,UA,DEN,BFF,1355,-8,17,3,1453,27,-19,150,Denver, CO,Scottsbluff, NE,Sunny,28,3,E,4,28,0,34,6,30,11,3,7,Sunny,24,5,NNE,6,24,0,56,6,30,15,17,6
+2/1/2019,Friday,February,UA,IAH,BOI,1620,0,13,3,1925,191,-38,1482,Houston, TX,Boise, ID,Light drizzle,18,6,ENE,12,19,0,74,1,30,14,90,4,Partly cloudy,28,5,W,8,28,0,64,6,30,20,22,1
+2/1/2019,Friday,February,UA,LGA,IAH,1229,-1,16,8,1555,202,-41,1416,New York, NY,Houston, TX,Overcast,-8,8,W,7,-12,0,44,6,30,-17,97,1,Light drizzle,18,6,ENE,12,19,0,74,1,30,14,90,4
+11/1/2019,Friday,November,UA,LAS,EWR,730,-2,23,6,1514,249,-8,2227,Las Vegas, NV,Newark, NJ,Sunny,8,1,NW,2,8,0,9,6,30,-23,0,3,Sunny,12,16,W,19,9,0,46,6,30,0,0,4
+1/1/2019,Tuesday,January,UA,LAX,SGU,1620,-9,18,5,1843,65,-4,349,Los Angeles, CA,St. George, UT,Sunny,16,7,NE,4,16,0,12,6,30,-14,0,5,Cloudy,11,13,N,18,9,0,77,6,31,7,81,1
+11/1/2019,Friday,November,UA,EWR,DEN,1700,51,19,6,1926,228,38,1605,Newark, NJ,Denver, CO,Sunny,12,16,W,19,9,0,46,6,30,0,0,4,Clear,-1,4,SSW,6,-3,0,79,6,31,-4,19,1
+9/1/2019,Sunday,September,UA,ORD,LEX,2105,-5,24,5,2332,53,-10,323,Chicago, IL,Lexington, KY,Overcast,21,4,E,5,21,0,79,6,30,17,93,1,Patchy rain possible,23,7,SW,10,23,0,81,5,30,20,15,1
+4/29/2019,Monday,April,UA,BTR,IAH,1205,4,31,10,1325,59,24,253,Baton Rouge, LA,Houston, TX,Cloudy,30,8,SSE,9,30,0,56,6,30,20,85,6,Light rain shower,29,13,SSE,16,29,0,62,6,30,21,64,6
+8/1/2019,Thursday,August,UA,BOS,IAH,2020,23,24,6,2321,200,12,1597,Boston, MA,Houston, TX,Clear,27,4,ESE,5,27,0,46,6,30,14,9,1,Clear,31,9,SE,10,31,0,65,6,30,24,7,1
+1/1/2019,Tuesday,January,UA,ORD,FWA,1635,246,53,4,1846,32,264,157,Chicago, IL,Fort Wayne, IN,Moderate snow,-1,13,N,15,-6,0,81,3,30,-4,100,1,Partly cloudy,1,9,NNW,11,-2,0,74,6,30,-3,62,1
+10/1/2019,Tuesday,October,UA,ORD,SHD,1535,-9,21,4,1831,85,-15,541,Chicago, IL,Staunton, VA,Light rain shower,26,12,SW,19,26,0,73,6,30,20,51,6,Patchy rain possible,22,7,SSW,9,22,0,81,5,30,18,30,1
+9/1/2019,Sunday,September,UA,CLE,IAH,646,1,21,6,852,155,-3,1091,Cleveland, OH,Houston, TX,Partly cloudy,17,7,ESE,10,17,0,67,6,30,11,39,5,Sunny,27,2,ESE,2,27,0,81,6,30,24,6,7
+1/1/2018,Monday,January,VX,HNL,LAX,2230,-3,26,6,607,298,-10,2556,Honolulu, HI,Los Angeles, CA,Light rain shower,22,6,ENE,8,22,0,76,6,30,17,63,1,Sunny,15,1,NE,1,15,0,51,6,30,5,8,5
+2/1/2018,Thursday,February,VX,JFK,SFO,730,-6,19,8,1105,369,-5,2586,New York, NY,San Francisco, CA,Cloudy,2,9,SW,12,-3,0,63,6,30,-5,87,1,Partly cloudy,12,4,NNE,7,12,0,70,6,30,7,32,4
+1/1/2018,Monday,January,VX,HNL,SFO,1520,-9,17,7,2232,291,-6,2398,Honolulu, HI,San Francisco, CA,Sunny,24,7,E,8,24,0,66,6,30,17,24,6,Clear,14,2,NE,4,15,0,69,6,30,9,8,1
+2/1/2018,Thursday,February,VX,SFO,DCA,800,-2,17,6,1605,265,-19,2442,San Francisco, CA,Washington, DC,Partly cloudy,12,4,NNE,7,12,0,70,6,30,7,32,4,Partly cloudy,11,7,SSW,9,9,0,45,6,30,-1,53,4
+3/1/2018,Thursday,March,VX,SFO,KOA,1130,-4,30,6,1515,315,2,2367,San Francisco, CA,Kona, HI,Moderate rain,11,20,SSW,31,8,0.2,94,4,30,11,100,3,Sunny,25,13,NW,18,25,0,74,6,30,20,17,7
+3/1/2018,Thursday,March,VX,LAX,PHL,2052,-3,16,4,509,258,-42,2402,Los Angeles, CA,Philadelphia, PA,Clear,13,5,WSW,6,13,0,64,6,30,7,25,1,Clear,10,4,SW,7,9,0,72,6,30,5,14,1
+3/1/2018,Thursday,March,VX,JFK,SFO,1859,79,48,28,2253,373,114,2586,New York, NY,San Francisco, CA,Light drizzle,9,9,ESE,15,7,0,76,1,30,5,97,1,Patchy rain possible,11,22,SSW,34,7,0,79,5,30,7,25,1
+3/1/2018,Thursday,March,VX,JFK,SFO,1645,188,47,5,2035,369,199,2586,New York, NY,San Francisco, CA,Partly cloudy,12,4,ENE,7,11,0,65,6,30,6,47,4,Patchy rain possible,11,22,SSW,34,7,0,79,5,30,7,25,1
+2/1/2018,Thursday,February,VX,SFO,JFK,700,-8,13,8,1534,271,-50,2586,San Francisco, CA,New York, NY,Partly cloudy,12,4,NNE,7,12,0,70,6,30,7,32,4,Partly cloudy,5,5,SW,6,2,0,55,6,30,-3,47,3
+3/1/2018,Thursday,March,VX,SFO,JFK,2314,81,20,8,744,286,65,2586,San Francisco, CA,New York, NY,Patchy rain possible,11,22,SSW,34,7,0,79,5,30,7,25,1,Sunny,9,2,WSW,4,8,0,81,6,30,6,8,3
+1/1/2018,Monday,January,VX,LAX,HNL,1000,3,23,4,1415,320,-25,2556,Los Angeles, CA,Honolulu, HI,Sunny,15,1,NE,1,15,0,51,6,30,5,8,5,Sunny,24,7,E,8,24,0,66,6,30,17,24,6
+1/1/2018,Monday,January,VX,SFO,HNL,1730,-12,21,6,2126,295,-46,2398,San Francisco, CA,Honolulu, HI,Sunny,18,4,NE,5,18,0,64,6,30,11,2,5,Light rain shower,22,6,ENE,8,22,0,76,6,30,17,63,1
+2/1/2018,Thursday,February,VX,DCA,SFO,1711,-10,16,5,2028,351,-15,2442,Washington, DC,San Francisco, CA,Partly cloudy,11,7,SSW,9,9,0,45,6,30,-1,53,4,Clear,16,5,NW,10,16,0,70,6,30,11,8,1
+2/1/2018,Thursday,February,VX,SFO,EWR,940,-4,21,7,1810,278,-28,2565,San Francisco, CA,Newark, NJ,Partly cloudy,12,4,NNE,7,12,0,70,6,30,7,32,4,Light drizzle,4,2,S,4,2,0,72,1,30,-1,86,1
+1/1/2018,Monday,January,VX,LAX,EWR,1355,-7,13,10,2203,281,-11,2454,Los Angeles, CA,Newark, NJ,Partly cloudy,23,5,SSW,5,23,0,29,6,30,4,32,6,Cloudy,-8,9,W,12,-14,0,56,6,30,-15,66,1
+5/1/2018,Tuesday,May,WN,ATL,DTW,1555,2,13,7,1750,86,-7,594,Atlanta, GA,Detroit, MI,Sunny,28,4,S,5,28,0,33,6,30,10,7,7,Sunny,23,13,SW,21,23,0,38,6,30,7,0,6
+10/1/2018,Monday,October,WN,MDW,DEN,1015,1,8,6,1145,131,-4,895,Chicago, IL,Denver, CO,Light rain,14,6,ENE,8,12,0,89,5,30,12,100,3,Sunny,8,2,SW,4,8,0,76,6,30,4,6,3
+3/1/2018,Thursday,March,WN,LAX,OAK,755,11,13,5,915,65,14,337,Los Angeles, CA,Oakland, CA,Sunny,11,2,E,2,11,0,64,6,30,4,8,4,Moderate rain,11,17,SSW,27,8,0.2,92,4,30,10,100,3
+2/1/2018,Thursday,February,WN,AMA,DAL,1010,22,10,3,1120,49,14,323,Amarillo, TX,Dallas, TX,Sunny,2,14,NNE,19,-3,0,58,6,30,-5,4,2,Sunny,13,6,SSW,9,11,0,69,6,30,8,0,4
+7/1/2018,Sunday,July,WN,ABQ,AUS,1025,11,9,4,1305,84,8,619,Albuquerque, NM,Austin, TX,Sunny,18,2,SSE,3,18,0,22,6,30,-4,19,5,Sunny,36,11,S,12,36,0,36,6,30,19,0,9
+7/1/2018,Sunday,July,WN,ABQ,AUS,1700,0,9,3,1940,88,0,619,Albuquerque, NM,Austin, TX,Sunny,27,2,NE,3,27,0,26,6,30,6,10,7,Clear,35,12,SSE,16,35,0,37,6,30,18,0,1
+2/1/2018,Thursday,February,WN,ABQ,BWI,850,-5,8,5,1430,181,-31,1670,Albuquerque, NM,Baltimore, MD,Sunny,8,2,W,5,7,0,36,6,30,-7,0,3,Cloudy,9,6,SSW,9,6,0,52,6,30,-1,63,2
+12/1/2018,Saturday,December,WN,ATL,BNA,1345,1,12,4,1350,43,-5,214,Atlanta, GA,Nashville, TN,Moderate rain,14,4,E,6,13,0.2,96,4,30,13,100,3,Moderate or heavy rain shower,17,15,SSE,19,17,0.1,82,4,30,14,99,4
+11/1/2018,Thursday,November,WN,HRL,HOU,1215,24,21,3,1320,48,31,277,Harlingen/San Benito, TX,Houston, TX,Patchy rain possible,23,13,N,15,23,0,50,5,30,12,13,5,Sunny,17,9,NNW,10,17,0,63,6,30,10,10,5
+10/1/2018,Monday,October,WN,MDW,DEN,1530,-7,12,4,1705,130,-16,895,Chicago, IL,Denver, CO,Light drizzle,17,3,SE,4,17,0,81,1,30,13,100,4,Sunny,20,4,E,4,20,0,33,6,30,3,19,6
+6/1/2018,Friday,June,WN,ABQ,SAN,1625,-3,10,2,1715,91,-10,628,Albuquerque, NM,San Diego, CA,Sunny,24,9,W,11,24,0,7,6,30,-13,0,6,Sunny,20,10,W,12,20,0,63,6,30,12,0,5
+1/1/2018,Monday,January,WN,GEG,DEN,1345,0,10,14,1655,103,-3,836,Spokane, WA,Denver, CO,Partly cloudy,-5,6,NE,7,-9,0,85,6,31,-7,38,2,Sunny,-4,3,NE,4,-8,0,45,6,30,-14,23,2
+1/1/2018,Monday,January,WN,FLL,ATL,1250,-1,20,3,1445,86,-7,581,Fort Lauderdale, FL,Atlanta, GA,Sunny,24,5,WSW,6,24,0,50,6,30,13,12,6,Cloudy,0,7,NNW,8,-4,0,35,6,31,-14,77,1
+5/1/2018,Tuesday,May,WN,ATL,AUS,2000,-3,16,5,2130,117,-15,813,Atlanta, GA,Austin, TX,Clear,23,4,S,7,23,0,53,6,30,13,20,1,Light drizzle,23,11,SE,17,23,0,92,1,30,22,100,1
+7/1/2018,Sunday,July,WN,ABQ,BWI,1610,-1,9,5,2155,217,5,1670,Albuquerque, NM,Baltimore, MD,Sunny,27,2,NE,3,27,0,26,6,30,6,10,7,Clear,31,7,S,11,31,0,65,6,30,24,2,1
+6/1/2018,Friday,June,WN,ABQ,BWI,1555,11,7,3,2135,244,45,1670,Albuquerque, NM,Baltimore, MD,Sunny,24,9,W,11,24,0,7,6,30,-13,0,6,Partly cloudy,27,5,SE,8,27,0,76,6,30,23,27,1
+8/1/2018,Wednesday,August,WN,PHX,SLC,1505,2,7,7,1730,71,2,507,Phoenix, AZ,Salt Lake City, UT,Sunny,39,2,ESE,2,39,0,31,6,30,18,3,9,Sunny,29,2,S,3,29,0,26,6,30,7,14,7
+7/1/2018,Sunday,July,WN,ABQ,PHX,710,-2,7,6,725,54,-10,328,Albuquerque, NM,Phoenix, AZ,Sunny,18,2,SSE,3,18,0,22,6,30,-4,19,5,Sunny,32,7,SSE,9,32,0,19,6,30,5,0,8
+2/1/2018,Thursday,February,WN,ATL,DTW,1525,-6,19,5,1730,90,-17,594,Atlanta, GA,Detroit, MI,Patchy light drizzle,10,9,SW,12,8,0,78,3,30,6,59,2,Overcast,0,13,W,17,-6,0,67,6,30,-5,100,1
+10/1/2018,Monday,October,WN,MDW,DEN,2055,-1,9,4,2225,139,1,895,Chicago, IL,Denver, CO,Light rain shower,20,6,ENE,13,20,0,86,6,30,17,61,1,Clear,21,5,NNW,8,21,0,38,6,30,6,22,1
+9/1/2018,Saturday,September,WN,MCO,MSY,1220,7,9,7,1305,82,0,551,Orlando, FL,New Orleans, LA,Moderate or heavy rain shower,32,8,E,9,32,0.1,54,4,30,22,51,7,Patchy rain possible,30,9,ESE,10,30,0,64,5,30,23,36,7
+1/1/2018,Monday,January,WN,EWR,IND,2015,44,27,6,2235,97,34,645,Newark, NJ,Indianapolis, IN,Cloudy,-8,9,W,12,-14,0,56,6,30,-15,66,1,Mist,-22,6,WNW,12,-30,0,95,1,31,-22,46,1
+5/1/2018,Tuesday,May,WN,ATL,DTW,825,-4,20,7,1025,88,-9,594,Atlanta, GA,Detroit, MI,Sunny,15,3,SSE,3,15,0,64,6,30,8,9,4,Sunny,12,7,SW,15,11,0,56,6,30,4,17,4
+4/1/2018,Sunday,April,WN,ABQ,MDW,820,-3,9,5,1200,128,-21,1121,Albuquerque, NM,Chicago, IL,Overcast,13,8,WSW,15,12,0,28,6,30,-5,94,3,Overcast,0,4,W,5,-2,0,34,6,30,-13,100,1
+11/1/2018,Thursday,November,WN,HOU,OKC,1725,5,9,3,1845,58,-5,419,Houston, TX,Oklahoma City, OK,Sunny,17,9,NNW,10,17,0,63,6,30,10,10,5,Partly cloudy,13,1,W,2,13,0,60,6,30,5,30,1
+5/1/2018,Tuesday,May,WN,ATL,AUS,820,-1,21,5,950,115,-10,813,Atlanta, GA,Austin, TX,Sunny,15,3,SSE,3,15,0,64,6,30,8,9,4,Overcast,20,9,SSE,14,20,0,95,6,30,19,91,4
+9/1/2018,Saturday,September,WN,MCO,OAK,1440,0,8,6,1725,306,-25,2438,Orlando, FL,Oakland, CA,Moderate or heavy rain shower,32,8,E,9,32,0.1,54,4,30,22,51,7,Sunny,24,7,WSW,8,24,0,56,6,30,15,0,6
+11/1/2018,Thursday,November,WN,HOU,TUL,1620,1,26,5,1745,62,9,453,Houston, TX,Tulsa, OK,Sunny,17,9,NNW,10,17,0,63,6,30,10,10,5,Patchy light rain,11,4,N,5,10,0,65,5,30,5,38,3
+11/1/2018,Thursday,November,WN,HOU,TUL,1950,-7,7,4,2115,66,-15,453,Houston, TX,Tulsa, OK,Clear,16,6,NNW,9,16,0,58,6,30,8,0,1,Clear,10,6,SE,13,9,0,71,6,30,5,21,1
+1/1/2018,Monday,January,WN,FLL,AUS,1420,54,26,2,1630,164,56,1105,Fort Lauderdale, FL,Austin, TX,Sunny,24,5,WSW,6,24,0,50,6,30,13,12,6,Partly cloudy,0,11,N,13,-6,0,30,6,31,-16,33,2
+6/1/2018,Friday,June,WN,ABQ,SAN,935,-4,8,6,1025,91,-9,628,Albuquerque, NM,San Diego, CA,Sunny,16,6,WNW,12,16,0,14,6,30,-12,2,5,Sunny,19,3,WSW,3,19,0,70,6,30,13,0,5
+11/1/2018,Thursday,November,WN,HRL,AUS,1730,-5,9,3,1840,42,-21,273,Harlingen/San Benito, TX,Austin, TX,Patchy rain possible,23,13,N,15,23,0,50,5,30,12,13,5,Clear,14,6,N,11,13,0,60,6,30,6,22,1
+4/1/2018,Sunday,April,WN,ABQ,PHX,1505,-1,13,4,1520,53,-6,328,Albuquerque, NM,Phoenix, AZ,Sunny,18,12,W,14,18,0,18,6,30,-7,8,5,Sunny,27,6,SE,7,28,0,12,6,30,-4,6,7
+1/1/2018,Monday,January,WN,FLL,ATL,2035,37,24,6,2230,82,34,581,Fort Lauderdale, FL,Atlanta, GA,Partly cloudy,22,8,NNW,11,22,0,68,6,30,16,27,1,Clear,-3,8,NNW,9,-8,0,35,6,31,-16,2,1
+10/1/2018,Monday,October,WN,MDW,DTW,1720,-8,39,5,1930,41,7,228,Chicago, IL,Detroit, MI,Light drizzle,17,3,SE,4,17,0,81,1,30,13,100,4,Cloudy,15,8,E,12,14,0,95,6,30,14,86,1
+9/1/2018,Saturday,September,WN,MCI,DEN,1205,-4,11,28,1250,77,7,533,Kansas City, MO,Denver, CO,Patchy light rain with thunder,31,10,SSW,11,31,0.1,64,6,30,23,5,7,Sunny,27,3,NNE,3,27,0,19,6,30,1,10,7
+8/1/2018,Wednesday,August,WN,PHX,SAN,640,4,6,3,750,49,-8,304,Phoenix, AZ,San Diego, CA,Sunny,35,5,W,6,35,0,33,6,30,16,4,9,Partly cloudy,24,5,NW,6,24,0,74,6,30,19,25,6
+2/1/2018,Thursday,February,WN,AMA,DAL,1535,-4,8,3,1645,53,-10,323,Amarillo, TX,Dallas, TX,Sunny,6,12,NE,14,3,0,40,6,30,-6,11,3,Sunny,14,13,N,15,13,0,54,6,30,5,0,4
+4/1/2018,Sunday,April,WN,ABQ,MDW,1515,11,9,8,1855,130,-2,1121,Albuquerque, NM,Chicago, IL,Sunny,18,12,W,14,18,0,18,6,30,-7,8,5,Overcast,0,4,WSW,5,-2,0,35,6,30,-13,100,1
+2/1/2018,Thursday,February,WN,AMA,DAL,545,1,9,5,700,43,-17,323,Amarillo, TX,Dallas, TX,Clear,8,15,NE,21,5,0,50,6,30,-2,0,1,Sunny,13,6,SSW,9,11,0,69,6,30,8,0,4
+7/1/2018,Sunday,July,WN,ABQ,AUS,1345,-4,9,5,1625,83,-7,619,Albuquerque, NM,Austin, TX,Sunny,27,2,NE,3,27,0,26,6,30,6,10,7,Sunny,36,11,S,12,36,0,36,6,30,19,0,9
+12/1/2018,Saturday,December,WN,ABQ,LAS,805,0,16,3,840,81,5,486,Albuquerque, NM,Las Vegas, NV,Sunny,2,11,WNW,20,-4,0,64,6,30,-4,9,2,Sunny,6,4,SE,7,5,0,63,6,30,-1,4,3
+6/1/2018,Friday,June,WN,ABQ,AUS,1215,-4,12,3,1500,79,-15,619,Albuquerque, NM,Austin, TX,Sunny,24,9,W,11,24,0,7,6,30,-13,0,6,Sunny,33,11,S,13,33,0,52,6,30,22,0,8
+3/1/2018,Thursday,March,WN,LAS,SAT,1240,7,8,4,1715,127,-9,1069,Las Vegas, NV,San Antonio, TX,Sunny,13,19,S,22,11,0,26,6,30,-6,3,4,Sunny,22,8,NNW,9,22,0,36,6,30,6,11,6
+5/1/2018,Tuesday,May,WN,AMA,LAS,1435,-6,11,7,1445,118,0,758,Amarillo, TX,Las Vegas, NV,Sunny,27,21,SW,24,27,0,27,6,30,6,7,7,Light rain shower,20,8,SSE,10,20,0,32,6,30,2,45,4
+3/1/2018,Thursday,March,WN,LAS,RNO,1645,31,10,4,1805,61,26,345,Las Vegas, NV,Reno, NV,Sunny,13,19,S,22,11,0,26,6,30,-6,3,4,Patchy heavy snow,2,14,SSW,23,-4,0,82,3,30,-1,46,1
+8/1/2018,Wednesday,August,WN,PHX,SAN,1355,43,23,2,1505,45,43,304,Phoenix, AZ,San Diego, CA,Sunny,39,2,ESE,2,39,0,31,6,30,18,3,9,Patchy rain possible,27,10,WNW,12,27,0,64,5,30,20,11,6
+9/1/2018,Saturday,September,WN,MCO,ATL,1820,-4,12,8,1950,63,-11,404,Orlando, FL,Atlanta, GA,Patchy rain possible,28,8,E,11,28,0.1,67,5,30,22,8,1,Partly cloudy,29,3,E,5,29,0,60,6,30,20,27,1
+8/1/2018,Wednesday,August,WN,PHX,SAN,550,25,9,2,705,45,6,304,Phoenix, AZ,San Diego, CA,Clear,39,4,NNW,4,39,0,23,6,30,14,5,1,Partly cloudy,24,5,NW,6,24,0,74,6,30,19,25,6
+6/1/2018,Friday,June,WN,ABQ,BWI,835,-2,8,5,1415,194,-15,1670,Albuquerque, NM,Baltimore, MD,Sunny,16,6,WNW,12,16,0,14,6,30,-12,2,5,Partly cloudy,30,4,ESE,4,30,0,64,6,30,22,33,8
+8/1/2018,Wednesday,August,WN,PHX,SAN,1140,-2,9,2,1250,47,-14,304,Phoenix, AZ,San Diego, CA,Sunny,35,5,W,6,35,0,33,6,30,16,4,9,Patchy rain possible,27,10,WNW,12,27,0,64,5,30,20,11,6
+10/1/2018,Monday,October,WN,MDW,DEN,1215,8,10,5,1350,126,-6,895,Chicago, IL,Denver, CO,Light drizzle,17,3,SE,4,17,0,81,1,30,13,100,4,Sunny,20,4,E,4,20,0,33,6,30,3,19,6
+9/1/2018,Saturday,September,WN,MCO,MSY,905,-1,12,4,945,89,4,551,Orlando, FL,New Orleans, LA,Patchy rain possible,26,4,E,5,26,0.1,85,5,30,24,9,6,Light rain shower,27,6,E,9,27,0,80,6,30,23,100,6
+8/1/2019,Thursday,August,WN,ABQ,PHX,600,-4,10,4,615,51,-14,328,Albuquerque, NM,Phoenix, AZ,Sunny,20,1,ESE,2,20,0,56,6,30,10,7,5,Patchy rain possible,32,4,WNW,5,32,0.1,48,5,30,20,20,7
+7/1/2019,Monday,July,WN,MCO,BWI,1020,2,18,4,1235,103,-8,787,Orlando, FL,Baltimore, MD,Sunny,27,6,WNW,8,27,0,84,6,30,24,8,7,Sunny,29,6,WSW,8,29,0,50,6,30,18,0,7
+11/1/2019,Friday,November,WN,ABQ,MDW,1625,3,8,6,2000,125,-13,1121,Albuquerque, NM,Chicago, IL,Sunny,12,1,NE,2,12,0,10,6,30,-19,0,4,Overcast,4,14,SSW,19,0,0,79,6,30,1,95,1
+7/1/2019,Monday,July,WN,MCO,BWI,630,-3,11,9,835,107,-1,787,Orlando, FL,Baltimore, MD,Sunny,27,6,WNW,8,27,0,84,6,30,24,8,7,Sunny,20,8,N,9,20,0,71,6,30,15,0,6
+5/1/2019,Wednesday,May,WN,LAS,MDW,1745,16,8,2,2315,169,-15,1521,Las Vegas, NV,Chicago, IL,Sunny,18,6,NE,7,18,0,19,6,30,-6,0,5,Cloudy,12,9,NNE,16,11,0,81,6,30,9,65,1
+5/1/2019,Wednesday,May,WN,LAS,PHX,2010,30,14,22,2115,41,42,255,Las Vegas, NV,Phoenix, AZ,Clear,21,3,ESE,3,21,0,19,6,30,-3,2,1,Clear,31,8,W,9,31,0,14,6,30,1,0,1
+8/1/2019,Thursday,August,WN,ABQ,BWI,625,3,10,2,1210,207,-3,1670,Albuquerque, NM,Baltimore, MD,Sunny,20,1,ESE,2,20,0,56,6,30,10,7,5,Moderate or heavy rain shower,30,5,ENE,6,30,0.1,58,4,30,21,9,6
+10/1/2019,Tuesday,October,WN,ABQ,BWI,740,0,12,3,1325,193,-17,1670,Albuquerque, NM,Baltimore, MD,Sunny,16,14,S,24,16,0,75,6,30,12,13,5,Sunny,29,8,S,9,29,0,59,6,30,20,18,7
+9/1/2019,Sunday,September,WN,ABQ,LAS,1420,-5,9,6,1455,71,-14,486,Albuquerque, NM,Las Vegas, NV,Sunny,26,8,SSW,11,26,0,29,6,30,6,10,7,Partly cloudy,42,10,SE,12,42,0,10,6,30,4,43,10
+1/1/2019,Tuesday,January,WN,ABQ,DAL,1930,17,28,4,2205,86,40,580,Albuquerque, NM,Dallas, TX,Patchy heavy snow,-8,6,NE,20,-14,0.1,91,3,30,-10,59,1,Cloudy,3,11,NNE,11,-2,0,66,6,30,-3,87,1
+2/1/2019,Friday,February,WN,ABQ,PHX,1930,5,10,6,2050,52,-7,328,Albuquerque, NM,Phoenix, AZ,Partly cloudy,9,3,ESE,3,10,0,37,6,30,-4,6,1,Partly cloudy,19,5,S,4,20,0,39,6,30,6,32,1
+8/1/2019,Thursday,August,WN,ABQ,PHX,1200,28,19,4,1215,52,28,328,Albuquerque, NM,Phoenix, AZ,Sunny,26,4,SSW,6,26,0,34,6,30,9,9,7,Sunny,36,2,NNW,2,36,0,38,6,30,19,21,9
+9/1/2019,Sunday,September,WN,ABQ,HOU,635,-1,7,2,940,104,-13,759,Albuquerque, NM,Houston, TX,Sunny,18,1,SSE,3,18,0,52,6,30,8,6,5,Sunny,27,2,ESE,2,27,0,81,6,30,24,6,7
+5/1/2019,Wednesday,May,WN,LAS,MDW,1110,7,11,4,1640,172,-16,1521,Las Vegas, NV,Chicago, IL,Sunny,13,12,NNE,18,11,0,24,6,30,-7,4,4,Light drizzle,13,6,ESE,11,11,0,82,1,30,10,94,3
+9/1/2019,Sunday,September,WN,ABQ,LAS,940,-1,8,4,1010,68,-11,486,Albuquerque, NM,Las Vegas, NV,Sunny,18,1,SSE,3,18,0,52,6,30,8,6,5,Sunny,33,5,SSW,11,33,0,12,6,30,-1,0,8
+6/1/2019,Saturday,June,WN,ABQ,OAK,550,5,10,5,715,120,-5,889,Albuquerque, NM,Oakland, CA,Clear,21,6,S,11,21,0,31,6,30,3,0,1,Sunny,14,2,SW,3,15,0,84,6,30,12,17,4
+12/1/2019,Sunday,December,WN,ABQ,AUS,1715,24,11,6,1955,76,17,619,Albuquerque, NM,Austin, TX,Partly cloudy,2,9,N,11,0,0,35,6,30,-12,31,2,Clear,11,7,N,10,10,0,44,6,30,-1,0,1
+9/1/2019,Sunday,September,WN,ATL,BNA,1235,-3,11,5,1245,38,-19,214,Atlanta, GA,Nashville, TN,Partly cloudy,31,9,E,11,31,0,48,6,30,19,33,8,Patchy rain possible,29,7,SW,8,29,0.1,60,5,30,21,9,6
+3/1/2019,Friday,March,WN,PIT,FLL,910,-5,11,4,1200,142,-18,994,Pittsburgh, PA,Fort Lauderdale, FL,Light freezing rain,-3,4,ENE,8,-6,0,95,3,30,-4,63,1,Sunny,26,9,E,9,26,0,61,6,30,18,4,7
+4/1/2019,Monday,April,WN,AMA,DAL,1910,-7,12,2,2020,49,-14,323,Amarillo, TX,Dallas, TX,Clear,15,10,WSW,13,15,0,26,6,30,-4,4,1,Clear,16,3,WNW,4,16,0,35,6,30,0,10,1
+3/1/2019,Friday,March,WN,PIT,MCO,1430,2,10,5,1645,130,12,834,Pittsburgh, PA,Orlando, FL,Overcast,4,6,ENE,5,2,0,82,6,30,1,100,1,Partly cloudy,28,8,SSE,6,28,0,46,6,30,15,47,7
+3/1/2019,Friday,March,WN,PIT,HOU,1100,-6,9,2,1325,175,-25,1131,Pittsburgh, PA,Houston, TX,Light freezing rain,-3,4,ENE,8,-6,0,95,3,30,-4,63,1,Overcast,12,7,NNE,6,11,0,81,6,30,8,93,3
+10/1/2019,Tuesday,October,WN,ABQ,BWI,1425,1,9,4,2015,197,-19,1670,Albuquerque, NM,Baltimore, MD,Sunny,23,13,SW,15,23,0,38,6,30,8,7,6,Partly cloudy,24,9,S,12,24,0,81,6,30,20,27,1
+2/1/2019,Friday,February,WN,ABQ,BWI,1000,-5,8,41,1535,205,34,1670,Albuquerque, NM,Baltimore, MD,Partly cloudy,-2,5,NNE,11,-4,0,60,6,30,-7,17,2,Heavy snow,-6,4,ENE,6,-8,0,59,1,30,-12,100,1
+10/1/2019,Tuesday,October,WN,ABQ,AUS,1115,6,13,4,1400,85,3,619,Albuquerque, NM,Austin, TX,Sunny,16,14,S,24,16,0,75,6,30,12,13,5,Patchy rain possible,31,11,SSE,13,31,0,57,5,30,22,14,7
+1/1/2019,Tuesday,January,WN,ABQ,DAL,1410,20,49,4,1650,77,50,580,Albuquerque, NM,Dallas, TX,Patchy heavy snow,-6,8,ESE,18,-14,0.1,81,3,30,-9,51,1,Overcast,3,13,N,13,-1,0,70,6,30,-2,94,1
+10/1/2019,Tuesday,October,WN,ABQ,DAL,940,0,14,3,1220,84,1,580,Albuquerque, NM,Dallas, TX,Sunny,16,14,S,24,16,0,75,6,30,12,13,5,Partly cloudy,31,13,S,15,31,0,55,6,30,21,53,8
+8/1/2019,Thursday,August,WN,ABQ,DAL,605,-2,9,4,845,83,-6,580,Albuquerque, NM,Dallas, TX,Sunny,20,1,ESE,2,20,0,56,6,30,10,7,5,Sunny,27,7,SSE,9,27,0,75,6,30,22,5,7
+2/1/2019,Friday,February,WN,ABQ,DAL,1750,-4,6,25,2030,79,6,580,Albuquerque, NM,Dallas, TX,Partly cloudy,10,2,NW,3,11,0,33,6,30,-5,11,4,Light rain shower,11,7,SE,7,12,0,74,5,30,7,75,1
+11/1/2019,Friday,November,WN,ABQ,OAK,600,-4,13,5,725,122,-9,889,Albuquerque, NM,Oakland, CA,Sunny,1,0,N,0,1,0,27,6,30,-16,0,2,Sunny,14,3,NE,4,14,0,39,6,30,0,0,4
+7/1/2019,Monday,July,WN,MCO,BWI,1215,3,13,4,1430,106,-9,787,Orlando, FL,Baltimore, MD,Patchy rain possible,35,9,WNW,10,35,0,42,5,30,20,21,7,Sunny,29,6,WSW,8,29,0,50,6,30,18,0,7
+7/1/2019,Monday,July,WN,MCO,BWI,1345,-6,14,9,1605,105,-18,787,Orlando, FL,Baltimore, MD,Patchy rain possible,35,9,WNW,10,35,0,42,5,30,20,21,7,Sunny,29,6,WSW,8,29,0,50,6,30,18,0,7
+5/1/2019,Wednesday,May,WN,LAS,MDW,1440,-3,13,3,2010,166,-31,1521,Las Vegas, NV,Chicago, IL,Sunny,18,6,NE,7,18,0,19,6,30,-6,0,5,Cloudy,12,9,NNE,16,11,0,81,6,30,9,65,1
+4/1/2019,Monday,April,WN,AMA,DAL,1120,16,7,7,1230,48,8,323,Amarillo, TX,Dallas, TX,Partly cloudy,3,8,S,11,0,0,53,6,30,-6,45,2,Partly cloudy,15,2,SSW,2,15,0,31,6,30,-2,31,4
+5/1/2019,Wednesday,May,WN,LAS,MDW,935,9,14,4,1505,184,1,1521,Las Vegas, NV,Chicago, IL,Sunny,13,12,NNE,18,11,0,24,6,30,-7,4,4,Light drizzle,13,6,ESE,11,11,0,82,1,30,10,94,3
+10/1/2019,Tuesday,October,WN,ABQ,DAL,2000,99,7,3,2235,83,97,580,Albuquerque, NM,Dallas, TX,Clear,24,17,SW,19,24,0,21,6,30,1,8,1,Partly cloudy,30,11,S,15,30,0,51,6,30,19,29,1
+12/1/2019,Sunday,December,WN,ALB,BWI,905,-3,7,4,1025,62,-10,289,Albany, NY,Baltimore, MD,Sunny,-8,3,ENE,5,-11,0,57,6,30,-15,21,2,Light drizzle,4,12,SSE,16,0,0,71,1,30,-1,100,1
+8/1/2019,Thursday,August,WN,ABQ,BWI,1430,4,13,5,2020,204,-4,1670,Albuquerque, NM,Baltimore, MD,Sunny,26,4,SSW,6,26,0,34,6,30,9,9,7,Moderate or heavy rain shower,26,4,ENE,6,26,0.1,70,4,30,20,7,1
+9/1/2019,Sunday,September,WN,ABQ,LAS,1855,-4,8,5,1930,73,-13,486,Albuquerque, NM,Las Vegas, NV,Patchy rain possible,25,19,E,23,25,0.1,42,5,30,11,5,1,Clear,37,15,SSW,19,37,0,14,6,30,5,10,1
+6/1/2019,Saturday,June,WN,ABQ,MDW,845,-2,9,4,1225,131,-18,1121,Albuquerque, NM,Chicago, IL,Sunny,15,6,ESE,13,15,0,61,6,30,8,5,5,Sunny,19,10,NE,18,19,0,72,6,30,14,19,5
+1/1/2019,Tuesday,January,WN,ABQ,LAS,955,-3,8,2,1025,71,-12,486,Albuquerque, NM,Las Vegas, NV,Patchy heavy snow,-5,16,SE,37,-12,0,83,3,30,-7,71,1,Sunny,-1,8,N,24,-7,0,30,6,30,-17,2,2
+7/1/2019,Monday,July,WN,MCO,ISP,1625,-5,12,4,1855,128,-11,971,Orlando, FL,Islip, NY,Patchy rain possible,35,9,WNW,10,35,0,42,5,30,20,21,7,Clear,24,7,SW,9,24,0,65,6,30,17,12,1
+12/1/2019,Sunday,December,WN,ABQ,DAL,605,-4,14,4,845,72,-14,580,Albuquerque, NM,Dallas, TX,Sunny,-2,7,N,11,-6,0,53,6,30,-10,2,2,Sunny,7,12,NW,19,3,0,43,6,30,-5,1,3
+6/1/2019,Saturday,June,WN,ATL,CMH,1935,13,10,4,2110,67,-1,447,Atlanta, GA,Columbus, OH,Clear,28,9,NW,11,28,0,47,6,30,16,17,1,Patchy rain possible,24,8,WNW,10,24,0,56,5,30,15,22,1
+2/1/2019,Friday,February,WN,ABQ,DAL,1605,40,11,4,1845,82,37,580,Albuquerque, NM,Dallas, TX,Partly cloudy,10,2,NW,3,11,0,33,6,30,-5,11,4,Light rain shower,11,7,SE,7,12,0,74,5,30,7,75,1
+11/1/2019,Friday,November,WN,ATL,BWI,830,2,13,2,1020,79,-14,577,Atlanta, GA,Baltimore, MD,Sunny,3,12,NNW,15,0,0,69,6,30,-2,0,2,Sunny,6,21,WNW,26,1,0,62,6,30,-1,0,3
+12/1/2019,Sunday,December,WN,ABQ,BWI,1200,23,12,4,1735,177,1,1670,Albuquerque, NM,Baltimore, MD,Partly cloudy,2,9,N,11,0,0,35,6,30,-12,31,2,Moderate rain,7,12,SSE,17,3,0.2,96,4,30,6,100,2
+1/1/2019,Tuesday,January,WN,ABQ,BWI,930,-2,15,4,1500,173,-20,1670,Albuquerque, NM,Baltimore, MD,Patchy heavy snow,-5,16,SE,37,-12,0,83,3,30,-7,71,1,Sunny,12,8,WNW,21,10,0,62,6,30,5,8,4
+11/1/2019,Friday,November,WN,ABQ,MDW,910,1,14,4,1250,128,-13,1121,Albuquerque, NM,Chicago, IL,Sunny,1,0,N,0,1,0,27,6,30,-16,0,2,Partly cloudy,3,12,SW,13,-2,0,71,6,30,-2,53,2
